@@ -2,15 +2,15 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **197** 条书签，最后更新：2026-11-10 16:34（Asia/Shanghai）
+共 **207** 条书签，最后更新：2026-11-11 09:01（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 60 条
-- [模型动态](#cat-1) — 33 条
-- [其他](#cat-2) — 28 条
+- [视频动效](#cat-0) — 63 条
+- [模型动态](#cat-1) — 39 条
+- [其他](#cat-2) — 29 条
 - [Agent工具](#cat-3) — 24 条
 - [起号变现](#cat-4) — 23 条
 - [开源项目](#cat-5) — 11 条
@@ -19,10 +19,16 @@
 
 <a id="cat-0"></a>
 
-## 视频动效（60）
+## 视频动效（63）
 
+- **[Fable演绎华语流行三十年风格](https://x.com/Gorden_Sun/status/2120069883597832595)** — 作者觉得Fable 5.2生成的音乐比Opus 5.5更多样，不再是千篇一律的嘟嘟声，并用它做了一支演绎1980到2010年代华语流行风格的视频。  
+  @Gorden\_Sun · 2026-11-10
+- **[Fable在Blender里做出骑车鹈鹕](https://x.com/themianoo/status/2120042064666882266)** — 作者用Fable 5.2全程不打开软件界面，写约4800行Python在Blender里生成一只骑自行车的鹈鹕，444帧在RTX 5080上渲染56分钟，光影和加速细节都做出来了。  
+  @themianoo · 2026-11-10
 - **[Fable 5.2半小时做出惊艳成片](https://x.com/AndyL5cc/status/2120000034179830230)** — 作者建议研究用Fable 5.2做视频起号，并提到有人搭配几个Opus 5.5子代理，半小时就做出了质感很强的代码生视频。  
   @AndyL5cc · 2026-11-10
+- **[用Fable做出幼儿英语启蒙片](https://x.com/linxiaobei888/status/2119978892861829227)** — 作者用Claude Fable 5.2为3到6岁孩子做了一集英语启蒙动画，句型、画风和笑点都由模型定，画面用代码逐帧渲染，认为几乎零成本，适合给孩子磨耳朵或做垂直账号。  
+  @linxiaobei888 · 2026-11-10
 - **[Omni 1.2可做15秒连贯长镜头](https://x.com/johnAGI168/status/2118563707974258861)** — 作者体验Google Flow旗舰视频模型Omni 1.2 Flash，称可生成约15秒较连贯的长镜头，并支持文生视频、首尾帧插值和风格重绘。  
   @johnAGI168 · 2026-11-06
 - **[Opus 5.5代码直出樱花微电影](https://x.com/cfenghub/status/2118491048297009640)** — 作者展示Opus 5.5用代码做出的57秒微电影《Cherry Blossoms》，不靠传统3D软件，动作交给Meshy，场景由Vite和Three.js驱动。  
@@ -144,8 +150,12 @@
 
 <a id="cat-1"></a>
 
-## 模型动态（33）
+## 模型动态（39）
 
+- **[Arena展示Fable十七个生成案例](https://x.com/arena/status/2119948067449536733)** — Arena展示了Claude Fable 5.2的17个生成案例，覆盖精细3D世界、可玩游戏、网站界面、数据可视化和用代码生成的交互动画。  
+  @arena · 2026-11-10
+- **[Fable与Mythos同步发布](https://x.com/AI_Whisper_X/status/2119940991822049533)** — 作者梳理Anthropic新发布的Claude Fable 5.2和Mythos 5.2：价格降两成、多项跑分压过Opus 5.5，并感叹国模近期少有像样更新，差距再次被拉开。  
+  @AI\_Whisper\_X · 2026-11-10
 - **[Anthropic这波是在建防盗墙](https://x.com/wangwan97978269/status/2119938515387777361)** — 帖文认为Anthropic新模型更新的重点其实是反蒸馏，官方称能把被蒸馏走的数据减少九成以上，同时对更危险的Mythos实行更严的准入审核。  
   @wangwan97978269 · 2026-11-10
 - **[DeepSeek蒸馏小模型可本地跑](https://x.com/JamesDa55049936/status/2119405646663626943)** — 有人把号称DeepSeek-V4-Pro的推理能力蒸馏进Qwen3.5-9B，约5.6GB、普通电脑可本地跑，并宣称几乎不拒绝请求；作者提醒来源仍需验证。  
@@ -154,6 +164,8 @@
   @shao\_\_meng · 2026-11-07
 - **[OpenAI发布GPT-6 Cyber](https://x.com/OpenAI/status/2118390190246879554)** — OpenAI发布面向安全研究的GPT-6 Cyber，称能力与对齐都有提升，已用于Linux内核研究，并向部分Daybreak Red客户逐步开放。  
   @OpenAI · 2026-11-06
+- **[百度发布文心5.5闪速底模](https://x.com/ai_funss/status/2118370556278108560)** — 作者提到百度发布了ERNIE 5.5 Flash Base，并吐槽它虽有280B参数，真正的对手却是27B的Qwen，而不是其他国模底模。  
+  @ai\_funss · 2026-11-05
 - **[反蒸馏正堵死国产追赶路径](https://x.com/indigox/status/2118196026959863882)** — 一篇无记名的中国LLM讨论纪要认为，反蒸馏会让蒸馏成本大幅上升，追赶窗口从几个月拉长到一年以上，最后比的还是预训练和算力。  
   @indigox · 2026-11-05
 - **[ChatGPT Images升级到2.6](https://x.com/OpenAI/status/2118124944928432327)** — OpenAI推出ChatGPT Images 2.6，新增GIF和参考图能力，并预告API还将上线两个新模型，生图速度约提升一半。  
@@ -162,8 +174,14 @@
   @bebuu\_ai · 2026-11-05
 - **[混元Hy4进入Agent Arena前列](https://x.com/arena/status/2117878267504103555)** — Agent Arena称腾讯混元Hy4目前总榜约第14，一旦开源权重将与Kimi K3.1 Pro并列开源第一，单次任务约0.55美元。  
   @arena · 2026-11-04
+- **[国模写代码强却难盲写参数](https://x.com/ohayou792/status/2117855223423348833)** — 一项不准试玩、只让模型按文字规则盲写神经网络参数打砖块的测试显示，国产开源模型写Python通关很强，但直接手写参数时平均只保住约一成功力，与顶级闭源差距明显。  
+  @ohayou792 · 2026-11-04
 - **[从评论看DeepSeek在海外的分量](https://x.com/YxzRainy/status/2117626771227251177)** — 作者配上一张截图或评论，感叹DeepSeek在海外用户心里的分量，正文没有再展开分析。  
   @YxzRainy · 2026-11-03
+- **[DeepSeek闪速版一周用量第一](https://x.com/balance0014/status/2117450796832821279)** — OpenRouter一周用量榜显示DeepSeek v4.1-flash遥遥领先，国产模型占Top10六席、用量约八成，闪速版继续压过旗舰。  
+  @balance0014 · 2026-11-03
+- **[国模两巨头同时瞄准游戏](https://x.com/xueyu1125/status/2117430963450020110)** — DeepSeek Harness推出了Creator Mode，Kimi同时发布游戏开发与创意工作方案，作者认为两家国模同一时间瞄向了游戏行业。  
+  @xueyu1125 · 2026-11-03
 - **[Mythos 5.5或将在下周登场](https://x.com/bei351009016/status/2116922587687116912)** — 作者称GPT-6.2 Astra刚推出还来不及关注，下一个传闻中的最强模型Mythos 5.5可能就要发布，觉得下周会是模型圈很热闹的一周。  
   @bei351009016 · 2026-11-01
 - **[Harness测试文件里已出现V5](https://x.com/ohayou792/status/2115721800999166246)** — 有人在官方deepseek-harness仓库的测试文件里发现deepseek-v5等三个新名字，据此判断官方已提前铺好平滑切换和强制更新路径。  
@@ -215,8 +233,10 @@
 
 <a id="cat-2"></a>
 
-## 其他（28）
+## 其他（29）
 
+- **[称这张Qwen海报是国模最佳](https://x.com/quantum_soul1/status/2119063811093328347)** — 作者称赞通义千问这张海报是国产模型里做得最好的，并顺带教用户Qwen该怎么读。  
+  @quantum\_soul1 · 2026-11-07
 - **[配图询问推友都在哪些区域](https://x.com/Qiyaqiyoo/status/2118612680923840887)** — 作者发了一张配图，调侃自己还在给房东打工，同时向推友打听现在大家都分布在哪些区域。  
   @Qiyaqiyoo · 2026-11-06
 - **[一组图看Cosplay圈近况](https://x.com/blackout_kr/status/2118262290726420622)** — 作者用一组图片展示当前Cosplay圈的近况，正文只有一句韩文说明，没有展开更多细节。  

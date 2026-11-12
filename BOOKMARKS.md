@@ -2,25 +2,29 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **207** 条书签，最后更新：2026-11-11 09:01（Asia/Shanghai）
+共 **216** 条书签，最后更新：2026-11-12 09:01（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 63 条
-- [模型动态](#cat-1) — 39 条
+- [视频动效](#cat-0) — 66 条
+- [模型动态](#cat-1) — 44 条
 - [其他](#cat-2) — 29 条
 - [Agent工具](#cat-3) — 24 条
 - [起号变现](#cat-4) — 23 条
 - [开源项目](#cat-5) — 11 条
 - [提示词创作](#cat-6) — 10 条
-- [行业观察](#cat-7) — 8 条
+- [行业观察](#cat-7) — 9 条
 
 <a id="cat-0"></a>
 
-## 视频动效（63）
+## 视频动效（66）
 
+- **[Carbon火箭实测接近Opus水平](https://x.com/QQTeng/status/2120272759465156771)** — 作者用同一套火箭场景提示词对比 Gemini 4 Carbon High、Fable 5.2、Opus 5.5 和 GPT-6 Astra，Carbon 生成花了 35 分钟，效果已接近 Opus 5.5，而且 token 成本和耗时更低。  
+  @QQTeng · 2026-11-11
+- **[澄清Fable白模与视频模型分工](https://x.com/Gorden_Sun/status/2120175259303502252)** — 作者澄清原视频上半段白模动画是 Fable 5.2 做的，下半段角色动画来自视频模型；他自己让 Fable 5.2 照做时，模型还自动调用了 Seedance 接口。  
+  @Gorden\_Sun · 2026-11-10
 - **[Fable演绎华语流行三十年风格](https://x.com/Gorden_Sun/status/2120069883597832595)** — 作者觉得Fable 5.2生成的音乐比Opus 5.5更多样，不再是千篇一律的嘟嘟声，并用它做了一支演绎1980到2010年代华语流行风格的视频。  
   @Gorden\_Sun · 2026-11-10
 - **[Fable在Blender里做出骑车鹈鹕](https://x.com/themianoo/status/2120042064666882266)** — 作者用Fable 5.2全程不打开软件界面，写约4800行Python在Blender里生成一只骑自行车的鹈鹕，444帧在RTX 5080上渲染56分钟，光影和加速细节都做出来了。  
@@ -29,6 +33,8 @@
   @AndyL5cc · 2026-11-10
 - **[用Fable做出幼儿英语启蒙片](https://x.com/linxiaobei888/status/2119978892861829227)** — 作者用Claude Fable 5.2为3到6岁孩子做了一集英语启蒙动画，句型、画风和笑点都由模型定，画面用代码逐帧渲染，认为几乎零成本，适合给孩子磨耳朵或做垂直账号。  
   @linxiaobei888 · 2026-11-10
+- **[Hydrogen闪速版两三分钟出孔雀](https://x.com/SahilPanhotra/status/2118693455442641260)** — 作者用孔雀骑自行车测试 Gemini 4 Hydrogen（即 Flash 版），两三分钟就生成完整动画，羽毛、环境和动作都相当不错，虽有物理瑕疵，但让他更期待 Hydrogen 正式发布。  
+  @SahilPanhotra · 2026-11-06
 - **[Omni 1.2可做15秒连贯长镜头](https://x.com/johnAGI168/status/2118563707974258861)** — 作者体验Google Flow旗舰视频模型Omni 1.2 Flash，称可生成约15秒较连贯的长镜头，并支持文生视频、首尾帧插值和风格重绘。  
   @johnAGI168 · 2026-11-06
 - **[Opus 5.5代码直出樱花微电影](https://x.com/cfenghub/status/2118491048297009640)** — 作者展示Opus 5.5用代码做出的57秒微电影《Cherry Blossoms》，不靠传统3D软件，动作交给Meshy，场景由Vite和Three.js驱动。  
@@ -150,8 +156,16 @@
 
 <a id="cat-1"></a>
 
-## 模型动态（39）
+## 模型动态（44）
 
+- **[Carbon用时六七小时做出V8引擎](https://x.com/ai_for_success/status/2120317619588972867)** — 作者展示 Gemini 4 Carbon 在 Antigravity 里用 FreeCAD 和 Blender 做出发动机细节很丰富的 V8 引擎，连演示视频一共花了大约六到七个小时。  
+  @ai\_for\_success · 2026-11-11
+- **[Carbon重建蜘蛛侠比Fable更细](https://x.com/aimlapi/status/2120248150011072742)** — 作者用同一段蜘蛛侠 PS5 过场，让 Gemini 4 Carbon 和 Fable 5.2 重建三维体素场景，Carbon 花了 30.95 美元，比 Fable 的 37.40 美元更便宜，城市细节也更丰富。  
+  @aimlapi · 2026-11-11
+- **[Carbon自写CUDA引擎做出三维场景](https://x.com/fofrAI/status/2120188535152222407)** — fofr 演示 Gemini 4 Carbon 今天上线后的能力：它先自己写了一个 CUDA C++ 视觉特效引擎，再用这个引擎生成了一段三维场景。  
+  @fofrAI · 2026-11-11
+- **[谷歌发布最强旗舰模型Carbon](https://x.com/GoogleAI/status/2120187753329791341)** — 谷歌宣布最强旗舰模型 Gemini 4 Carbon 上线，面向复杂长程的知识工作、软件工程、网络安全和科学推理；普通编程和知识工作仍建议用 Argon，Ultra 订阅用户和开发者可在应用与 API 中使用。  
+  @GoogleAI · 2026-11-11
 - **[Arena展示Fable十七个生成案例](https://x.com/arena/status/2119948067449536733)** — Arena展示了Claude Fable 5.2的17个生成案例，覆盖精细3D世界、可玩游戏、网站界面、数据可视化和用代码生成的交互动画。  
   @arena · 2026-11-10
 - **[Fable与Mythos同步发布](https://x.com/AI_Whisper_X/status/2119940991822049533)** — 作者梳理Anthropic新发布的Claude Fable 5.2和Mythos 5.2：价格降两成、多项跑分压过Opus 5.5，并感叹国模近期少有像样更新，差距再次被拉开。  
@@ -184,6 +198,8 @@
   @xueyu1125 · 2026-11-03
 - **[Mythos 5.5或将在下周登场](https://x.com/bei351009016/status/2116922587687116912)** — 作者称GPT-6.2 Astra刚推出还来不及关注，下一个传闻中的最强模型Mythos 5.5可能就要发布，觉得下周会是模型圈很热闹的一周。  
   @bei351009016 · 2026-11-01
+- **[Carbon编程基准分较Argon跃升](https://x.com/wenhaocha1/status/2116412830610235564)** — 作者公布 Gemini 4 Carbon 在 FrontierCS 2 上拿到 53 分 FCI、54% 通过率，短短几周就比 Argon 有明显跃升，并提到正在与 Antigravity 一起改进长程评测。  
+  @wenhaocha1 · 2026-10-31
 - **[Harness测试文件里已出现V5](https://x.com/ohayou792/status/2115721800999166246)** — 有人在官方deepseek-harness仓库的测试文件里发现deepseek-v5等三个新名字，据此判断官方已提前铺好平滑切换和强制更新路径。  
   @ohayou792 · 2026-10-29
 - **[社区拆解Claude积分封号机制](https://x.com/make_claude/status/2115501814090969583)** — 帖文转述中国社区对Claude封号机制的逆向观察，称账号按积分加减，注册IP、邮箱、支付和设备稳定性都会影响分数，低于阈值就可能被封。  
@@ -452,8 +468,10 @@
 
 <a id="cat-7"></a>
 
-## 行业观察（8）
+## 行业观察（9）
 
+- **[Mythos三天跑通AMD硬件](https://x.com/MarceloLima/status/2120295110093254832)** — 作者认为英伟达的 CUDA 护城河已经消失：Anthropic 把算力看成可互换资源，Mythos 只用三天就搞清楚如何在 AMD 硬件上运行自己。  
+  @MarceloLima · 2026-11-11
 - **[甲骨文取消对腾讯七十亿美元合作](https://x.com/ns123abc/status/2117857386610454950)** — 帖文称甲骨文刚刚取消了与腾讯价值70亿美元的AI合作，并认为这样的变化可能才刚刚开始。  
   @ns123abc · 2026-11-04
 - **[红果短剧日活已超过爱优腾芒](https://x.com/moger2882/status/2117449543289868433)** — 作者列举红果短剧的数据：日活约1.68亿，已超过爱优腾芒四家之和，人均时长和收入也很高，播放榜前十全是AI漫剧，用来说明它对长视频市场的冲击。  

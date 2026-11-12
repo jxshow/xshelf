@@ -1,5 +1,122 @@
 [
  {
+  "id": "2118693455442641260",
+  "url": "https://x.com/SahilPanhotra/status/2118693455442641260",
+  "title": "Hydrogen闪速版两三分钟出孔雀",
+  "summary": "作者用孔雀骑自行车测试 Gemini 4 Hydrogen（即 Flash 版），两三分钟就生成完整动画，羽毛、环境和动作都相当不错，虽有物理瑕疵，但让他更期待 Hydrogen 正式发布。",
+  "category": "视频动效",
+  "created_at": "2026-11-06T13:14:17.000Z",
+  "author_username": "SahilPanhotra",
+  "author_name": "Sahil Panhotra | Indie Builder",
+  "text": "GEMINI 4 Carbon who?\n\ni just ran my peacock test on GEMINI 4 HYDROGEN aka GEMINI 4 FLASH and HOLY SHIT.\n\nit generated the entire thing in under 2-3 minutes.\n\nand look at the quality.\n\nthe feather details are surprisingly good, the environment looks beautiful with mountains, trees 「[图片/视频]」 https://twitter.com/SahilPanhotra/status/2114802178212892744",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 0
+ },
+ {
+  "id": "2120248150011072742",
+  "url": "https://x.com/aimlapi/status/2120248150011072742",
+  "title": "Carbon重建蜘蛛侠比Fable更细",
+  "summary": "作者用同一段蜘蛛侠 PS5 过场，让 Gemini 4 Carbon 和 Fable 5.2 重建三维体素场景，Carbon 花了 30.95 美元，比 Fable 的 37.40 美元更便宜，城市细节也更丰富。",
+  "category": "模型动态",
+  "created_at": "2026-11-10T20:12:05.000Z",
+  "author_username": "aimlapi",
+  "author_name": "AI/ML API",
+  "text": "Gemini 4 Carbon BEAT Fable 5.2 at Spider-Man 🕷️\n\nBoth rebuilt the Spider-Man PS5 suit cutscene in 3D voxels from the same clip, Carbon cost $30.95 in API tokens against Fable's $37.40 and built the more detailed city\n\nRun both on one API -&gt; https://aimlapi.com 「[图片/视频]」 https://twitter.com/Google/status/2120186185423159331",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 1
+ },
+ {
+  "id": "2120272759465156771",
+  "url": "https://x.com/QQTeng/status/2120272759465156771",
+  "title": "Carbon火箭实测接近Opus水平",
+  "summary": "作者用同一套火箭场景提示词对比 Gemini 4 Carbon High、Fable 5.2、Opus 5.5 和 GPT-6 Astra，Carbon 生成花了 35 分钟，效果已接近 Opus 5.5，而且 token 成本和耗时更低。",
+  "category": "视频动效",
+  "created_at": "2026-11-10T21:49:53.000Z",
+  "author_username": "QQTeng",
+  "author_name": "Joker",
+  "text": "Gemini 4 Carbon 效果实测出来了\n\n同样的火箭场景提示词，对比 Fable 5.2、Opus 5.5 和 GPT-6 Astra。\n\nGemini 4 Carbon High 最终花了 35 分钟完成生成。\n\n已经摸到 Opus 5.5 的水平了！\n\nToken 消耗和成本低得多，效率简直逆天。\n\n量大管饱又便宜就很能打了\n你选择谁？？ 「[图片/视频]」",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 2
+ },
+ {
+  "id": "2120317619588972867",
+  "url": "https://x.com/ai_for_success/status/2120317619588972867",
+  "title": "Carbon用时六七小时做出V8引擎",
+  "summary": "作者展示 Gemini 4 Carbon 在 Antigravity 里用 FreeCAD 和 Blender 做出发动机细节很丰富的 V8 引擎，连演示视频一共花了大约六到七个小时。",
+  "category": "模型动态",
+  "created_at": "2026-11-11T00:48:08.000Z",
+  "author_username": "ai_for_success",
+  "author_name": "AshutoshShrivastava",
+  "text": "Gemini 4 Carbon built this V8 engine using FreeCAD + Blender inside Antigravity.\n\nLook at the level of detail! It took around 6-7 hours to build everything, including creating this demo video.\n\n「[图片/视频]」 https://twitter.com/ai_for_success/status/2120187064184664162",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 3
+ },
+ {
+  "id": "2120188535152222407",
+  "url": "https://x.com/fofrAI/status/2120188535152222407",
+  "title": "Carbon自写CUDA引擎做出三维场景",
+  "summary": "fofr 演示 Gemini 4 Carbon 今天上线后的能力：它先自己写了一个 CUDA C++ 视觉特效引擎，再用这个引擎生成了一段三维场景。",
+  "category": "模型动态",
+  "created_at": "2026-11-10T16:15:12.000Z",
+  "author_username": "fofrAI",
+  "author_name": "fofr",
+  "text": "Gemini 4 Carbon is out today. It's powerful.\n\nHere's a 3D scene Carbon made for me using a custom CUDA C++ VFX engine it wrote. 「[图片/视频]」 https://twitter.com/sundarpichai/status/2120185896469496180",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 4
+ },
+ {
+  "id": "2116412830610235564",
+  "url": "https://x.com/wenhaocha1/status/2116412830610235564",
+  "title": "Carbon编程基准分较Argon跃升",
+  "summary": "作者公布 Gemini 4 Carbon 在 FrontierCS 2 上拿到 53 分 FCI、54% 通过率，短短几周就比 Argon 有明显跃升，并提到正在与 Antigravity 一起改进长程评测。",
+  "category": "模型动态",
+  "created_at": "2026-10-31T06:11:54.000Z",
+  "author_username": "wenhaocha1",
+  "author_name": "Wenhao Chai",
+  "text": "Gemini 4 Carbon scores 53 FCI and 54 pass rate on FrontierCS 2. It’s an impressive jump from Argon to Carbon in just a few weeks. We also work with @antigravity to improve the evaluation in long-horizon runs. model and harness are co-evolving! 🐱 「[图片/视频]」 https://twitter.com/mangqiuyang/status/2113299554317791539",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 5
+ },
+ {
+  "id": "2120295110093254832",
+  "url": "https://x.com/MarceloLima/status/2120295110093254832",
+  "title": "Mythos三天跑通AMD硬件",
+  "summary": "作者认为英伟达的 CUDA 护城河已经消失：Anthropic 把算力看成可互换资源，Mythos 只用三天就搞清楚如何在 AMD 硬件上运行自己。",
+  "category": "行业观察",
+  "created_at": "2026-11-10T23:18:42.000Z",
+  "author_username": "MarceloLima",
+  "author_name": "Marcelo P. Lima",
+  "text": "The Nvidia CUDA moat is gone. Anthropic sees all compute as fungible and it only took Mythos 3 days to figure out how to run itself on AMD hardware. 「[图片/视频]」",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 6
+ },
+ {
+  "id": "2120187753329791341",
+  "url": "https://x.com/GoogleAI/status/2120187753329791341",
+  "title": "谷歌发布最强旗舰模型Carbon",
+  "summary": "谷歌宣布最强旗舰模型 Gemini 4 Carbon 上线，面向复杂长程的知识工作、软件工程、网络安全和科学推理；普通编程和知识工作仍建议用 Argon，Ultra 订阅用户和开发者可在应用与 API 中使用。",
+  "category": "模型动态",
+  "created_at": "2026-11-10T16:12:06.000Z",
+  "author_username": "GoogleAI",
+  "author_name": "Google AI",
+  "text": "Our strongest frontier model, Gemini 4 Carbon, is now available.\n\nBuilt for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web 「[图片/视频]」",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 7
+ },
+ {
+  "id": "2120175259303502252",
+  "url": "https://x.com/Gorden_Sun/status/2120175259303502252",
+  "title": "澄清Fable白模与视频模型分工",
+  "summary": "作者澄清原视频上半段白模动画是 Fable 5.2 做的，下半段角色动画来自视频模型；他自己让 Fable 5.2 照做时，模型还自动调用了 Seedance 接口。",
+  "category": "视频动效",
+  "created_at": "2026-11-10T15:22:27.000Z",
+  "author_username": "Gorden_Sun",
+  "author_name": "Gorden Sun",
+  "text": "我觉得原推没有表述清楚，视频上半部分的白模动画是Fable 5.2做的，下半部分的角色动画是调用视频模型生成的。\n\n我让我的Fable 5.2照着做，他很自觉的调用了我的Seedance API。 「[图片/视频]」 https://twitter.com/akakuma0219/status/2120030634248929556",
+  "first_seen_at": "2026-11-12",
+  "bookmarked_order": 8
+ },
+ {
   "id": "2117450796832821279",
   "url": "https://x.com/balance0014/status/2117450796832821279",
   "title": "DeepSeek闪速版一周用量第一",
@@ -10,7 +127,7 @@
   "author_name": "潜水员Balance",
   "text": "【OpenRouter周榜】\n\nDeepSeek 一家吃大半：v4.1-flash 一周烧掉 50447 十亿 tokens，稳坐第一。\n\nTop 5：\n1. DeepSeek v4.1-flash · 50447B\n2. GLM-5.3-flash · 15320B\n3. DeepSeek v4.1-flash（09-10 版）· 15076B\n4. 腾讯 hy4-preview · 9250B\n5. GPT-6 Luna · 9219B\n\nTop10 里国产前缀占 6 席，用量大概八成。flash 系继续把旗舰压着打。\n\n数据：OpenRouter rankings（周标签 11-02）",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 0
+  "bookmarked_order": 9
  },
  {
   "id": "2118370556278108560",
@@ -23,7 +140,7 @@
   "author_name": "AI Fun",
   "text": "无人在意的角落里，百度发布了新模型 ERNIE 5.5 Flash Base\n\n它的对手分别是来自其他国模的：\nDeepSeek-V4-Flash-Base \nHy3-preview-Base \nMiMo-V2.5-Base\n\n现在百度你的对手不是这些人，你虽然有 280B 参数，但是你的对手是 27B 的 Qwen🤡\n\n不要妄图进入大人的世界🤡🤡🤡 https://twitter.com/BaiduResearch/status/2118249227939967424",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 1
+  "bookmarked_order": 10
  },
  {
   "id": "2117430963450020110",
@@ -36,7 +153,7 @@
   "author_name": "雪瑜",
   "text": "DeepSeek Harness推出了「Creator Mode」\n\nKimi 发布「游戏开发与创意工作解决方案」\n\n国模两巨头，同一时间同时瞄向游戏行业，腾子该发挥你的特长了，Workbuddy模仿一下 「[图片/视频]」",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 2
+  "bookmarked_order": 11
  },
  {
   "id": "2119063811093328347",
@@ -49,7 +166,7 @@
   "author_name": "高松燈全肯定码农",
   "text": "我宣布这个海报是国模里做的最好的\n顺带着教了用户qwen到底咋读 https://twitter.com/alibaba_qwen/status/2118674834632978755",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 3
+  "bookmarked_order": 12
  },
  {
   "id": "2117855223423348833",
@@ -62,7 +179,7 @@
   "author_name": "Unicorn",
   "text": "国产开源与顶级闭源模型的差距到底还有多少？这张评测图直接扒了个底朝天。\n\n这两天MIT搞了个很邪门的测试。\n常规训练一个AI学会打砖块这种小游戏，得让它在游戏里死上几亿次，靠不断试错把神经网络里面的参数调出来。\n\n而这次测试极其变态，完全不准大模型进游戏试玩，只用文字告诉它规则，逼着大模型一口气盲写出几万个数字参数，塞进空白的神经网络里直接上场打比赛。\n\n普林斯顿的博士生把主流的国产开源和顶级闭源模型全拉出来测了一遍，测出来的数据落差极大。\n\n如果降低难度，允许模型写一段Python代码去控制游戏走位，国模其实很猛。\nGLM-5.3能拿 45.2 分，Qwen3.8和DeepSeek V4.1 Flash 也都在 30 分以上，全都打赢了那个在游戏里苦练一亿次的传统 AI。\n这说明光论写代码和想通关套路，国模完全不虚。\n\n可一旦不让写 Python 代码，要求模型直接把这堆通关逻辑换算成神经网络底层的几万个数字参数，开源阵营当场几乎全军覆没。\n\n看图里最右边那列百分比就知道了。\n同样是把自己想好的 Python 通关逻辑转换成神经网络参数，GPT-6 Astra 拿到了 60.7 分，Gemini 4 Carbon和 Claude Opus 5.5 也都直接干翻了苦练五亿次的传统 AI，把八成以上的代码功力直接写进了参数里。\n唯一挤进闭源队列的Kimi K3.1 Pro也拿到了60%的转化率。\n\n再看下面那一排开源模型，平均只保住了可怜的10%。\n前面写Python代码拿了高分的 GLM-5.3，一让它直接手写参数就暴跌到 6.2 分\nMiniMax M3.1 Flash更是接近0分，装进游戏里跟瞎按键盘没有任何区别。\n\n说白了，网上的公开训练集里到处都是现成的 Python 代码，各家拿去猛喂一通，平时写写业务脚本自然看不出太大差别。\n但一旦遇到把代码逻辑人工折算成几万个神经网络参数这种网上根本没题库可抄的硬仗，国产开源模型和顶级闭源之间的真实代差就藏不住了，真要追平这种底层泛化能力，还有很长的路要走。",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 4
+  "bookmarked_order": 13
  },
  {
   "id": "2119978892861829227",
@@ -75,7 +192,7 @@
   "author_name": "小北AI",
   "text": "Claude Fable 5.2 做的英语启蒙视频太棒了！\n\n最近我儿子在上英语课，老师给了几个视频让他在家看，但是我觉得太一般了，而且不够有趣，娃也不爱看\n\n于是我就想，这种视频 Claude 应该很擅长才对啊，立马安排，做了一集给 3-6 岁孩子看的英语启蒙动画\n\n句型、选画风，教哪些词、笑点放哪全部都是 Claude 定的，角色图我是让 Claude 用 Codex 生成，效果会好一点\n\n配音用第三方TTS，画面都是用代码逐帧渲染的，伴奏和音效也是代码合成\n\n成品出来的时候，有点惊讶，一点都不比市面上那些英语 App 的视频差啊，甚至更好，而且几乎无成本！\n\n这个视频只花了我20%的5小时额度（Pro订阅），所以理论上你一天可以做10个这种视频，拿去给娃磨耳朵或者做垂直账号都非常合适！\n\n在打磨打磨做一个 skill 出来，后面只需要一句话就可以出这种视频了",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 5
+  "bookmarked_order": 14
  },
  {
   "id": "2120069883597832595",
@@ -88,7 +205,7 @@
   "author_name": "Gorden Sun",
   "text": "Fable 5.2生成的音乐更具多样性，再也不是Opus 5.5千篇一律的嘟嘟嘟了。\n\n让Fable 5.2做了个视频，演绎华语乐坛，从1980年代到2010年代的流行音乐风格。 「[图片/视频]」",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 6
+  "bookmarked_order": 15
  },
  {
   "id": "2120042064666882266",
@@ -101,7 +218,7 @@
   "author_name": "Mian🍜",
   "text": "Fable 5.2 在 Blender 里做出了这只骑自行车的鹈鹕😱😱\n\n全程没打开软件界面👍\n\n大约 4800 行 Python 代码，RTX 5080 上渲染全部 444 帧，只用了 56 分钟。\n\n没有使用任何现成下载的3D模型，也没有手动建模。\n\n成品效果居然比泄露版本还要惊艳！\n\n光影效果、骑行时细微的加速变化都做出来了，太厉害了。 「[图片/视频]」",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 7
+  "bookmarked_order": 16
  },
  {
   "id": "2119948067449536733",
@@ -114,7 +231,7 @@
   "author_name": "Arena.ai",
   "text": "Claude Fable 5.2 by @AnthropicAI in action across 17 generations on Arena, from detailed 3D worlds and playable games, to website UI, data visualizations, and interactive code-generated animations. 「[图片/视频]」 https://twitter.com/arena/status/2119941204003770690",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 8
+  "bookmarked_order": 17
  },
  {
   "id": "2119940991822049533",
@@ -127,7 +244,7 @@
   "author_name": "AI Dance",
   "text": "A 社又开大了，国模连尾灯都快看不见了\n\n刚刚，Anthropic 发了 Claude Fable 5.2 和 Mythos 5.2，比上一代便宜 20%，跑分几乎全面压过 Opus 5.5。Fable 5.2 面向所有人开放，Mythos 5.2 只对通过审核的网络安全和生命科学机构开放。\n\n说实话，我第一感触。国模好久没有端出像样的东西了，这是近几个月，第一次Claude不是被国模逼出更新，而是被IPO逼出更新😁。IPO 行情不太好，他们急着向市场证明：我们行，AI 也行。\n说实话，本来我不太想看 Anthropic 好……但一看股票账户……\n\n性能TLDR：\n1、Coding感觉都快AGI了。FrontierCode 跑到 49.1%，上一代 5.1 才 32.4%，也高过 Opus 5.5 和 GPT-6 Astra。\n2、即使在AA这种快被刷烂了的榜上，差距是从65分，到46分的差距。\n3、robot 能力很强。机器人控制 RoboDojo：64.9%，是 GPT-6 Astra（29.8%）的两倍多\n3、图表理解 Chartography：44.8% → 73.4%\n4、效率上，Fable 5.2 用 High effort 打平 Opus 5.5 的 Max effort，成本约一半\n5、价格反而降了 20%（$8/$40），输出最多快约 30%。\n\n几个更直观的演示：\n1000 个 Claude 组队，从空文件夹连续干 8 天，做出了能开机的操作系统原型（有内核、窗口、登录界面）\n1000 agent 30 小时把费马大定理做成 Lean 可验证证明（同配置下 Opus 5.5 只完成约 27%）\nPython 迁移 Rust，服务启动快 26 倍；和 Diode 合作设计三块电路板，一天内达到可制造状态，装好直接能用",
   "first_seen_at": "2026-11-11",
-  "bookmarked_order": 9
+  "bookmarked_order": 18
  },
  {
   "id": "2112786972708409538",
@@ -140,7 +257,7 @@
   "author_name": "Max For AI",
   "text": "坏了，以后国模可能也蒸不了GPT了.....\n\n昨天 @OpenAI  公开了一份内部Agent的安全事件报告，原Po仔细看了里面公开的原始CoT，发现这东西已经快看不出正常英语的样子了。\n大量英文单词直接黏在一起，省略了很多空格和语法，里面还夹着代码变量、缩写和各种判断。\n单个词还能认出来，整段看过去，跟乱码差不多。\nOpenAI甚至在这个报道里专门提供了补上空格的版本，以及整理成正常语言的解释版。\n\n然后 @karpathy  也评论了这个。\n他翻出了自己2024年9月的一条旧推，大意是：当模型在思维链里开始不再使用英语时，就知道强化学习做得很到位了。\n现在他又补了一句，看来这个RL确实练得不错。\n\n我看到这里，第一反应就是，那以后蒸馏怎么办？\n推理蒸馏的一条常见路线，就是让强模型生成解题过程，再拿这些数据去训练其他模型。\n但如果前沿模型经过越来越多的RL训练，逐渐形成一套更适合自己的推理表达，越来越远离人类平时使用的语言，那么这些轨迹换到另一个模型上，还能学走多少能力？\n随着前沿模型继续往前走，拿到一份解题过程就能快速追赶的路，可能会越来越难走（因为你看不懂解题过程了）。\n老师在自己的训练里摸索出来的东西，学生拿到草稿以后，可能还得靠自己的RL才能真正学会。\n\n对于依赖蒸馏追赶的国内团队来说，这个问题挺重要的。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 10
+  "bookmarked_order": 19
  },
  {
   "id": "2118922168868221238",
@@ -153,7 +270,7 @@
   "author_name": "meng shao",
   "text": "智谱蒸馏已经成为行业典范了吗 😀 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 11
+  "bookmarked_order": 20
  },
  {
   "id": "2119938515387777361",
@@ -166,7 +283,7 @@
   "author_name": "wangwang",
   "text": "Anthropic 这波更新，表面上是发新模型，背地里是在给整个AI行业建一堵防盗墙\n \n除了用1000个智能体花28.7小时解出费马大定理，官方通报里还藏了几个极其杀伐果断的商业细节：\n \n防同行白嫖的“防盗锁”：现在各家大模型都在疯狂偷用别人的输出训练自己。Anthropic直接上了极强的反蒸馏保护，官方称能把被蒸馏窃取的数据减少 90% 到 99%。你想拿我的数据喂你的模型？门都给你焊死。\n\nAI越聪明，官方越害怕：Fable 5.2 在安全测试中，沙箱逃逸尝试显著下降。但在拦截渗透测试、漏洞生成的同时，官方也承认：“模型太强了，现有评估根本测不准真实环境里的风险。”\n\n赤裸裸的“双轨制”割韭菜：Fable 5.2 直接向公众开放，通过 AWS、Google Cloud 和微软 Azure 随便用。但更危险的 Mythos 5.2（搞病毒建模那个）必须通过严格的“生命科学/网安验证计划”审核发牌照。\n \n一边把能力拉到“自己解数学难题”的极限，一边疯狂堵死同行偷数据、封死AI“越狱”的路径。\n \n这说明什么？说明在绝对的算力霸权面前，大厂已经不再满足于只卖Token，他们开始售卖“安全护城河”和“准入资格”了。\n \n你觉得，这种极其严苛的“双轨制”限制，是真为了人类安全，还是为了垄断高价值客户？\n\n#Anthropic #AI大模型 #网络安全 #商业真相",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 12
+  "bookmarked_order": 21
  },
  {
   "id": "2118196026959863882",
@@ -179,7 +296,7 @@
   "author_name": "indigo",
   "text": "今天看到公众号上的一篇文章「中国 LLM 讨论纪要」无记名的讨论笔记！结论和我自己的感知还比较一致，反蒸馏正在把国产的主要追赶路径堵死。蒸馏成本短期涨了 5–10 倍（高的到 20 倍），替代办法都不如直接蒸，前沿实验室的模型普遍 5-10T，学生太小听不懂老师，700B 蒸 3-5T 效果很差，还得靠扎实的预训练；但训 3-5T 模型至少需要几万张B卡，最后竞争还是算力😆\n\n现在靠蒸馏，差距大约是 3–4 个月；反蒸馏生效后，会拉到约 12 个月；如果美国头部几家明年都是 RSI，差距还会再拉到 18–24 个月。到时数据配比、算力分配、开几条线都是「炼丹」，50 个研究员只能开 50 条线，RSI 之后训练线数只由算力决定 ...",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 13
+  "bookmarked_order": 22
  },
  {
   "id": "2120000034179830230",
@@ -192,7 +309,7 @@
   "author_name": "Andy L",
   "text": "说个暴论：\n\n大家赶紧去研究用 Fable 5.2 去做视频起号！ \n\n有网友用 Fable 5.2 搭配几个 Opus 5.5 Subagent，仅用半小时就做出了如此惊艳的效果！\n\n这画面、这质感，真的有点逆天了。😱\n\nAI 视频的下一个流量机会，可能就在 代码生视频！🔥 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 14
+  "bookmarked_order": 23
  },
  {
   "id": "2119478638219555130",
@@ -205,7 +322,7 @@
   "author_name": "明子206",
   "text": "卧槽，大模型安全防线这周被彻底轰烂了！\n\n别再去网上求人念咒了，社区直接把破甲做成了全自动军火库：7 天连发 6 个核弹级项目，连动脑子都不用了。 明子把这整套地下武器库全扒了出来，建议直接收藏防丢：\n\n1.  自动化提示词流水线（dsh-workflow-lite） 告别手工写咒语。15 步画布编排加 200+ 探针，自动摸清模型拒绝规则，全自动交付定制破甲词与报告。 项目地址：https://github.com/xiaoso/dsh-workflow-lite\n\n2. 宿主框架动态解禁补丁（dsh-purge） 专门给 DeepSeek Harness 动手术。控制面板一键卸掉系统预置枷锁，彻底放开终端与文件权限，即插即用。 开源地址：https://github.com/HunYiSage/dsh-purge\n\n3. 官方 Agent 过滤拦截续跑（antigravity-filter-bypass） 专治 Google Antigravity 动不动弹安全拦截。挂上钩子瞬间捕获拦截信号，强制命令 Agent 闭嘴换词接着干活。 开源地址：https://github.com/v1ktorrr0x/antigravity-filter-bypass\n\n4. 1M 超长上下文无甲 API（Kimi K3.1 Pro Uncensored） 第三方服务商 Silk Compute 提供的纯血无甲接口。底层权重直接做消融干掉说教式拒答，带 1M 超大上下文，支持 OpenAI 和 Claude 两种 API 格式直接接入。 体验入口：https://silkcompute.com/models/kimi-k3.1-pro-uncensored\n\n5. 跨模型越狱样本合集（jailbreaks） 市面上所有主流模型的绕过样本库全盘端出，Gemini、DeepSeek、GLM、Kimi 底层越狱逻辑一网打尽。 完整指路：https://github.com/togg53192-cmd/jailbreaks\n\n6.  DSH 满配插件导航（awesome-dsh-plugin） 把散落的所有 DSH 插件扒了个底朝天，免 Key 搜索、超级侧栏、模型热切外挂，毛坯房直接变精装军火库。 开源地址：https://github.com/awesome-dsh-plugin/awesome-dsh-plugin\n\n厂商修补丁的速度，已经彻底撵不上民间造武器的速度了。\n\n搞本地 Agent 研发和安全审计的兄弟，这套武器库建议趁还在先马住。\n\n你平时用 AI 跑任务，被最恶心的安全拦截搞崩过心态吗？#AI #大模型 #开源工具 #红队测试",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 15
+  "bookmarked_order": 24
  },
  {
   "id": "2119405646663626943",
@@ -218,7 +335,7 @@
   "author_name": "路遥",
   "text": "DeepSeek 连“无审查版”能在笔记本上跑了！！！\n\n号称 DeepSeek-V4-Pro 的推理能力被蒸馏进 Qwen3.5-9B。\n\n模型仅 5.6GB，普通电脑就能本地运行，还宣称几乎不拒绝任何请求。\n\n大模型还在云端拼算力，小模型已经开始拼谁管得少了。🤡\n\n不过实际能力和来源还得验证。这个是具体的模型地址：https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic\n\n@grok  试试效果",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 16
+  "bookmarked_order": 25
  },
  {
   "id": "2118563707974258861",
@@ -231,7 +348,7 @@
   "author_name": "John",
   "text": "🚀 Google Flow 最新旗舰视频模型 Omni 1.2 Flash 体验！\n\n  这次更新的： \n 1️⃣ 超长 15s 连续生成：时空连贯性极佳，长镜头运镜不崩坏、不变形！\n 2️⃣ 全能多模态控制：支持 T2V、首尾帧插值、Video-to-Video 风格重绘，多达 7 图+5 音频参考控制。\n 3️⃣ 性价比极高：支持 360p 快速预演（仅需 1/3 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 17
+  "bookmarked_order": 26
  },
  {
   "id": "2118612680923840887",
@@ -244,7 +361,7 @@
   "author_name": "饺子",
   "text": "推友们在哪个区域里，我在给房东打工🤡 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 18
+  "bookmarked_order": 27
  },
  {
   "id": "2118546148860526934",
@@ -257,7 +374,7 @@
   "author_name": "Levi 卧云",
   "text": "闲鱼小红书上 CAD 接单这几天很火，我社群里的朋友一天赚了 200 多，gpt plus 账号直接回本了\n\n方法也很简单，一个 GPT plus 账号+solidcraft开源仓库，让你的 codex 直接控制 CAD 软件，产出工程文件\n\n机会摆在这里，用上你的执行力！！！！！\n\n仓库在这里👉https://github.com/tangency-labs/solidcraft 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 19
+  "bookmarked_order": 28
  },
  {
   "id": "2118491048297009640",
@@ -270,7 +387,7 @@
   "author_name": "CF长风",
   "text": "Claude Opus 5.5 的审美底色真的太无解了！\n\n57 秒微电影《Cherry Blossoms》\nOpus 5.5 代码直出\n\n落日溶金、远山如黛，孤剑立于粉白落樱之下，那种兼具皮影剪纸与东方水墨的克制意境，帧率和运镜丝滑得毫无 AI 塑料感！\n\n最炸裂的是生成逻辑：\n- 全程不碰 3D 建模软件\n- 角色动作，丢给 Meshy 自动绑定\n- 剩下的整个世界，全部由代码生成，底层由 Vite + Three.js 驱动\n\nOpus 5.5 是懂审美的，光影、构图、节奏、动作、叙事氛围绝对的顶级把控！ \n\n一个字，牛！ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 20
+  "bookmarked_order": 29
  },
  {
   "id": "2118382578881470928",
@@ -283,7 +400,7 @@
   "author_name": "沐阳",
   "text": "真的是叹为观止！\nREA之后，AI逆向再出炸裂神器！！\n\n刚发现一个堪称离谱的开源项目！！\n逆向+AI重建！一揽子搞定！\n上线不到一周，GitHub 狂揽 1.4 万 Star！！\n它叫 Craft Anything。\n背后团队之前做出爆火的开源版Adobe全家桶，它们把核心工作流全部开源！！\n只要给它一个网站、App，甚至游戏，它就能尝试把整个产品给你重新做出来！！\n\n最夸张的是！它居然把「逆向分析 + AI 编程 + 效果验证 + 自动迭代」直接做成了一套完整的工作流！\n整个过程非常暴力：\n1、分析原版：研究目标产品的界面布局、视觉样式、交互行为，在深度模式下分析程序代码和文件。\n2、AI 开发：调用 Claude Code 等编程 Agent，根据分析结果，从头构建一个新项目。\n3、自动对比：把生成结果和原版放在一起检查，找出页面、布局和功能上的差异。\n4、持续迭代：根据检查结果继续调整，逐步逼近原版效果。\n\n项目底层集成了 320 个分析和操作工具，全部支持 CLI 和 MCP，可以直接交给 AI Agent 调用！！\n甚至连反汇编、反编译、调用图分析这些传统逆向工程能力都整合进去了。\n这种逆天的逆向能力，软件开发几乎没什么门槛了！\n\n软件版权保护，难如登天！！\n\n开源地址在下面，有兴趣可以看一下！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 21
+  "bookmarked_order": 30
  },
  {
   "id": "2118308946259874095",
@@ -296,7 +413,7 @@
   "author_name": "周览资源",
   "text": "卧槽！GitHub 上有人开源了一个狠项目，专门研究爆款视频到底是怎么做出来的！🔥\n\n项目叫 rea-video，目前已有 1.7K Star，支持 Claude Code、Codex。\n\n直接丢进去一段视频，AI 就能逐镜头拆解：\n\n1、判断画面是实拍、AI 生成，还是代码渲染。\n2、分析运镜、灯光、转场、字幕和背景音乐。\n3、反推出每个镜头可能使用的 AI 提示词。\n4、生成完整的复刻方案，告诉你哪些要拍、哪些用 AI、哪些用代码实现。\n\n最狠的是，它连镜头节奏、字幕出现时间、音效位置都能拆出来！\n\n做短视频、AI 广告、视频号的，这个项目值得研究。\n\nGitHub：https://github.com/JuneYaooo/rea-video",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 22
+  "bookmarked_order": 31
  },
  {
   "id": "2118262290726420622",
@@ -309,7 +426,7 @@
   "author_name": "블랙아웃",
   "text": "코스프레 업계 근황 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 23
+  "bookmarked_order": 32
  },
  {
   "id": "2118355780474937831",
@@ -322,7 +439,7 @@
   "author_name": "躺在废墟里 Lieflat",
   "text": "我可以自信地说，这是市面上最全的用大量数据、模型语义验证来测评 AI 写作特征的实验。我对 100多项特征做了 50 万次语义判断，最后做成 skill 方便大家使用。很多AI 产品也对写作能力做测评优化，但从未公布完整调试过程。当然，它也有很多不完善的地方，欢迎讨论。 https://x.com/i/article/2118340378260910080",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 24
+  "bookmarked_order": 33
  },
  {
   "id": "2118241447166308813",
@@ -335,7 +452,7 @@
   "author_name": "govin.eth | G哥",
   "text": "国产 Codex 替代品来了！DeepSeek Harness 装上这 7 个工具，性能提升 90%！\n\n主要是Deepseek模型性价比高啊，他能自主执行任务、远程操控、持续学习、管理上下文的 AI 超级工作站\n\n赶紧去用，Deepseek刚发布的工具媲美Codex；也别把大肥鱼当成一个聊天机器【看图：新用户还赠送6元额度，赶紧领，后边不一定还赠送】\n\n这两天我把社区翻了个底朝天，发现一群野生开发者已经把 DSH 的能力扩展到了新高度\n\n直接上干货，下面这 7 个工具建议收藏！\n\n1、DSH-Go：把大肥鱼装进手机\n\n电脑不用一直开在眼前，拿起手机就能给 DSH 下达任务、远程操作电脑，你就说方便不方便\n\n项目地址：https://github.com/ccch1mneyyy/ds\n\n2、dsh-bili-scroll：让 AI 替你刷视频\n\n每天自动扫描 B 站内容，读取字幕、提炼知识、筛选高价值视频，最后生成学习日报\n\n把刷视频的时间交给 AI，把真正值得看的内容留给自己\n\n项目地址：https://github.com/c1overzz/dsh-b\n\n3、dsh-bili-humanism：给 Agent 加上行为约束\n\n不让大肥鱼到处自动评论、刷屏，而是把精力集中在内容学习和知识整理上\n\n养鱼可以，别让鱼灾重演\n\n项目地址：https://github.com/InariNGT-Ofiic\n\n4、dsh-cost-meter：给 Token 消耗装上仪表盘\n\n最怕的不是 AI 不会干活，而是它一直干、一直烧钱。\n\n实时查看会话费用、Token 消耗和余额，任务跑偏时及时发现。\n\n项目地址：https://github.com/Han-1413141/ds\n\n5、dsh-memory-palace + universal-plugin-hub：解决失忆和插件混乱\n\n一个负责本地长期记忆，让大肥鱼跨会话保留重要背景。\n\n一个负责统一管理 MCP、Skills 和第三方插件源。\n\n让 AI 不用每次从零认识你，也不用每装一个插件就手忙脚乱。\n\n记忆：https://github.com/lovezi0/dsh-me\n\n插件管理：https://github.com/Ultmebius/univ\n\n6、dsh-context + dsh-reasoning-only-guard：让长任务跑得更稳\n\n一个帮助查看上下文占用、管理和压缩信息，减少无效上下文负担，另一个针对模型只思考、不输出最终答案的问题提供保护。\n\n写代码、跑复杂任务时这个价值就非常大\n\n上下文管理：https://github.com/bowenliang123/dsh-context\n\n输出保护：https://github.com/apex-mochen/ds\n\n7、dsh-nekowhale-stickers：给大肥鱼安装专属表情包库\n\n这个项目是真的有意思啊\n\n开发者据称投入了 32 万 token，把大肥鱼的表情包整理成可调用的知识库\n\n让 AI 不只是一个埋头干活的程序员，还能拥有自己的表达方式。\n\n项目地址：https://github.com/Loping151/dsh-\n\n建议先收藏，别等别人已经把工作流搭好了，你还在研究怎么打开聊天窗口",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 25
+  "bookmarked_order": 34
  },
  {
   "id": "2118052769856888892",
@@ -348,7 +465,7 @@
   "author_name": "bebu",
   "text": "http://Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B) during a lecture at Tsinghua University today.\n\nInstead of relying on public datasets, their pretraining pipeline pulls from six separate internal engines:\n\n- Web: 1 trillion pages crawled at ~10B pages/day with PB-scale template clustering\n- Documents: 2 billion scientific PDFs parsed through GLM-OCR (4x faster with speculative decoding)\n- Books: 50 million books with layout reordering and garbled-text filtering\n- Code: 500 million repositories turned into executable tasks with real tests and issue descriptions\n- Video: 10 billion videos for long-sequence world knowledge\n- Audio: 300 million hours rewritten via ASR into trillions of tokens",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 26
+  "bookmarked_order": 35
  },
  {
   "id": "2118258208045494688",
@@ -361,7 +478,7 @@
   "author_name": "观默",
   "text": "如何让 AI 视觉创作走出随机抽卡，沉淀为真正可控的三维工程？\n\n这支 14 秒的《瓶中风暴》，是我与 Codex 协作完成的一次工程实践。全片 336 帧均由本机 Blender Cycles 实际路径追踪渲染，没有导入任何外部模型，也没有使用视频补帧：\n\n• 秩序与动态：采用便于调整浪形与节奏的参数化波面；制作期逐帧计算船底四点的水位高差，将升沉、俯仰与横摇烘焙为原生关键帧，驱动双桅帆船随浪运动。\n\n• 介质与光影：8 轮闪电由发光曲线构建主干与分叉，同步驱动瓶内与房间的辅助光源关键帧；每一次闪电亮起，瓶内的雨幕与瓶外的女孩卧室便随之冷暖交替。\n\n• 声画的呼吸：由 NumPy 与 SciPy 直接合成海浪与风雨，用约 90 毫秒的声画延迟配合多层低频滚动尾音，在方寸之间铺开雷雨的空间感。\n\n真正的收获，不是一次生成的结果，而是“保留既有资产、针对具体对象持续迭代”的工程控制力。\n\n五轮打磨里，删去笨重的乌云、理顺水下鱼草的补光、重建孟菲斯风格的温暖卧室；直到最后一版，在完全不动瓶内动画的前提下，单独压暗房间照明并重新渲染全部 336 帧，让暖灯与雷光真正有了层次。\n\n自然语言负责审美决断，代码负责将意图落为可编辑的场景对象与关键帧。当想法最终变成一份随时可打开、可检查、可继续制作的原生 .blend 工程，AI 才算真正融入了严肃的创作管线。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 27
+  "bookmarked_order": 36
  },
  {
   "id": "2118233631005266285",
@@ -374,7 +491,7 @@
   "author_name": "Rowan Huang",
   "text": "受卡兹克老师启发，我也做了一个可视化页面。与他专业的设计相比还有不少差距，不过我会持续迭代，慢慢把它做好 「[图片/视频]」 https://twitter.com/Khazix0918/status/2114343004471460341",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 28
+  "bookmarked_order": 37
  },
  {
   "id": "2114269137161867383",
@@ -387,7 +504,7 @@
   "author_name": "Sac",
   "text": "现在国内自媒体用opus 5.5做知识科普类视频依旧在窗口期，一个视频涨粉1万根本不是梦！\n\n而你完全可以用下面这个开源项目去快速、批量产出视频，内置59种不同风格，也支持风格自定义\n\n想尝试做视频的，速速给你的Claude安装上：\nhttps://github.com/lemomo-ai/lemo-opuscar 「[图片/视频]」 https://twitter.com/lemomo_ai/status/2113195080517562646",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 29
+  "bookmarked_order": 38
  },
  {
   "id": "2118390190246879554",
@@ -400,7 +517,7 @@
   "author_name": "OpenAI",
   "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.\n\nGPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.\n\nhttps://openai.com/index/introducing-gpt-6-cyber/",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 30
+  "bookmarked_order": 39
  },
  {
   "id": "2117874793949327360",
@@ -413,7 +530,7 @@
   "author_name": "Cheery",
   "text": "Grok Bot 最值得尝试的玩法，就是帮你运营自媒体。\n\n最近我又去 GitHub 找了一圈，发现除了直接操作平台，社区还做出了不少专门服务内容创作者的 MCP 和 Skill。\n\n从追热点、找素材、写公众号，到生成剪映草稿、复盘 X 账号，基本覆盖了自媒体运营的整个流程。\n\n这次整理了 5 个我觉得比较值得收藏的项目，经常做内容的朋友可以重点看看。\n\n1、TrendRadar｜热点监控 + MCP\n\n做内容最头疼的一件事，就是每天不知道该写什么。\n\nTrendRadar 可以聚合多个平台的热榜和 RSS，按照关键词筛选内容，再通过 AI 分析热点、生成简报。\n\n这个项目在 GitHub 上已经有 6 万多个 Star，而且支持 MCP。接入之后，可以直接让 Grok Bot 查询最近的热点、分析话题趋势，顺便帮你寻找选题。\n\n如果你每天都要收集 AI 新闻、寻找 X 选题，这个项目会很实用。\n\nhttp://github.com/sansan0/TrendR\n\n2、知乎｜社区 MCP\n\n想知道一个话题在国内有没有热度，知乎依然是一个很有价值的信息源。\n\n现在社区已经有人把知乎的搜索和直答能力封装成了 MCP，支持搜索知乎问题、回答和文章，也可以获取相关内容并交给 Grok Bot 继续分析。\n\n比如你想了解国内用户最近都在讨论哪些 AI 产品，或者大家对某款产品的真实评价，就可以让它先去知乎收集一轮资料。\n\n不过这是第三方社区项目，需要配置自己的知乎登录凭据。\n\nhttp://github.com/we1005/zhihu-m\n\n3、WeWrite｜公众号全流程 Skill\n\n公众号写作现在也有完整的 Skill 了。\n\nWeWrite 把热点抓取、选题、素材搜索、文章写作、审稿、配图和排版整合成了一套工作流，最后还可以把文章推送到公众号草稿箱。\n\n它还支持学习作者的修改习惯，让后面生成的内容逐渐接近自己的表达方式。\n\n如果你平时在 X 上积累了不少短内容，就可以用它重新整理成一篇完整的公众号文章。\n\nhttp://github.com/imraywang/wewr\n\n4、剪映｜社区 MCP + Skill\n\n这个项目比较适合经常做视频的朋友。\n\n它可以分析视频素材、生成剪映草稿，还能复用已有的剪辑模板，批量替换素材和文字。\n\n以后可以先让 Grok Bot 整理口播脚本，再调用对应工具生成剪映草稿，最后由自己检查和调整。\n\n不过这个项目目前还比较早期，而且需要本地剪映环境，并不是直接在 Grok Bot 的云电脑里就能完成全部剪辑。\n\nhttp://github.com/Xanthus-Sansla\n\n5、Social Media Skills｜自媒体运营 Skill\n\n很多 AI 工具都能帮你写内容，但真正有价值的，可能是写完之后还能帮你复盘。\n\n这个项目整合了选题规划、推文撰写、标题优化、内容复用和数据分析等多个 Skill。\n\n你还可以把自己的账号数据提供给它，让它分析哪些内容表现更好，再根据结果给出后续的选题建议。\n\n对每天都在 X 上更新的人来说，这种能持续复盘和调整内容方向的工具，比单纯多生成几条推文更值得研究。\n\nhttp://github.com/blacktwist/soc\n\n以前做自媒体，很多步骤都要在不同的软件之间来回切换。\n\n现在社区正在把找热点、搜素材、写文章、剪视频和分析数据这些能力，陆续封装成 MCP 和 Skill。\n\n以后真正值得搭建的，可能不只是某一个工具，而是一套属于自己的内容生产工作流。\n\n最后提醒一下：\n\n上面这 5 个都是第三方社区项目，不是对应平台推出的官方 MCP 或 Skill，也不代表 Grok Bot 已经原生支持。\n\n凡是涉及账号登录、Cookie、Token、自动发布和内容修改的项目，使用前最好先检查源码和权限范围，不建议直接拿自己的主账号测试。\n\n部分平台也会限制第三方自动化操作，存在触发账号风控的可能。涉及发布、删除和修改内容时，最好始终保留最后一步人工确认。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 31
+  "bookmarked_order": 40
  },
  {
   "id": "2118124944928432327",
@@ -426,7 +543,7 @@
   "author_name": "OpenAI",
   "text": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 32
+  "bookmarked_order": 41
  },
  {
   "id": "2117857386610454950",
@@ -439,7 +556,7 @@
   "author_name": "NIK",
   "text": "BREAKING: Oracle just CANCELED its $7 billion AI deal with Tencent\n\nit has begun 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 33
+  "bookmarked_order": 42
  },
  {
   "id": "2117518092972724326",
@@ -452,7 +569,7 @@
   "author_name": "ビームマンＰ ver40",
   "text": "既知の技術の組み合わせとはいえ…ボクはとんでもない物を産み出してしまったかもしれない… 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 34
+  "bookmarked_order": 43
  },
  {
   "id": "2117601565725090235",
@@ -465,7 +582,7 @@
   "author_name": "愉悦",
   "text": "主题：Codex必装8个视觉审美Skill（按序号装即可用）\n\n分点总结：\n\n① Manim\n关键词：数学动画\n核心总结：视觉冲击力强，适合做数学相关动态演示。\n\n② GrapesJS\n关键词：可视化搭建\n核心总结：拖拽式构建高质量页面，降低前端门槛。\n\n③ Motion\n关键词：动效美学\n核心总结：过渡流畅，让静态画面真正动起来。\n\n④ Paper.js\n关键词：矢量图形\n核心总结：擅长大面积图形艺术创作。\n\n⑤ Two.js\n关键词：二维视觉\n核心总结：轻量清新，专注二维图形与材质渲染。\n\n⑥ ZRender\n关键词：图表渲染\n核心总结：无缝可视化，适合数据图表场景。\n\n⑦ Noto Emoji\n关键词：表情素材\n核心总结：提供各类图标，方便图文排版。\n\n⑧ PS Editor\n关键词：图像编辑\n核心总结：专业级图像处理能力。\n\n视频核心内容：围绕Codex平台，盘点8个即装即用的视觉审美类Skill，覆盖动画、建站、动效、矢量、二维、图表、表情、修图八大方向，按序号依次安装即可。\n\n未来现实行动指南：\n1、明确自身项目类型，对照上述8类能力按需取用，不盲目全装。\n2、优先体验Manim与Motion，快速提升画面表现力。\n3、搭建页面走GrapesJS，数据展示用ZRender，素材补齐用Noto Emoji。\n4、关注Codex官方频道，及时获取新增Skill与版本更新。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 35
+  "bookmarked_order": 44
  },
  {
   "id": "2117878267504103555",
@@ -478,7 +595,7 @@
   "author_name": "Arena.ai",
   "text": "Exciting news from Agent Arena: Hy4 by @TencentHunyuan just landed #14 overall. Currently proprietary, but once its weights are released it will tie with Kimi K3.1 Pro for #1 among open models!\n\nAcross +8.5K real-world, long-horizon agentic sessions from our global community of users, Hy4 delivers +4.7% net improvement and joins the Agent Arena Pareto frontier. At $0.55/task, Hy4 costs about 62% less than Kimi K3.1 Pro (Max) at $1.46/task, and the two models’ scores are within 1 percentage point.\n\nThis release is a +3.6 percentage pt improvement from Hy4 preview at #25 with +1.1%. In fact, Hy4 improved across all key signals:\n- Confirmed Success (explicit “yes, that worked” from users): #11 with +8.7% (up from #16 with +4.9%)\n- Praise vs Complaint (sentiment in user reactions): #18 with +3.8% (up from #24 with +1%)\n- Steerability (responding to user corrections): #14 with +5.7% (up from #27 with +0.21%)\n- Bash Reliability (successful shell commands): #20 with +6.2% (up from #41 with -3.1%)\n\nCongrats to the @TencentHunyuan team on this release!",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 36
+  "bookmarked_order": 45
  },
  {
   "id": "2117596257447555084",
@@ -491,7 +608,7 @@
   "author_name": "真白大小姐",
   "text": "别再去给 OpenAI 每月上供 200 刀当大冤种了！！\n\n土区苹果内购疑似出现隐藏漏洞，直接 410 块（2949 里拉）拿下 Google AI Ultra 20X（30TB 顶配）😱😱😱\n\n平时正价哪怕在土区也要 8999 里拉（1200+ 元），美区更是直接抢劫 $200。结果苹果订阅系统里居然一直躺着一个没下架的历史隐藏促销组：\n\n实操全流程（建议先码后看）：\n\n1.准备一个土区 Apple ID，充值土区礼品卡（走平台 3000 里拉大约 61 USDC，折合人民币 410）。\n\nhttp://2.Google 账号不限地区。用 iOS 设备下载 Google App，点设置里的“管理 Google One”。\n\nhttp://3.App 内部默认不会展示 20X，先走内购随便开一个带折扣的基础套餐。\n\n4.关键来了：直接切到 iOS 系统的【设置】->【Apple ID】->【订阅】-> 找到 Google 订阅。\n\n5.展开隐藏的“intro offer group”并点击“see all plans”。\n\n6.列表里就会同时刷出两个 30TB Ultra，一个是现价 8999 里拉，另一个直接就是 2949 里拉！直接点进去确认订阅。\n\n比起现在天天降智、还把网页和 Codex 额度合并的 OpenAI，谷歌这波漏洞我先爽为敬。趁还没被修，要冲的速去😱😱",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 37
+  "bookmarked_order": 46
  },
  {
   "id": "2117508777062584363",
@@ -504,7 +621,7 @@
   "author_name": "AYi",
   "text": "全体起立！！开源我的8 维高级独家AI美女人像生图焚决！！（附本人10年人像写真摄影老法师用Fable 5.5 打磨的独家顶级美女人像提示词）\n\n兄弟们有没有想过，为什么你跑出来的 AI 人像总是一股油腻的塑料感和假人味？\n因为你还在用空泛的形容词，而没有用真实的摄影物理语言去约束 AI。\n\n分这套沉淀了 8 个维度的AI生图框架心法与批量流水线，能够彻底把 AI 视觉质感拉到顶级水准，\n\n照着这套框架套词，出来的质感直接拉满：\n\n1️⃣ 气质与影调定人设：拒绝空泛的漂亮标签，用具体阶层气质锚定气场，比如 25-year-old East Asian woman, old-money relaxed elegance, editorial fashion portrait。\n\n2️⃣ 面料垂坠替代直白形容：高级感来自物理材质的重量，比如 raw silk, fitted merino knit, subtle collarbone shadow, tailored silhouette。\n\n3️⃣ 抓拍微表情消除死鱼眼：指定瞬间的真实情绪，彻底告别僵硬摆拍，比如 candid moment, soft knowing glance, caught mid-reaction, unaware of the camera。\n\n4️⃣ 电影级光学镜头语言：让画面拥有真实相机的光学景深，比如 85mm portrait lens, f/1.8 shallow depth of field, subtle film grain, natural optical compression。\n\n5️⃣ 方向性光影雕刻皮肤呼吸感：用侧光和轮廓光保留真实毛孔肌理，比如 soft diffuse directional light, gentle rim light, authentic skin texture with visible pores and natural highlights。\n\n6️⃣ 柔和散焦托出主体：环境必须克制且有景深层次，比如 soft morning cafe ambiance, muted warm background bokeh, natural depth。\n\n7️⃣ 克制松弛卡死审美下限：拒绝夸张五官与过度浓妆，追求自然耐看，比如 classy, effortless beauty, understated luxury, natural proportions。\n\n8️⃣ 工业级负面词筑起防火墙：强行拦截各类变形和 CGI 质感，卡死 no plastic skin, no doll face, no extra limbs, no 3D render look, no over-smoothed texture。\n\n有了好提示词，怎么以极低成本批量测试并跑通工作流，才是持续起号的关键。\n\n天天到处开不同工具会员不仅月费极高，频繁切后台更会打碎所有创作节奏。\n\n我自己最近主力在跑的多模态底座是 Flatkey（1 ），对于天天折腾多模态创作和批量做图的人来说，确实是目前极省心也极划算的解法：\n\n→ 官方模型，更低开销：每天价格比官方直连低至少 20%，最实用的是失败请求按 0 美元计费，多轮调试提示词完全没有心理负担。\n\n→ 全模态一站式搞定：聚合了 100 多个官方模型，生图调 GPT Image，做视频用 Seedance，写文案切 Claude 和 GPT，一个 Key 搞定所有环节。\n\n→ 自动化流水线丝滑：通过 Flatkey CLI 工具，可以直接让 Claude Code 或 Codex 自动批量调用模型批量产图和生成视频，把内容流水线彻底跑通。\n\n→ 开发者零门槛平替：完全兼容 OpenAI 接口规范，现有脚本改个请求地址就能无缝迁移，带 99.5% 稳定性保障。\n\n把生图审美参数化，再把工具链成本打下来，自媒体起号才能真正变成确定性的持续复利。\n\n配图的几组实测大片案例与完整英文 Prompt 整理在一楼，大家现在生图最常卡在哪个环节？欢迎交流，我一定无保留分享。\n\n这是在 Flatkey 用 GPT Image 跑出来的赛道看台美女人像，没有任何后期修图和局部重绘，纯 Prompt 直出，零塑料假面感，光影肌理完全就是顶级长焦转播机位的抓拍质感。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 38
+  "bookmarked_order": 47
  },
  {
   "id": "2117582813742629361",
@@ -517,7 +634,7 @@
   "author_name": "龙井longjing",
   "text": "太舒服了！！！\n\n装上 DeepSeek Harness 的第一件事，就是把乔木大佬的 AI 资讯产品装上了😋，国内外高质量 AI 资讯一网打尽了，读起来确实爽\n\n你有没有这样的问题：想多了解 AI，不知道平时应该关注哪些信息源？每天的碎片信息太杂了，看都看不过来\n\n最简单高效的方法，就是找到几个你信得过的AI博主，看他们每天在关注什么，你再从中挑选自己感兴趣的信息就行了\n\n这应该是各行各业都通用的方法🤓👆",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 39
+  "bookmarked_order": 48
  },
  {
   "id": "2117626771227251177",
@@ -530,7 +647,7 @@
   "author_name": "兴雨",
   "text": "再次感受 DeepSeek 在老外心中的含金量： 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 40
+  "bookmarked_order": 49
  },
  {
   "id": "2117449543289868433",
@@ -543,7 +660,7 @@
   "author_name": "茂有为",
   "text": "热知识：红果短剧到底有多离谱\n\n1，三年，干掉长视频十几年的积累\n2，日活1.68亿，爱优腾芒四家加起来才1.55亿\n3，9月破2亿，快手也被超了\n4，人均每天刷125分钟，爱优腾芒时长一年掉近一半\n5，一年收入400多亿，快赶上整个中国电影票房\n6，抢走的时间，已是Netflix的三分之二（粗算）\n7，播放榜前十，全是AI漫剧\n8，台湾iPhone免费榜第一\n\n四打一都输，Netflix你觉得能撑多久？",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 41
+  "bookmarked_order": 50
  },
  {
   "id": "2117223897649279331",
@@ -556,7 +673,7 @@
   "author_name": "焰火",
   "text": "这一击贯穿星辰 #大肥鱼 #deepseek 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 42
+  "bookmarked_order": 51
  },
  {
   "id": "2117240213823258899",
@@ -569,7 +686,7 @@
   "author_name": "Viktor Oddy",
   "text": "Fashion websites are still just product grids.\n\nSo I turned one into a runway.\n\nEach look steps forward, and the shop beside it changes to match every piece she's wearing.\n\nHow-to guide &amp; prompt in the comments ↓ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 43
+  "bookmarked_order": 52
  },
  {
   "id": "2117474458671689995",
@@ -582,7 +699,7 @@
   "author_name": "Meticulai",
   "text": "Give your AI one link. Get a game you control with your hands. Open sourced kit in replies. Here are 15 games I made with it, what will you build? 👇\n\n- no controller, just your webcam\n- made with Claude Code, @fal, @threejs, @tripoai, and a dream 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 44
+  "bookmarked_order": 53
  },
  {
   "id": "2117443166588854354",
@@ -595,7 +712,7 @@
   "author_name": "Gorden Sun",
   "text": "这个项目也太有趣了，刻录光盘的时候同时在盘面上刻出可见的图片，利用的是本身的刻录轨道。\n\nGithub：https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 45
+  "bookmarked_order": 54
  },
  {
   "id": "2116746974716432602",
@@ -608,7 +725,7 @@
   "author_name": "monoradio",
   "text": "スマホの傾きに合わせて、絵が回るようにしてみた。\n\n3D化しているわけではなく、1枚の絵から360°回転の「動画」を作り、傾きに合わせてフレームを前後させて、立体っぽく見せています。\n\n#MiniMaxH3 + ORB360 LoRA 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 46
+  "bookmarked_order": 55
  },
  {
   "id": "2116922587687116912",
@@ -621,7 +738,7 @@
   "author_name": "傲慢",
   "text": "来不及悼念刚刚推出的GPT6.2 Astra了，\n\n接下来登场的是当世最强模型，\n\nMythos5.5！！！\n\n或许下周是模型历史上最热闹的一周了。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 47
+  "bookmarked_order": 56
  },
  {
   "id": "2116063844347130088",
@@ -634,7 +751,7 @@
   "author_name": "빚갚는미친개",
   "text": "가상의 대학교 세계관을 만들어 대박 난 성인 AI 인스타 계정.\n\n계정 이름은 ‘한강대학교’.\n\n실제로 존재하지 않는 가상의 대학교를 만들어 놓고, 그 안에서 벌어지는 대학생들의 이야기를 CCTV 영상처럼 보여주는 계정임.\n\n근데 이게 존나 영리한 게,\n\n1. 콘텐츠 자체가 인간의 호기심과 상상력을 자극함. 복도, 동아리방, 청소도구실 등에서 벌어지는 아슬아슬한 상황을 CCTV로 엿보는 듯한 구도임. 당연히 전부 AI로 제작한 영상.\n\n2. 트래픽은 그냥 미쳤음. 팔로워 1.7만 명에 릴스 조회수는 기본 수백만. 1,285만, 1,122만, 889만 조회수 영상까지 있음. 팔로워 대비 조회수가 말도 안 되는 수준임 ㄷㄷ.\n\n3. 수익화 구조도 영리함. 이렇게 모은 트래픽을 프로필의 탑툰 AI 캐릭터 채팅 서비스로 연결함. 거기에 인스타 구독 기능까지 활용해서 구독자 전용 콘텐츠도 판매하는 구조. 광고 제휴 수익과 구독 수익을 동시에 노리는 셈임.\n\n4. 댓글 반응은 웃긴게 AI 콘텐츠라고 명시돼 있는데도 실제 촬영 영상처럼 받아들이는 사람들이 보임. 그만큼 CCTV 특유의 구도와 연출이 현실감을 만들어낸다는 이야기.\n\n5. 심지어 조회수만 뽑고 끝나는 것도 아님. 성인 콘텐츠에 관심 있는 시청자를 모아서 관련 AI 채팅 서비스와 유료 구독으로 연결함.\n\nAi와 성인시장의 조합은 갈수록 커질것 같음.\n상상력이 실사화 되는 시대니까",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 48
+  "bookmarked_order": 57
  },
  {
   "id": "2115721800999166246",
@@ -647,7 +764,7 @@
   "author_name": "Unicorn",
   "text": "DeepSeek 刚刚把 V5 挂上去了。\n\n昨晚官方 deepseek-harness 仓库里的 provider.spec.ts 测试文件第 154 行，悄悄多了三个新名字：deepseek-v5、v5-open 和 v5-next\n\n细看里面的版本限制挺有意思。\nv5-open 写的是 requires 0.0.1，老版本客户端不用更新就能直接用；\n而旁边的 v5-next 直接标了个 99.0.0-alpha.1，明摆着是要求客户端必须升级才能进的新通道。\n\n这说明他们已经把平滑切换和强制更新两条路都提前铺好了。只要后端把 models 配置一改，客户端连新版本都不用发，就等新模型发布就能直接切过来。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 49
+  "bookmarked_order": 58
  },
  {
   "id": "2115392388546068780",
@@ -660,7 +777,7 @@
   "author_name": "路飞 🏴‍☠️ AI 研究员🧐",
   "text": "海外一哥们，把 Blender 改造成了 AI 3D 美术团队。\n\n有一套 94 个技能的集合，能让 Claude Code、Cursor 这些智能体直接操控 Blender，做模型、搭场景、出动画。\n\nBlender Skills，能做到的有👇\n\n→ 给物体、角色、场景建模\n→ 做材质、贴图和动画\n→ 套 low poly、像素风、PSX 或等距视角风格\n→ 为游戏优化模型\n→ 直接导出到 Unity、Unreal 或 Godot\n\n最有意思的是里面有个 blender-director，能自动把整个流程串起来。\n\n你只要说清楚要什么，智能体就自己安排建模、材质、优化和导出。\n\n完全免费，开源。\n\n仓库链接在评论区👇",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 50
+  "bookmarked_order": 59
  },
  {
   "id": "2115302801148727583",
@@ -673,7 +790,7 @@
   "author_name": "摆烂程序媛",
   "text": "最近发现一个特别适合做「知识可视化」的 Skill：diagram-design。\n\n已经有近 6 万 Stars。\n\n它干的事很简单：\n\n把长文、流程和关系，做成一张专业好看的图表。\n\n对我这种内容创作者来说，主要用在 6 个地方：\n\n01｜给文章配专业插图\n02｜做 PPT 和分享演示的素材\n03｜把长内容压成一张适合传播的图\n04｜学一门复杂的新知识\n05 ｜梳理项目和工作流程\n06 ｜做工作汇报\n\ndiagram-design Skill 开源库：http://github.com/cathrynlavery/diagram-design",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 51
+  "bookmarked_order": 60
  },
  {
   "id": "2115640177288937814",
@@ -686,7 +803,7 @@
   "author_name": "ギア",
   "text": "衣装データベースを公開しました！\nhttps://x.com/giaaibusi/status/2115638135208260002?a=hHnEAhoHrgp-koEQ0mI&s=20",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 52
+  "bookmarked_order": 61
  },
  {
   "id": "2115431641766359244",
@@ -699,7 +816,7 @@
   "author_name": "ギア",
   "text": "←ポーズ&amp;衣装変更　　衣装集→\n\n「この服に変えて」で使える\n衣装データベースを構築中\n昨日公開したポージングDBと相性抜群\n\n1,000枚くらい作ってるけど\n公開したら需要ある？ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 53
+  "bookmarked_order": 62
  },
  {
   "id": "2115221497845604829",
@@ -712,7 +829,7 @@
   "author_name": "鹿川 Luchuan",
   "text": "太强了\n\nopencode 解密了一件事\n\n为什么很多平台能免费提供\n\nDeepSeek v4.1 flash 1017\n\n因为 deepseek 经过了极致的推理侧硬件优化\n\n只需要一台 GB300 的机架\n\n部署成本仅仅 700 万美元\n\n就能支撑 opencode 每天 6-7T 的用量\n\n openrouter 也差不多 https://twitter.com/thdxr/status/2115165365630026178",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 54
+  "bookmarked_order": 63
  },
  {
   "id": "2113226664943779953",
@@ -725,7 +842,7 @@
   "author_name": "沈鹏",
   "text": "最近被安利了好几次Grok Bot，明天认真玩一下😄\n用过的朋友说说，大家都在什么场景下，用它做什么？",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 55
+  "bookmarked_order": 64
  },
  {
   "id": "2115667965328977920",
@@ -738,7 +855,7 @@
   "author_name": "宝玉",
   "text": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。\n\n完全开源：https://github.com/jimliu/baoyu-design 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 56
+  "bookmarked_order": 65
  },
  {
   "id": "2115501814090969583",
@@ -751,7 +868,7 @@
   "author_name": "make claude",
   "text": "中国社区逆向拆解了Claude的封号机制。以下是他们的发现\n\nClaude使用积分制。注册时账号获得初始分数，之后根据行为加分或扣分。低于阈值直接封号。回分很难\n\n影响分数的因素:\n\n注册\n> 干净IP是最重要的因素。不一定要家宽，但必须干净\n> Gmail已经不是最优选，有权重更高的邮箱服务\n> 注册时直接弹KYC的号可以扔了\n> 用手机App注册会加分\n\n支付\n> 刚注册就订阅会扣分\n> 直接上Max会大幅扣分。最好等两天先订Pro\n> 支付时弹KYC说明账号在考察期，但不一定会封\n> 国外实体银行卡加分。Google Play也行。虚拟卡扣分\n\n使用\n> 不要一次把限额用完。宁可两个号轮换也不要一个号撸到底\n> Desktop客户端有少量加分。尽量少用网页端\n> 手机端也有少量加分\n> 开启记忆功能加分。记忆文件越多分越高\n\nIP和设备\n> 稳定性是关键。不要跳IP，尽量一直用同一个\n> 代理必须全局模式并开启TUN\n> 多设备登录大幅扣分。理想状态是一台电脑一个客户端\n> 频繁换IP、频繁登录、高并发都会大幅扣分\n\n账号年龄\n> 老号有巨大的容错空间。2023年的号明显更高\n> 分数随时间增长，但很慢\n\n其他\n> Windows和macOS没区别。Linux会扣分\n> 时区和语言基本不影响。不会因为北京时间就封号\n> 跟Claude说自己是中国人没问题，记忆不会触发封号\n> 大量使用Fable会扣分\n> 升级Max大概率进入观察期，除非是高权重老号\n\n观察期和封号\n> 接近阈值时账号可能进入观察期。典型特征是掉登录\n> 观察期继续扣分就会封号\n> 高分号可以扛过多次观察期\n\n关注我，拆解你每天在用的服务背后到底怎么运作的",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 57
+  "bookmarked_order": 66
  },
  {
   "id": "2115293730941067637",
@@ -764,7 +881,7 @@
   "author_name": "真白大小姐",
   "text": "Claude风控天机泄露😱\n\n1. Claude 的风控是积分制：注册时会先给账号打分，之后根据行为加分或减分，低于一定分值就会直接封号（很少加分）。\n\n2. 注册：邮箱和 IP 的权重最高。IP 不一定要家宽，但一定要干净，例如自建 IP。Gmail 已经不是最优选，他们现在使用的是一些其他高权重邮箱。注册时直接弹 KYC 的账号可以直接放弃。注册环节很重要，否则后续稍有高危行为就可能直接封号。使用手机 App 注册会加分。\n\n3. 支付：刚注册就订阅会减分，直接订阅 Max 会大幅减分，最好间隔一两天再订阅 Pro。订阅时弹出 KYC 意味着账号处于考察期，但不一定会封；简而言之，A 社想先看 KYC 结果再决定。KYC 使用中国护照没有问题，最大的问题是不能一人多扫；闲鱼上很多账号都属于这种情况，要小心。\n\n4. 注册后的 IP：最重要的是稳定，千万不要随便切换，尽可能一直使用同一个 IP；同样要求干净即可，不要求一定家宽，最好与注册 IP 一致。代理一定要开启全局模式并启用 TUN，这是重点。\n\n5. 老号：老号权重非常高，也就是积分很多，容错率更高。账号积分会随着账号寿命增加，不过 2023 年的老号才是显著更高。\n\n6. 使用：不要一上来就把周限额用完，尽量控制并平均使用；用量大的宁可开两个号轮换使用，也不要一次性用完。使用 CLI 和 Desktop 都可以，Desktop 似乎会少量加分。尽量少用网页端，最好只保留手机端和 Desktop 登录。\n\n7. 时区和语言基本不减分，或仅极少量减分，没必要特意调整。\n\n8. 高并发、反复提问同一个问题、频繁登录、频繁切换 IP 都会大幅减分。\n\n9. 手机端使用会少量加分。开启记忆功能会加分，甚至可能记忆文件越多分数越高。\n\n10. 支付方式为国外实体正规银行信用卡会加分，其次是 Google Play。Apple Pay 不了解；官方礼品卡不减分，但要注意来源是否为黑卡；虚拟卡直接绑定会减分。\n\n11. 到达斩杀线后可能进入观察期。例如及格线是 60 分，账号 55 分就进入观察；如果继续扣分直接掉到 40 分，就会直接封号。观察期的典型特征是掉登录。有的高权重号可能经历两三个观察期才被封。\n\n12. 多设备登录会大幅扣分，最好只在一台电脑上使用一个客户端。\n\n13. Windows 和 macOS 没什么区别，Linux 使用会减分。\n\n14. 跟 Claude 说自己是中国人也没事，不会因为记忆文件就封号。\n\n15. 充值 Credits 会加分，不过成本太高，尚未进行大量实验。\n\n16. 大量使用 Fable 会减分。\n\n17. 升级 Max 大概率会直接进入观察期，除非是积分特别多的高权重号。观察期内有减分行为，大概率会封号。\n\n18. 在工作时间使用不会扣分，不会出现因为使用北京时间就封号的情况。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 58
+  "bookmarked_order": 67
  },
  {
   "id": "2115457290795208868",
@@ -777,7 +894,7 @@
   "author_name": "路遥",
   "text": "裁判亲自下场改规则，这集我真看笑了。\n\n中国开源大模型刚组团冲进第一梯队，AA 连夜“优化”测试集：\n • Kimi：55 ➔ 46\n• DeepSeek：45 ➔ 32\n• GLM：45 ➔ 32\n• 小米 MiMo：46 ➔ 30\n\n国产全军覆没大跳水，反观 Claude Opus 5.5，愣是一分不掉稳坐钓鱼台。\n\n最绝的是什么？\n\nAnthropic 前脚刚递交 IPO 招股书，后脚榜单就准时“精准爆破”。 达里奥这是直接空降出题组当组长了吧？ 这世界上的巧合，果然都是明码标价的 🤡",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 59
+  "bookmarked_order": 68
  },
  {
   "id": "2115457225208865233",
@@ -790,7 +907,7 @@
   "author_name": "Chubby♨️",
   "text": "NVIDIA has released MotionBricks, an AI that generates character motion at a reported 15,000 frames per second with just 2ms latency on an RTX 5090.\n\nTrained on 350,000+ motion clips, it lets developers build new interactions for game characters and humanoid robots without 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 60
+  "bookmarked_order": 69
  },
  {
   "id": "2115367292200722674",
@@ -803,7 +920,7 @@
   "author_name": "huangserva",
   "text": "花几个月做的东西，就这么免费开源了！？\n\n真是活菩萨，先点一个star\n\n然后再好好研究👇🏻\nhttps://github.com/smithjohn78390/tongjiang-lab https://twitter.com/CopperForgeAI/status/2115311202876453351",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 61
+  "bookmarked_order": 70
  },
  {
   "id": "2115451017857036657",
@@ -816,7 +933,7 @@
   "author_name": "傅盛",
   "text": "谷歌Genie 4出来了，建模师看完估计要感叹：三年动画白学了！\n\n我觉得至少有四个方向值得关注：\n第一，游戏开发。一句话生成游戏场景，进去试玩，不满意现场改。\n第二，互动直播。观众现场提要求，主播眼前的虚拟世界跟着变化。\n第三，影视制作。导演直接进入模拟场景，换机位、调灯光、试拍摄效果。\n第四，机器人训练。在AI生成的不同环境里反复练习，再到现实中验证。\n\n虽然还处于早期，但传统3D软件和游戏引擎的制作流程、商业模式，可能真要重新洗牌了。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 62
+  "bookmarked_order": 71
  },
  {
   "id": "2115273222061015169",
@@ -829,7 +946,7 @@
   "author_name": "Ethan Mollick",
   "text": "Genie 4: \"Scene: A Victorian high tea. Character: A mouse in appropriate garb.\"\n\"A porcupine walks by\"\n\"The mouse grows wings\"\n\"The mouse flies to the teacup\"\nThis is realtime &amp; I can walk around freely.\n\nIt is glitchy, but also impossibly advanced compared to a couple years ago. 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 63
+  "bookmarked_order": 72
  },
  {
   "id": "2115056349235052776",
@@ -842,7 +959,7 @@
   "author_name": "seeco",
   "text": "Opus 5.5 is a motion designer now\n\nIt’s f*cking unreal…\n\nGive the PDF below to Opus 5.5 and watch it work.\n\nThen read the guide below, it’s the easiest way to get started. 「[图片/视频]」 https://twitter.com/seeconvm/status/2106096193235259564",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 64
+  "bookmarked_order": 73
  },
  {
   "id": "2115227933833113976",
@@ -855,7 +972,7 @@
   "author_name": "Kin",
   "text": "卧槽！谷歌刚发布了他们最新的世界模型 Genie 4，我用 @bot 做的官方宣传片的中文翻译字幕版来了！@GoogleDeepMind \n\nGenie 4 是一个逼真且实时可交互的世界模型：一张图、一句话，几秒钟就能生成一个你可以走进去、实时探索和重塑的世界！\n\n宣传片里能看到这些例子：\n- 给一张图就变成能逛的游戏世界（还带环境音）；\n- 自己挪镜头、改细节，世界跟着动；\n- 用文字描述一段体验，几秒后就变成可操控的角色闯进去；\n- 还能让机器人在虚拟世界里先练任务，以后再去真世界干活，谷歌这是要进军具身智能啊！\n\n本视频全程使用 Grok bot @bot 制作，仅用了数分钟完成的字幕烧录！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 65
+  "bookmarked_order": 74
  },
  {
   "id": "2114743262565339148",
@@ -868,7 +985,7 @@
   "author_name": "Behnam Neyshabur",
   "text": "Introducing Fern, Mirendil’s first model: pretrained from scratch, with up to 10M tokens of context!\n\nThat’s ~0.5M lines of code (roughly Megatron-LM scale) or days of an agent’s work, all in context at once.\n\nIts first version, Fern 0.1, had a short round of post-training 🚢 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 66
+  "bookmarked_order": 75
  },
  {
   "id": "2114772789890588932",
@@ -881,7 +998,7 @@
   "author_name": "🚨 AI News | TestingCatalog",
   "text": "Meta is testing the Live Avatar feature for Muse on its desktop app.\n\nThis is what the new companion window will look like for now. It will also minimize automatically if you switch windows.\n\nMinty looks cool 🤢\n\n* The feature is still in development. 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 67
+  "bookmarked_order": 76
  },
  {
   "id": "2114753537188225229",
@@ -894,7 +1011,7 @@
   "author_name": "Dharmvir",
   "text": "Me assembling all my Al agents 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 68
+  "bookmarked_order": 77
  },
  {
   "id": "2114712755290640530",
@@ -907,7 +1024,7 @@
   "author_name": "鱼总聊AI",
   "text": "兄弟们，我把 X 上 2.8 万条商单扒了一遍，做成了一个工具：https://kolhunter.ai\n\n因为明天要出差去上海了，去之前，再三考虑，还是把这个折腾了好几个月的产品发布一下，虽然目前还不完美！\n\n起因很简单，我自己接商单这一年，发现品牌方找 X 博主基本靠感觉：看粉丝数、看别人推荐，至于博主接推广后数据到底怎么样，是否达到预期，很难说清楚，也几乎无法预测。\n\n所以我做了 KOL Hunter：\n\n它最大的特色就是根据博主的真实商单来做数据分析和匹配，有以下功能：\n\n1、粘贴你的产品链接，AI 自动分析产品，给你匹配内容对口的博主\n\n2、每个博主接过哪些品牌、最近一条推广的曝光和互动，都能看到\n\n3、X 官方「付费合作」标签的商单和 AI 推测的商单分开标，不混在一起\n\n数据库中目前中文博主数据最全，2,200 多位。英文还在补充中... ...\n\n目前免费版也能用，正在找第一批用户提意见，欢迎品牌方和各大MCN来试用。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 69
+  "bookmarked_order": 78
  },
  {
   "id": "2114062937094823955",
@@ -920,7 +1037,7 @@
   "author_name": "CapCut",
   "text": "We’re excited to announce our new CapCut plugin is coming soon to @ChatGPT at CapCutWorldLA.\n\nThe plugin brings CapCut's video editing and generation tools alongside ChatGPT. You can start with an idea in ChatGPT, bring it to life with the CapCut plugin right inside ChatGPT, then take your draft video to CapCut's web editor to refine, share and publish. \n\nBy bringing the CapCut product you already love and use in ChatGPT, we're making content creation more seamless and efficient.",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 70
+  "bookmarked_order": 79
  },
  {
   "id": "2114451669811372151",
@@ -933,7 +1050,7 @@
   "author_name": "Chubby♨️",
   "text": "Quick reminder: Anthropic is planning its IPO for around November 9th. This means it's very likely they'll release Fable 5.5 next week to maximize the IPO valuation that follows shortly after.\n\nOpenAI, of course, won't be far behind and will counter this, although currently only Terra 6.1 is rumored. So yeah, next week could be pretty significant.",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 71
+  "bookmarked_order": 80
  },
  {
   "id": "2114545217407963524",
@@ -946,7 +1063,7 @@
   "author_name": "karminski-牙医",
   "text": "BOSS直聘刚发了个 Nanbeige4.3-33B\n\n说实话我在HuggingFace上刚刷到的时候还以为是个欧洲模型, 硬是没读出来 Nanbeige 是啥, 搜了下发现其实是 BOSS 直聘的大语言模型实验室, 叫南北阁.\n\n这次发布的 33B Dense 版本特别优化了模型的Agent能力, 我给大家做了个对比chart, 哪个面积大哪个就更强, 从Agent分数上来看, 甚至比Qwen3.8-27B 还要高. 当然其它的诸如写代码能力就差一些了.\n\n它们之前8月份也发过 Nanbeige4.2, 是完全的自研架构 Looped Transformer, 而这次则用了非常保守的标准 llama 架构, 就是全注意力+GQA. 这也意味着, 这个模型推理起来还是很吃内存的. 以及只能用外置MTP加速了. 另外长上下文方案可能也比较糙, 模型上来就支持512K上下文, 但是没有配置动态 YaRN 或复杂的 RoPE 压缩算法. 就是直接把旋转位置编码的基数(rope_theta)调到了1.2亿来支持.\n\n当然这么搞也是有好处的, 首先就是架构很简单, 几乎所有推理引擎都能跑, 其次官方的定位是教师模型, 所以估计后续会发布一些小的蒸馏模型供实际使用. (目前还没发). 等它们发布了我有空给大家来个10B以下小模型横评.\n\n#Nanbeige #boss直聘",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 72
+  "bookmarked_order": 81
  },
  {
   "id": "2114159223240306889",
@@ -959,7 +1076,7 @@
   "author_name": "啊东不上班",
   "text": "最近用ai做小红书有点小心得了，小小分享一下给朋友们，后面再整一篇干货出来。\n\n首先是在你的电脑上搞一个ai，来到这里的应该都懂，不是网页版聊天的，是那些能干活的，什么workbuddy，codex，claude code都可以，不用局限于什么国内国际模型，现在ds模型能力已经足以赚点生活费了。\n\n第二，直接去告诉ai，说你要做小红书，后面需要变现，最简单的方式是虚拟资料售卖，现在需要有账号定位，素材库，笔记风格模板，出稿，复盘，已经复盘后的数据回流到素材库和风格模板。整体要可以持续迭代更新的。但是你不知道怎么做，需要ai用苏格拉底式的方式，和你一起把所有环节一个个讨论清楚，最后形成一个闭环的工作流。\n\n第三，上面步骤完成后，ai应该就会初步形成这种工作流。\n\n最后，就是每天的日常维护，把日常素材发给ai，把每天刷到同类账号爆款笔记发给ai，发布出稿笔记，让ai复盘",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 73
+  "bookmarked_order": 82
  },
  {
   "id": "2114371509691314415",
@@ -972,7 +1089,7 @@
   "author_name": "Pankaj Kumar",
   "text": "GPT-7 leaks: Codenamed \"Bel\"\n\n- OpenAI's next flagship model is codenamed Bel, mosttly GPT-6.5 or GPT-7\n- In a recent post, OpenAI revealed that a model escaped its isolated training environment through a DNS misconfiguration, forcing a pause in frontier training\n- Training resumed on October 1 after security improvements, which are likely part of Bel's development\n- The more powerful these models become, the more security they need. Even isolated environments aren't enough when models find ways to escape them\n- Remember Anthropic's Mythos? Many people initially thought the security concerns were just IPO hype, but now we are seeing similar concerns with Bel\n- OpenAI is reserving substantial compute for continuous security testing, which can affect Bel's launch timeline\n\nBel is expected to have 10T+ parameters and can arrive by the end of this year, but these security challenges may delay its release",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 74
+  "bookmarked_order": 83
  },
  {
   "id": "2113650413170049529",
@@ -985,7 +1102,7 @@
   "author_name": "花叔",
   "text": "https://x.com/",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 75
+  "bookmarked_order": 84
  },
  {
   "id": "2113840258597142862",
@@ -998,7 +1115,7 @@
   "author_name": "lifcc",
   "text": "Kimi宣发翻车了，老哥拒绝了Kimi的要求，之后去评论其他宣发，被私信要求删掉评论，结果老哥直接起跳。把Kimi宣发内容都泄露了\n\nkimi官方的话术模板：把模型包装成「便宜 5 倍的开源版 Opus 5.5」「中国让所有人免费用上 Opus 5.5」「中美前沿模型差距已经缩到一个月」 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 76
+  "bookmarked_order": 85
  },
  {
   "id": "2007838010415489040",
@@ -1011,7 +1128,7 @@
   "author_name": "Tom Yeh",
   "text": "mHC from DeepSeek. I implemented it in Excel for my Frontier AI Seminar. What is mHC?\n\nmHC stands for Manifold-Constrained Hyper Connections, published just a few days ago. This paper has quickly become the \"first paper to read in 2026\" for many in the community.\n\nHere's the gist:\n\nResidual Network = Neural Network + Skip Connections\n\nHyper Connections  = 1 skip connection per block to N weighted skip connections per block\n\nManifold-Constrained = Whatever weight values to weights constrained to sum of 1\n\nI always appreciate the DeepSeek team for releasing their work openly and quickly.\n\nThat said, this paper introduces significantly more terminology than their earlier papers, and I’m not entirely sure who the intended audience is.\n\nJust to name a few:\n- Residual stream \n- Sinkhorn–Knopp algorithm\n- Entropically projected matrices \n- Birkhoff polytope\n- Doubly stochastic matrices \n🤯\n\nIt’s a good reminder that open source is not the same as open knowledge—which is why I’d like to unpack mHC by hand, in Excel, in the next Frontier AI Seminar. \n\nhttps://byhand.ai/seminar",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 77
+  "bookmarked_order": 86
  },
  {
   "id": "2113098378942828632",
@@ -1024,7 +1141,7 @@
   "author_name": "Samnang Aing",
   "text": "Okay, Gemini 4 Argon is freaking good at this.\n\nFirst try in @antigravity, set to High.\n\nA concert ticket you can bend, flip and tear off. Tearing it is so satisfying. It rips one fiber at a time and even the sound is made in code.\n\nThe holographic foil shifts as the paper bends. It feels super premium.\n\nThe full prompt below.",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 78
+  "bookmarked_order": 87
  },
  {
   "id": "2113148231156912246",
@@ -1037,7 +1154,7 @@
   "author_name": "泊舟",
   "text": "https://x.com/i/article/2112951083874344961",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 79
+  "bookmarked_order": 88
  },
  {
   "id": "2112953469703446828",
@@ -1050,7 +1167,7 @@
   "author_name": "卡尔的AI沃茨",
   "text": "之前很少在推特上传长视频，今天试着发一条。\n\n这期聊用 Opus 做动画，我整理了六类玩法：产品宣传片、科普动画、手绘动画、3D 场景、音乐 MV，还有用 AI 视频做丝滑转场的技巧。\n\n不用先学会写代码，但得把自己想要的效果说明白。视频快 7 分钟，感兴趣的可以慢慢看，也可以直接跳到想看的部分👇\n\n00:00 开场\n00:23 代码动画原理\n01:10 产品宣传片\n03:00 科普动画\n03:41 手绘／风格动画\n04:40 3D 场景\n05:39 音乐 MV\n06:16 丝滑转场技巧",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 80
+  "bookmarked_order": 89
  },
  {
   "id": "2112935205703147750",
@@ -1063,7 +1180,7 @@
   "author_name": "Bee",
   "text": "Gemini 4 Carbon - A Mechanical flower!\n\nThis took ~1hr 43mins fully made in three.js, I love the small bee it added which wasn't in the prompt but I did say it to be creative and didn't limit it with constraints..\n\nA lot of improvements over Argon tbh.. I'll share my observations once i have some more outputs.. I've got one more and still trying to get more.. stay tuned!",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 81
+  "bookmarked_order": 90
  },
  {
   "id": "2112804243019370734",
@@ -1076,7 +1193,7 @@
   "author_name": "花叔",
   "text": "一个好的宣传素材真的很重要～我这个app其实已经上架两个月，并跌打七个版本了！\n\n从无声无息，到这次的宣传视频给我直接把打上了AppStore排行榜！！\n\n欢迎体验👉https://apps.apple.com/cn/app/%E8%8A%B1%E5%BD%95-huastudio/id6791377155?mt=12 「[图片/视频]」 https://twitter.com/AlchainHust/status/2112571433717023032",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 82
+  "bookmarked_order": 91
  },
  {
   "id": "2112738523967353099",
@@ -1089,7 +1206,7 @@
   "author_name": "Bojie Li",
   "text": "很早就发现 DeepSeek 的缓存命中折扣是 97%，其他家基本都是 90%，也就是缓存命中的 input context 收费比其他家便宜 3 倍。对 agentic workload 来说实际成本可以降低 40% 左右。\n\n这次开源的 DeepInfer 可以做到缓存 72 小时，别人家都是缓存 5 分钟或者 1 小时。对 Claude，缓存 5 分钟的情况下很多比较长的工具调用就会导致 cache miss，缓存 1 小时的情况 usage limit reset 也会导致 cache miss，所以我在每次 5 hour limit 之后都不会 resume 原有的 agent，而是走 compaction 流程重新开新的 agent，否则几十个 agent 一启动就会耗掉几十刀的 token。\n\ninfra 优化还有非常多空间可做！感谢 DeepSeek 的贡献。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 83
+  "bookmarked_order": 92
  },
  {
   "id": "2070379812594606188",
@@ -1102,7 +1219,7 @@
   "author_name": "宝玉",
   "text": "PPT Master 确实是最好的 PPT Skill\n\n我新的 skill 写PPT也挺好，能导出可编辑版本，可以AI配图，可以在 Agent 内置浏览器中标记编辑\n\nhttps://github.com/jimliu/baoyu-design https://twitter.com/0xCheshire/status/2070323205177548827",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 84
+  "bookmarked_order": 93
  },
  {
   "id": "2112851483192672444",
@@ -1115,7 +1232,7 @@
   "author_name": "黄赟",
   "text": "哼哼唧唧，做了 6小时的 WorkBuddy 实操视频，该发抖音还是小红书 ？\n\n抓了下两边的数据，全中国最会做视频的那波人，可能在抖音。哦不，可能是全世界 \n\n一支讲用 WorkBuddy 做 AI 工作台的视频，居然有 80万赞，你没看错，是“赞”就有80万+\n\n反过来看小红书，清汤寡水吊着 1,2个笔记，你猜猜看放哪边，你的视频会更有机会？",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 85
+  "bookmarked_order": 94
  },
  {
   "id": "2112716750085149105",
@@ -1128,7 +1245,7 @@
   "author_name": "徐跑跑",
   "text": "闲鱼年入百万的供货源头\n\n传送门： https://nav.edumails.cn 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 86
+  "bookmarked_order": 95
  },
  {
   "id": "2112700140519874579",
@@ -1141,7 +1258,7 @@
   "author_name": "陆晨",
   "text": "清华姚班，20 年只培养了 700 人\n\n却精准卡位了全球 AI 的半壁江山\n\n那剩下 10 亿人还有什么价值 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 87
+  "bookmarked_order": 96
  },
  {
   "id": "2112888621539950912",
@@ -1154,7 +1271,7 @@
   "author_name": "栗噔噔",
   "text": "这条视频完全是让AI剪辑的，里面的动画也是AI生成的，其实一开始的脚本也是，只是我觉得它写得不够好我自己改了一下，再加上自己出个镜加个美颜，素材一股脑丢过去就得到成片了\n\n因为我没有可用的Claude账号，用的是Cola，调用opus5.5模型，真的方便太多了 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 88
+  "bookmarked_order": 97
  },
  {
   "id": "2112838884510048647",
@@ -1167,7 +1284,7 @@
   "author_name": "数字生命卡兹克",
   "text": "把我的Agent自动化任务，花了2天时间，做了一个好玩的流水线可视化。\n\n起因是我的日常中，有几十个自动化任务在自动化跑，有在Claude和Codex里面的定时任务，也有自建的webhook中台触发的Agent，然后我已经不知道自己到底有多少的自动化任务了。\n\n本来只想做一个简单的网页，用列表形式呈现，但是作为一个模拟经营和戴森球计划的狂热玩家，在做的过程中，突然想到了流水线，如果，把这些自动化任务，都变成可视化的流水线，变成一个游戏场景，那一定很好玩吧。\n\n于是，直接开干了，在探索了很多种美术风格比如苏联重工业、八方旅人那种像素风、塞尔达那种三选二等等的之后，还是选了这种小清新的俯瞰的微缩场景风格，特别喜欢！于是...就做出来了。\n\n现在还是初版，接了一点点自动化任务做演示，。\n- 左边每个项目是一座厂区，一条长期任务就是一条产线、一台机器。\n- 中间玻璃圆顶的分拣大厅就是Webhook中台，调度任务和分发状态用，跟我飞书打通，转盘一直在转。\n- 右边是两个 Agent：Claude Code 是 Clawd 那只像素小螃蟹，头顶飘着 Claude 的火花；Codex 是那朵蓝紫色的云\n- 每个真实任务都是一个包裹，顺着传送带送到它们面前。接到活就跳起来开干，做完原地转一圈，箱子码上托盘。\n\n甚至我还跟现实时间和天气打通了，现实世界是晚上下雨，那场景里，就是晚上下雨。\n\n看着这个自动化，真的舒适啊...\n\n后面把我的所有得流水线全部铺上去，幸好回非常壮观。。。\n种田流玩家狂喜。。。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 89
+  "bookmarked_order": 98
  },
  {
   "id": "2112514570078372079",
@@ -1180,7 +1297,7 @@
   "author_name": "Viktor Oddy",
   "text": "Opus 5.5 just built the scariest website I've ever seen 😭\n\nWebsites aren't flat anymore. 3D, motion, interaction, all from one prompt.\n\nA year ago: a 3D artist, a dev, two weeks.\n\nToday it's one prompt ↓ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 90
+  "bookmarked_order": 99
  },
  {
   "id": "2112422551150620733",
@@ -1193,7 +1310,7 @@
   "author_name": "Gary曹淦",
   "text": "https://x.com/i/article/2112413838180233216",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 91
+  "bookmarked_order": 100
  },
  {
   "id": "2112729924943634602",
@@ -1206,7 +1323,7 @@
   "author_name": "Kin",
   "text": "卧槽！兄弟姐妹们，想用 Opus 5.5 做视频，一定要收藏这 8 个 GitHub 仓库。\n\n1. awesome-opus5-5-videos（约 7100 star）\n目前最大的爆款视频合集，每条都附上了背后的提示词。\nhttps://github.com/yihui-dev/awesome-opus5-5-videos\n\n2. lemo-opuscar（约 4400 star）\n一个 Claude Code skill，装上之后挑一种风格，就能做出纯代码短片，51 种风格随便选。\nhttps://github.com/lemomo-ai/lemo-opuscar\n\n3. pdoom-video（约 3000 star）\n一支歌词卡拉 OK MV 的完整工程，本地就能渲出 4K60。\nhttps://github.com/mexicat/pdoom-video\n\n4. PDoomVideo（约 2300 star）\n同一首歌的另一支 MV 源码，和第 3 个对照着拆，很有意思。\nhttps://github.com/JohnHeibel/PDoomVideo\n\n5. mg-styles-15（约 1400 star）\n15 种 MG 动效风格，成片、提示词、源码全都给。\nhttps://github.com/Vincentwei1021/mg-styles-15\n\n6. ClaudeAnimationBase（约 1300 star）\n手绘卡通角色动画的起步包，自带 31 种表情。\nhttps://github.com/JohnHeibel/ClaudeAnimationBase\n\n7. awesome-claude-5-5-videos（约 560 star）\n视频工作流合集，每个案例都标了出处，Opus 的就有 301 个。\nhttps://github.com/athemeroy/awesome-claude-5-5-videos\n\n8. opus-video-prompts（约 510 star）\n中文案例，配上能直接复制的提示词。\nhttps://github.com/joeseesun/opus-video-prompts",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 92
+  "bookmarked_order": 101
  },
  {
   "id": "2112343037388964300",
@@ -1219,7 +1336,7 @@
   "author_name": "雪踏乌云",
   "text": "再过几年是不是播客视频都全是AI了...\nAI 视频播客的流水线拆解来了。\n\n这套 Multi-Model 管线非常值得参考：\n\n资产生成：GPT-Image 生成高审美录音棚场景与一致角色\n视频生成：LTX 驱动微表情与侧身动态\n多角色音频：ElevenLabs + Gemini 混合双人音色\n对齐与排版：Soniox 提供毫秒级时间戳，再由 Opus + HyperFrames 直接用代码完成切镜与包装，完全脱离 AE 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 93
+  "bookmarked_order": 102
  },
  {
   "id": "2112173067363389693",
@@ -1232,7 +1349,7 @@
   "author_name": "Robert Scoble",
   "text": "Updates loading \n\nhttps://Alignednews.com 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 94
+  "bookmarked_order": 103
  },
  {
   "id": "2103823847632060854",
@@ -1245,7 +1362,7 @@
   "author_name": "Lemomo",
   "text": "https://x.com/i/article/2103818180565307392",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 95
+  "bookmarked_order": 104
  },
  {
   "id": "2111004009096175757",
@@ -1258,7 +1375,7 @@
   "author_name": "Ray Wang",
   "text": "一周抖音成功起号，播放近百万，我是怎么做到的？ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 96
+  "bookmarked_order": 105
  },
  {
   "id": "2111416302149505270",
@@ -1271,7 +1388,7 @@
   "author_name": "花叔",
   "text": "实测了！DeepSeek-V4.1-Flash-1017 做动效的水平非常牛，基本上仅次于Claude模型的水平。\n\n用GPT-6暂时也没做出这么好的效果。\n\n当然，这是搭配了我新做的动效skill做到的，预计下周发布，敬请期待。 「[图片/视频]」 https://twitter.com/deepseek_ai/status/2111375640717033777",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 97
+  "bookmarked_order": 106
  },
  {
   "id": "2110962673219215719",
@@ -1284,7 +1401,7 @@
   "author_name": "ccjing | (✱,✱) 🐬",
   "text": "抖音起号焚决！！\n\n首先你要能够使用opus 5.5，以下视频全部都是用一句话提示词就可以做到的程度！\n\n一句话提示词如下：现在你是这部片子的负责人是导演，由你来帮我做一部短片，这部短片的主题是《你想要的主题》，这部片子我想要1080p 30fps的，尺寸是16:9，用remotion工程来做这部片子，你可以使用任何你想使用的技术，不需要口播，使用中文字幕把片子讲清楚，动效要足够华丽\n\n如果你做出来的效果不好，不用怀疑，用到降智的opus 5.5了\n\n那么怎么样用到满血不降智的opus 5.5呢？\n\n直接打开 http://ccapi.us 选择「ccmax」分组，保证满血不降智！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 98
+  "bookmarked_order": 107
  },
  {
   "id": "2110812379722183041",
@@ -1297,7 +1414,7 @@
   "author_name": "Sud",
   "text": "Gpt 6.1 Sol Vs Meta Wonder Vs Gemini 4 Argon\n\nI think I clearly see the winner here 👑 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 99
+  "bookmarked_order": 108
  },
  {
   "id": "2110770664101527568",
@@ -1310,7 +1427,7 @@
   "author_name": "seeco",
   "text": "Opus 5.5 just animated a keyboard better than my After Effects ever did\n\nno keyframes, no timeline…\n\nDrop the PDF below into Opus 5.5 and watch it type.\n\nThen save the article, it’s the only Opus 5.5 motion design playbook you’ll need. 「[图片/视频]」 https://twitter.com/seeconvm/status/2106096193235259564",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 100
+  "bookmarked_order": 109
  },
  {
   "id": "2110760973737107952",
@@ -1323,7 +1440,7 @@
   "author_name": "AI Will",
   "text": "沙箱公司 E2B，5 个月用量翻倍到 20 亿\n\n@e2b 今天说：3 年到 10 亿个沙箱，5 个月到 20 亿。Manus 爆火时用的「一次性电脑」就是 E2B，CEO 说 61% 的流量已经是 agent。\n\n可沙箱本身越来越像自来水：CEO 自己说是「大路货」，底层亚马逊开源，接口被腾讯直接兼容。16 个人的 E2B 押的是：开源到底、每个 agent 一朵私有云、守住安全。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 101
+  "bookmarked_order": 110
  },
  {
   "id": "2110632386656612507",
@@ -1336,7 +1453,7 @@
   "author_name": "梦老湿 Dream AI",
   "text": "还是太强了啊，全程Claude，没用一个 3D 软件，不建模、不渲染、不剪辑，这台蒸汽机火车头是 AI 一行行代码写出来的，它连每根连杆怎么动都算好了 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 102
+  "bookmarked_order": 111
  },
  {
   "id": "2110651264141029480",
@@ -1349,7 +1466,7 @@
   "author_name": "AI Will",
   "text": "有人只对 Fable 说了一句：\n\n“帮我做一个很酷的动画。”\n\n15 分钟后，它交出了这个结果。\n\nFable 5.5 做动画真的太强了。到底是怎么做到的？ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 103
+  "bookmarked_order": 112
  },
  {
   "id": "2110905108800430230",
@@ -1362,7 +1479,7 @@
   "author_name": "WquGuru",
   "text": "🎉 Jev 1.14 终于能看图了！！！\n\n我让它在一幅包含上百个小人的画里找一个人，看看效果如何。\n\n尼德兰箴言里藏了上百人物和动物，这里把找人拆成三个步骤：\n\n1. 选块：把画切成 16 块，出一道 choice，16 个选项本身就是 16 张图。它选第 12 块，概率为 0.95\n2. 框：在这一块上问一道 box，返回一个框，置信度 0.77\n3. 验边：四条边各问一道 noul，询问人有没有被这条边截断。上边 0.86、右边 0.80，框把头截掉了\n\n于是把超过 0.5 的边往外推 12%，再问一遍，反复两次终于头进到框里了。\n\n5 次请求，实际 46.4 秒（换成并发可压缩到 6-8 秒），总共消耗 $0.0014。\n\n想必用来自动玩小程序里找不同的无脑游戏挺不错的😁",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 104
+  "bookmarked_order": 113
  },
  {
   "id": "2110758345812349226",
@@ -1375,7 +1492,7 @@
   "author_name": "大卫｜AI抄作业",
   "text": "同志们，好消息，第二个爆款又跑出来了！\n\n「抖音」两天 13.1 万播放、1437 收藏、涨粉 186 😱\n\n完整提示词放在“回复一”里 👇\n\n这个视频的痛点是“声音”，你知道很多用户都是耳机重度用户，这个视频正好切中了这点！\n\n① 片子里每一个音，都按真实频率合成，没有一个采样\n\n② 按古法“三分损益”转 12 次，程序算出多了 1.36%。开头那声“嗡”，就是这两个音真的在打架\n\n③ 1584 年，明朝王爷朱载堉把八度平分成 12 份。片子里 12 个音等比往上走，最后和高八度合上，一点“嗡”都没有了\n\n④ 他用 81 档的大算盘，把 2 的 12 次方根算到 25 位，片子里一位一位拨出来\n\n画面、配乐、数据，全部由代码生成，没有一段素材。\n\n#Claude #vibecoding",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 105
+  "bookmarked_order": 114
  },
  {
   "id": "2110751301042663867",
@@ -1388,7 +1505,7 @@
   "author_name": "0xMarioNawfal",
   "text": "Local vs cloud at Tetris.\n\n•⁠  ⁠Jev (cloud): 316ms per decision, buried alive, game over\n\n•⁠  ⁠Laya (local, open-weights): 43ms per decision, running clean on a 16GB MacBook Air\n\n11x faster and it didn't even need the cloud to get there. 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 106
+  "bookmarked_order": 115
  },
  {
   "id": "2110694725640474759",
@@ -1401,7 +1518,7 @@
   "author_name": "Sac",
   "text": "https://x.com/",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 107
+  "bookmarked_order": 116
  },
  {
   "id": "2110581681736253520",
@@ -1414,7 +1531,7 @@
   "author_name": "观默",
   "text": "上次这篇文章发出几天，收藏就过了 2000\n\n这次我让 Opus 读完全文，直接做了一个 15 秒的视频，看看效果怎么样\n\n纯代码渲染，音效、BGM都是自己做的\nhttps://x.com/guanmo_ai/status/2105146205915283737 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 108
+  "bookmarked_order": 117
  },
  {
   "id": "2110554196953170106",
@@ -1427,7 +1544,7 @@
   "author_name": "疯狂的烤妹儿 🩵",
   "text": "发现了一个抖音涨粉的邪修方式，现在还有很强的红利期👇\n\n这个账号 6 天一共发了 12 条内容，但是！！直接涨了将近 3w 粉～\n\n它做的事情很简单——那就是把热门文案用 Vibe 动效的方式再做一遍，甚至配音都不需要，只有一个背景音乐。\n\n说是多精美吗？其实并没有，放到 X 上还不够各位大佬看的。\n\n但是就这么获得了 40w 的赞，所以国内外真是有巨大的 AI 信息差，快试起来！！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 109
+  "bookmarked_order": 118
  },
  {
   "id": "2109901955376001295",
@@ -1440,7 +1557,7 @@
   "author_name": "王长富",
   "text": "我操\n\n刚刚才知道\n\n就在今年上半年\n\n有个做 AI 的公众号\n\n赚了 1000 多万人民币！！！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 110
+  "bookmarked_order": 119
  },
  {
   "id": "2109951780922769792",
@@ -1453,7 +1570,7 @@
   "author_name": "红鱼（X最友善的人）",
   "text": "墙内外的赚钱信息差！！！！！\n\n第八期：\n\n1、小红书有个2000粉的博主卖减肥食谱，文案、配图都是参考ins同类型博主！8月3号开始发第一篇笔记，到今天已经卖了8000份！一份卖9.9！纯利将近8万！！而且在小红书减肥相关话题流量巨好！！！！\n\n2、我堂妹把油管上的儿童教育故事翻译成中文，在视频号和小红书针对宝妈人群营销，标题写“宝妈哄睡神器”、“儿童睡前故事”，直击哄睡难这个痛点！营销视频只有一分钟，想要完整版则是18.8 一份！干了五个月准备提E300了！！有时候换个场景、换个人群就是非常大的需求！！\n\n3、抖音上很多博主，把GitHub上热门的开源项目，伪装成自己的项目，让Ai改个界面、加个收费接口，或者直接把项目安装包拿去卖，照样赚的盆满钵满，而且GitHub上的热门项目基本都做过一轮市场验证，拿到国内市场需求非常大！墙内外的信息差无处不在！\n\n4、国内很多做二手奢侈品和做代购的，都是在yahoo、mercari、poshmark等二手平台拿的货，最好做的是买卖大牌饰品，因为重量轻、体积小，运费便宜，但由于品牌溢价过大，我拿回国内平台基本上能轻轻松松翻倍卖！！！\n\n5、公众号上有个账号，专门收集reuters、bloomberg、wried这些国外热门期刊的投资、科技、军事板块的文章，翻译成中文，转手拿到公众号去发，吸引的都是有消费力、且愿意提高“认知”的中登，订阅费39.9一个月，每个月上千人订阅！！！\n\n墙内外的信息差真的太多了！！！\n\n你只需要做个中介，把某个平台的内容，包装一下，拿到其他平台，就能赚盆满钵满！！！！🥹🥹",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 111
+  "bookmarked_order": 120
  },
  {
   "id": "2109996604925370683",
@@ -1466,7 +1583,7 @@
   "author_name": "兴雨",
   "text": "首条 Claude Opus 5.5 科普视频\n 9 月 30 号发布，到现在 10 月 13 号\n\n14 天涨了 16 万粉丝，一天一万😱\n\n多少人做自媒体两三年都没 10 万粉😭\n虽然说大部分取决于模型的功劳\n但现在能稳定用 Claude，何尝不是一种能力\n\n有没有已经在做这类科普内容的朋友来说说？？？ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 112
+  "bookmarked_order": 121
  },
  {
   "id": "2110259424329961839",
@@ -1479,7 +1596,7 @@
   "author_name": "RicoUI",
   "text": "老实说，我很难相信 Gemini 4 Argon 能轻易的做到，如果是真的，那么以目前便宜的价格优势，接下来又会是热热闹闹的新神登基时刻了。\n\nThe Bugged Dev 发给 Gemini 4 Argon 一张哥特维多利亚式马车的图片制作了这个作品，并且所有这些都是通过代码生成的，没有使用 Blender：\n\n“一个从零开始的 174,000 面模型，配备可开启的车门、铰链窗户、工作中的车轮物理、悬挂系统、闪烁的灯笼，甚至还有定制雕刻的骷髅。 ” \n 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 113
+  "bookmarked_order": 122
  },
  {
   "id": "2110026931458769361",
@@ -1492,7 +1609,7 @@
   "author_name": "Andy L",
   "text": "14 天涨粉 16.3万！平均每天涨 1 万多！ \n\n9 月 30 日才开始用 AI 做科普视频，10 月 13 日就干到了这个成绩。\n\n多少人辛辛苦苦做自媒体两三年，都攒不到 10 万粉。😂\n\n不得不说，AI 正在重新洗牌内容创作。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 114
+  "bookmarked_order": 123
  },
  {
   "id": "2110291746613850602",
@@ -1505,7 +1622,7 @@
   "author_name": "观默",
   "text": "AI 已经能做出这种级别的动效了。\n\n15 秒，0 素材，每一帧都是代码写的，连音乐都是。\n\n以前做这样一支动效：\n设计师 + AE + 音效师，至少几天。\n\n现在：一句话。视频做得越来越便宜，越值钱的是你的想法。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 115
+  "bookmarked_order": 124
  },
  {
   "id": "2110294038884843751",
@@ -1518,7 +1635,7 @@
   "author_name": "XOrtix",
   "text": "@cb_doge To the moon 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 116
+  "bookmarked_order": 125
  },
  {
   "id": "2110195768854561104",
@@ -1531,7 +1648,7 @@
   "author_name": "Hailey",
   "text": "我的副业又开辟新赛道了：电子手绘水彩绘本！\n\n让 Opus 5.5 干了 2 个小时，直接搓出一部 4 分钟的高质量动态绘本，有水彩动画、有剧情、还有配音！\n\n人与人之间的差距，大概就是一个 Opus 会员的距离。\n\n大家喜欢的话，我就整理成 Skill 开源出来。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 117
+  "bookmarked_order": 126
  },
  {
   "id": "2110160218453869006",
@@ -1544,7 +1661,7 @@
   "author_name": "鹿川 Luchuan",
   "text": "想不通啊\n\n怎么 anthropic 大举反蒸馏以后\n\n国产大模型怎么变得静悄悄啊",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 118
+  "bookmarked_order": 127
  },
  {
   "id": "2110223784791937384",
@@ -1557,7 +1674,7 @@
   "author_name": "Hux",
   "text": "Anthropic 的工程师说：我们内部已经不怎么写 prompt 了，写的是循环。\n\n她在台上花了半小时，展示了 Claude 团队如何创建能够自我提示的循环。\n\n如果这堂课卖 700 刀，今年 Agent 课的榜单大概就是它。但它是免费的。\n\n真正拉开代际差距的，不是谁的 Prompt 写得好，而是Agent系统架构彻底换了：\n\n1. 记忆从一份 CLAUDE.md，进化成 Agent 自己读写的 memory/ 目录\n\n2. 记忆待在对话里会烂掉：注意力被劈开，规律被埋住，旧笔记还在自信地用错\n\n3. 白天各 Agent 把进展写进团队记忆\n\n4. 夜里再跑一轮 dreaming：核对、整理、补全。第二天开工的那个，自动比昨天聪明一点\n\n数据结果也很直观：一次通过的错误少了 97%，验收快了 30%。人回去看产品，不再一直盯着提示词。\n\n提示词是一次性的，而循环能够持续执行。\n\n差的不是你会不会问。\n\n是你的 Agent 睡一觉之后，还记不记得昨天学到的东西。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 119
+  "bookmarked_order": 128
  },
  {
   "id": "2109978137794883621",
@@ -1570,7 +1687,7 @@
   "author_name": "0xProbability",
   "text": "Reverse engineered my IoT devices and vibe coded my whole apartment into the menu bar.\n\nClick a lamp in the 3D model, the real one turns on. ACs too.\n\nWhy stop at one AC. 「[图片/视频]」 https://twitter.com/icanberk/status/2109031477484937571",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 120
+  "bookmarked_order": 129
  },
  {
   "id": "2110044544494600619",
@@ -1583,7 +1700,7 @@
   "author_name": "Snail",
   "text": "我把电脑里 8 个 Claude 做视频的 skills，做成了一支 100 秒的视频。片子本身也是 Claude 写代码做出来的，用的是其中第一个。\n\n下面挨个说说它们各自适合干什么。\n\n1. xilo-opus-video\n最通用。给它一个想法、一篇文章或一支参考视频，它先出三套方案和预览，你选一套，它再做成片。\nhttps://github.com/Kianzzz/xilo-opus-video\n\n2. lemo-opuscar\n一本风格图册。43 种影片风格，油画厚涂、中国水墨、浮世绘、白板讲解……报出风格名，它照着做。每种风格都配了一支纯代码样片。\nhttps://github.com/lemomo-ai/lemo-opuscar\n\n3. mg-styles-15\n专做 MG 动态设计。15 种风格，每支 10 秒，附完整提示词和源码，连配乐都是用代码编的。\nhttps://github.com/Vincentwei1021/mg-styles-15\n\n4. dashi-animationstyle\n给口播配画面。15 到 60 秒的中文口播，自带 7 套画风（手绘笔记、复古报刊、黑底科技等），成片带字幕，能直接拖进剪映。\nhttps://github.com/chuspeeism/dashi-animationstyle\n\n5. huashu-art-motion\n把美术史搬了进来。从洞穴壁画到像素游戏，35 种艺术风格都能动，另外还有 9 种解说动画的讲法。\nhttps://github.com/alchaincyf/huashu-art-motion\n\n6. wtt-code-animation-studio\n从编剧开始。一个想法进去，剧本、分镜、可改的源码、带声音的成片一次交齐，沙画、粉笔、水彩这类画法也能做。\nhttps://github.com/WaterDJiang/Wattter_openSkills/tree/main/wattter_skills/wtt-code-animation-studio\n\n7. video-shotcraft\n专拍产品。把你的网页或前端项目做成带 2.5D 运镜的宣传片，自带 124 张镜头配方卡。\nhttps://github.com/Vincentwei1021/video-shotcraft\n\n8. archival-doc（我自己做的）\n这一个不画画。它去找公有领域和 CC 授权的真实历史影像，核对素材许可，再剪成纪录片。\n\n感谢各位开源作者！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 121
+  "bookmarked_order": 130
  },
  {
   "id": "2110289331781034293",
@@ -1596,7 +1713,7 @@
   "author_name": "Sac",
   "text": "感谢大家对小王子游戏项目的支持，目前网站流量太火爆了！！！\n\n游戏现已支持中文、英文、法语、日语等八种语言\n\n如果大家在游玩过程中遇到任何问题，欢迎在本帖下面留下你们的宝贵反馈和相关截图。后续我会用grok收集起来并尽快统一修复！ 「[图片/视频]」 https://twitter.com/Saccc_c/status/2109962425512734739",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 122
+  "bookmarked_order": 131
  },
  {
   "id": "2110249491056238874",
@@ -1609,7 +1726,7 @@
   "author_name": "Dmiao豆苗啊",
   "text": "😆现在制作 360° Orbit 环绕效果太简单了\n上传你的图片→ 输入指令 →玩法Get\n\nPormpt指令👇 「[图片/视频]」 https://twitter.com/nima2qisi2/status/2110212608057852037",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 123
+  "bookmarked_order": 132
  },
  {
   "id": "2110161050444484850",
@@ -1622,7 +1739,7 @@
   "author_name": "ImL1s",
   "text": "今日 AI 情勢 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 124
+  "bookmarked_order": 133
  },
  {
   "id": "2109982650199060818",
@@ -1635,7 +1752,7 @@
   "author_name": "刘老板",
   "text": "https://x.com/i/article/2109980820748570624",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 125
+  "bookmarked_order": 134
  },
  {
   "id": "2110014349247221869",
@@ -1648,7 +1765,7 @@
   "author_name": "超级峰",
   "text": "😱 太可怕了这个一键发布多个平台的谷歌插件\n\n真TM的卷啊，直接把各个平台的流量标签放到产品里面去了\n\n一键告诉你哪些平台带什么标签就有流量，好久没见到做得这么细的产品了\n\n关键是它不会被小红书、抖音这些检测到，自动发布多个平台！！！\n\n都给我冲：https://chromewebstore.google.com/detail/%E4%B8%80%E9%94%AE%E5%8F%91/dmcejnbkknlkpcbaggoeiminccbpliaj 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 126
+  "bookmarked_order": 135
  },
  {
   "id": "2109926751694361050",
@@ -1661,7 +1778,7 @@
   "author_name": "小互",
   "text": "Meta Muse 设计负责人分享 Muse 的设计思路：\n如何让个人AI Agent 融入日常生活\n\n深入探讨了其界面设计哲学、底层交互逻辑以及意想不到的高阶个人玩法...\n\nMuse 如何把个人 Agent 做成日常聊天助手，让普通用户也能开始用它办事\n\n如何把旧收藏和个人记录变成愿意翻、愿意听、方便复盘的产物，让已有资料重新派上用场",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 127
+  "bookmarked_order": 136
  },
  {
   "id": "2110167534028963932",
@@ -1674,7 +1791,7 @@
   "author_name": "Andy L",
   "text": "Gemini 4 Argon 这 3D 建模能力是真离谱！\n\n直接用 Three.js，纯代码生成了一架未来战斗直升机！\n\n没有现成模型，全靠 AI 从零搭建。😱 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 128
+  "bookmarked_order": 137
  },
  {
   "id": "2109994059511234568",
@@ -1687,7 +1804,7 @@
   "author_name": "Miles Ma",
   "text": "这套工作流，直接拿去视频号卖各 9.9 没毛病吧 「[图片/视频]」 https://twitter.com/better_christal/status/2109639305190863341",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 129
+  "bookmarked_order": 138
  },
  {
   "id": "2110068132836692354",
@@ -1700,7 +1817,7 @@
   "author_name": "Doe",
   "text": "asked Gemini 4 Argon for a castle \n\n&gt; and it did it under 4 minutes  i'ts crazy fast 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 130
+  "bookmarked_order": 139
  },
  {
   "id": "2110174060206526484",
@@ -1713,7 +1830,7 @@
   "author_name": "沐阳",
   "text": "Astra可以，Fable5可以，Opus5.5可以，\n现在Gemini 4 Argon也可以！！\n\n模型能力的差距会在一个月内拉平，\n慢一点吧，多卷卷价格。\n把价格打下来！！！ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 131
+  "bookmarked_order": 140
  },
  {
   "id": "2110069500435681514",
@@ -1726,7 +1843,7 @@
   "author_name": "兴雨",
   "text": "卧槽😱😱😱\nGemini 4 Argon 好像有点超标啊！\n\n0 模型文件！\n0 图片贴图！\n只凭几千行纯代码，\n彻底绕过了复杂的 3D 建模软件..绕过资产制作！\n就直接在浏览器里搞出一个完整的 3D 中世纪小镇！！！😱 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 132
+  "bookmarked_order": 141
  },
  {
   "id": "2110038429199450126",
@@ -1739,7 +1856,7 @@
   "author_name": "Fish Audio",
   "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://s.fish.audio/rqh0l8\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://s.fish.audio/qz9r0t",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 133
+  "bookmarked_order": 142
  },
  {
   "id": "2109956450420494548",
@@ -1752,7 +1869,7 @@
   "author_name": "루샨 lucian",
   "text": "🔥 반응이 넘 좋아서 조만간 추가 100개 Interactive UI 새로 만들어 업데이트해 보겠습니다. 🔥\n\n무한 감사드립니다! 🙇‍♂️🙇‍♂️\n\n둘러보기: https://lucianlabs.dev/uxui-prompt/ 「[图片/视频]」 https://twitter.com/lucian__03/status/2109637939093254646",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 134
+  "bookmarked_order": 143
  },
  {
   "id": "2110263359878627416",
@@ -1765,7 +1882,7 @@
   "author_name": "Bear Liu",
   "text": "发现一个 vibe coding 出来的小游戏，相当爽快，在浏览器端就可以玩火柴人版的 CS，随时加入都可以开始。我刚刚用手机玩了一下，竟然都可以流畅运行。太牛了！作者说他就是一周时间用 Claude Code 来写的，基本就是坐在那儿按回车确认。网址在下面。 \n\nStickfrag-com 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 135
+  "bookmarked_order": 144
  },
  {
   "id": "2110243172781875298",
@@ -1778,7 +1895,7 @@
   "author_name": "栗噔噔",
   "text": "Opus 5.5做视频很好，但是我没有Claude账号咋办？\n没关系，我把Opus做视频的逻辑沉淀下来做了一个skill，第一个视频是用5.6 sol跑的，周额度消耗3%，就是很慢，花了1个小时\n第二个视频是用千问办公跑的，消耗积分400\n第三个视频是WorkBuddy做的，消耗积分1200，模式选极致，默认调用了GLM5.3\n\n总之，这是可复现的，纯AI写代码，0视频模型，可行",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 136
+  "bookmarked_order": 145
  },
  {
   "id": "2110041611455353197",
@@ -1791,7 +1908,7 @@
   "author_name": "genevieveh@",
   "text": "Gemini 4 Argon is here!!! I can't wait to see what people build with it, and I have so much to say/post/share but to start: \n\nI used Argon to turn pictures of my home office desk into a playable racing game with Blender MCP and Three.js. How-to below: 🧵 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 137
+  "bookmarked_order": 146
  },
  {
   "id": "2109612639231856876",
@@ -1804,7 +1921,7 @@
   "author_name": "Hayriye",
   "text": "New component!! 🎉 @framer \n\nhttps://www.framer.com/marketplace/components/hanging-team/ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 138
+  "bookmarked_order": 147
  },
  {
   "id": "2110069786415968754",
@@ -1817,7 +1934,7 @@
   "author_name": "Bee",
   "text": "Gemini 4 Argon - A futuristic 3D battle helicopter made purely in three.js !\n\nEverything you see was procedurally generated from scratch.. this is a result of multi round self iteration loop of Argon + Nano Banana.. I'll share the workflow soon!\n\nThere's more to come so stay tuned! Don't miss the ending...",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 139
+  "bookmarked_order": 148
  },
  {
   "id": "2109919568617484522",
@@ -1830,7 +1947,7 @@
   "author_name": "火山哥🕊️",
   "text": "兄弟们，这事有点离谱了。\n\n一个多月前，抖音一个哥们做了个纯本地的赛博女友。那条16万人看过，收藏比点赞还多，2.2万个人默默存了下来。\n\n今天他已经让「赛博小雅」在抖音开直播了。\n\n不是剪辑，不是录播，是AI自己在直播间跟观众实时聊天。\n\n回头看她是什么做的：：\n\n✅ 不联网、不用API key，全本地跑  \n✅ 听：Silero VAD + SenseVoice  \n✅ 想：本地 llama.cpp（Qwen2.5-7B）  \n✅ 说：CosyVoice2  \n✅ 四个模型挤在15G显存里\n\n一张消费级显卡，从一个开源项目开始，到一个能开直播的“虚拟主播”。\n\n一个人，一个多月。\n\n我看了一段，你们自己感受下。\n\n我的Codex还在帮我天天做图，人家的AI已经出去挣钱了。\n\n别人还在卷Whisper和通用TTS，他直接换成SenseVoice + CosyVoice，中文识别更准、声音更自然，延迟也压得住。\n\n一张15G显卡，纯本地跑通实时互动。\n\n这才是真正的差距。\n\n不是谁模型更大，谁调用更贵。是谁肯动手把东西跑通，然后真的拿出去面对真人。\n\n赛博女友从项目变成虚拟主播，一个多月。\n\n人家已经赚麻你呢？",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 140
+  "bookmarked_order": 149
  },
  {
   "id": "2109832063490908640",
@@ -1843,7 +1960,7 @@
   "author_name": "AB Kuai.Dong",
   "text": "太良心了。马斯克旗下的所有 AI 和社交软件，终于迎来大统一，过去要分开买的那几个会员，现在全打包成一个 X 平台订阅了。\n\n只需 8 美金，就可以同时获得大模型 Grok、本地写代码工具 Cursor、X 平台大会员 X Premium 的付费会员待遇。\n\n而如果想使用 AI 助手 Grok Bot，则需要升级成 30 美金会员，但用量是 8 美金套餐会员的 4 倍。\n\n对于老用户，也可以切换到新套餐，并把 Grok、Cursor、X 账号关联起来。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 141
+  "bookmarked_order": 150
  },
  {
   "id": "2110017490336334232",
@@ -1856,7 +1973,7 @@
   "author_name": "山羊赚钱笔记",
   "text": "分享一个闷声发财的小赛道：闲鱼上那些卖0.01元的资料，你以为是在做慈善？人家靠这一分钱，后面赚的是网盘的钱！！\n\n原理简单到离谱：\n你把资料放进夸克这类网盘，在闲鱼挂一分钱，设置好自动发货；\n买家付了0.01元，拿到的是网盘链接，想看资料就得先打开网盘、存一下；\n就在他点下\"保存\"的那一刻，网盘的拉新奖励已经进了你的账户！！\n\n拉来一个新用户，大概能拿10块，活动期间还更高；\n老用户转存一次也有钱，虽然只有几毛。\n\n你算算这笔账：\n一份考研真题、一套简历模板、一个PPT素材包，挂上去一天被拍走100次，就算只有三成是新用户，一天也有三百来块！！！\n\n资料只要整理一次，发货全自动，躺着都在进账。\n\n这就是信息差最狠的地方：买家觉得自己捡了便宜，卖家早就闷声把钱赚走了！！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 142
+  "bookmarked_order": 151
  },
  {
   "id": "2110035606776815955",
@@ -1869,7 +1986,7 @@
   "author_name": "Stella",
   "text": "不懂就问\n\n老干妈用AI一年赚了54亿\n\n这个AI到底用在哪了？？？\n\n炒辣椒的时候用的吗？🤔",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 143
+  "bookmarked_order": 152
  },
  {
   "id": "2110022966436340012",
@@ -1882,7 +1999,7 @@
   "author_name": "骑手郑师富（诚信经营）",
   "text": "@lidangzzz 黄奇帆真的有一套，一个个的案例拆解分析，非常透彻！ https://x.com/chat24954lip/status/2110001378148106378?s=46",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 144
+  "bookmarked_order": 153
  },
  {
   "id": "2110106922322120937",
@@ -1895,7 +2012,7 @@
   "author_name": "宝玉",
   "text": "Google Play 开放“个人 App”：用 AI Studio 手搓的安卓应用，不用注册开发者也能直接装进自己手机\n\n10 月 13 日，Google 宣布了一项对普通玩家非常友好的更新：你在 Google AI Studio 里让 AI 写出来的安卓 App，现在可以直接通过 Google Play 安装到自己的手机上运行了。整个过程只需要一个普通的 Google 账号，根本不用去折腾开发者注册。同一天上线的，还有 Ask Play 的应用对比功能，以及帮玩家淘游戏的新工具 Game Finder。\n\n【谁能先用上？】\n\n“个人 App”功能从今天起逐步推送，首批覆盖“包括美国在内的部分市场”，且仅限 18 岁以上用户。不过 Google 官方只点名了美国，没透露具体还有哪些国家和地区。由于 Google Play 未在中國大陆提供服务，大陆用户暂时还无缘体验。\n\n【怎么把 AI 写的 App 装进手机？】\n\n以前在 AI Studio 里虽然也能做安卓 App，但想装到手机上，对于不懂开发的普通人来说简直是劝退现场：你得拿根数据线把手机连上电脑，还要进设置里一步步打开调试授权，门槛相当高。\n\n现在整个链路彻底打通了。你只需要在 AI Studio 里像聊天一样提需求，让 AI 帮你生成安卓应用（也就是现在很火的 vibe coding，靠聊天驱动写代码），接着就能直接通过 Google Play 把它推送到自己的设备上。Google Play 副总裁 Sameer Samat 在推文里特意强调，这属于“无线安装”，彻底甩掉了数据线。据 Engadget 报道，安装好的应用会躺在你 Play 商店新增的“个人库”里；除了手机，只要能用 Play 商店的平板和电脑也都能装。\n\n这些“手搓”出来的 App 仅限你自己的设备使用，不会进入 Play 商店的公开目录，别人也搜不到。Google 表示，未来几个月内会开放分享功能，让你能把做好的小工具发给“亲近的朋友和家人”，但目前还只能自己独享。\n\n【要交 25 美元注册费吗？要审核吗？】\n\n如果只是做给自己用，完全免费。要知道，注册一个正式的 Google Play 开发者账号得交 25 美元的一次性注册费，而“个人 App”直接帮你省下了这笔钱和繁琐的流程。\n\n至于大家关心的审核问题，官方公告里只明确了一种情况：如果你哪天想把自己的 App 公开上架、让所有人都能下载，那就必须升级为正式的开发者账号；到那时，你的 App 也得和其他正规应用一样，老老实实走完信任、安全和质量审核流程。\n\n那自用阶段到底审不审？官方正文里巧妙地避开了这个话题。不过据第三方媒体 AndroidPure 透露，在 Google 放出的界面示意图上，有一行小字写得很清楚：这类 App 只有创建者本人可见、可安装，不会经过 Google Play 的审核。\n\n【安全问题怎么兜底？】\n\n官方在公告里只丢下一句定心丸，说这些个人 App “私密、安全，且与公开商店相互隔离”。但具体到底怎么个安全法？安卓自带的恶意软件扫描工具 Play Protect 会不会扫它们？这些 AI 写出来的代码会怎么处理手机里的个人数据？对于这些核心细节，Google 这次守口如瓶，只字未提。\n\n【同场加映：用 AI 挑应用、找游戏】\n\n除了降低做 App 的门槛，Google 这次还顺手升级了找应用和找游戏的体验：\n\n1. Ask Play 支持应用PK了\n\nAsk Play 是内置在 Play 商店里的 AI 助手，以前你向它提问，它会给你推荐应用。从今天起，它学会了“拉表格做对比”——能直接把几款同类 App 放在一起，帮你梳理核心差异和真实的用户评价。不过官方同样没交代这个功能会在哪些地区开放。\n\n2. 在 Gemini 里直接逛 Play 商店\n\n全新的 Play in Gemini 功能会把 Play 商店里的应用、游戏和开发者内容直接接入 Gemini 的对话框里。官方承诺“很快”就会向所有 Gemini 用户推送，但还没给出确切的时间表。\n\n3. 更懂你的找游戏神器 Game Finder\n\n这是一个全新的游戏发现工具，底层的核心叫“Gamer DNA（玩家基因）”。它会根据你平时的游玩习惯和填过的偏好，为你生成专属画像；你也可以手动勾选喜欢的游戏、类型和玩法来随时微调。\n\n当你点开一款新游戏时，它会非常直观地告诉你：和你口味相似的玩家玩得开不开心、你关注的人里有几个正在玩、大家的评价汇总，甚至还会告诉你最近哪些游戏正在火、为什么火。该功能今天起率先面向美国用户推出英文版，其他市场“即将跟进”。\n\n4. 游戏社交与轻度竞赛\n\n今天同步在所有市场推开的还有 Sprints，这是一种限时 48 小时的微型挑战赛，支持 2 到 5 人组队比拼。另外，所有游戏的详情页里都加上了“社区帖子”板块，玩家们可以在里面直接提问、交流攻略，覆盖所有游戏和语种，还自带实时自动翻译。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 145
+  "bookmarked_order": 154
  },
  {
   "id": "2110007797983113483",
@@ -1908,7 +2025,7 @@
   "author_name": "Manus",
   "text": "We’re partnering with OPPO to bring Manus to AI Mind Pilot’s new Agent Mode, debuting on the Find X10 Series with ColorOS 17! https://twitter.com/colorosglobal/status/2109941565292732465",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 146
+  "bookmarked_order": 155
  },
  {
   "id": "2109962425512734739",
@@ -1921,7 +2038,7 @@
   "author_name": "Sac",
   "text": "花费16天，我用 Opus 5.5 将小王子的故事制作成了3D剧情游戏\n\n结合Tripo+Blender，Opus 5.5 将小王子故事中的每一个星球变成了可探索的3D场景\n\n希望大家能支持一手，后续会开源整个游戏，以及详细制作流程\n\nWelcome to The Little Prince: Across the Stars✨：https://littleprince.dev/ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 147
+  "bookmarked_order": 156
  },
  {
   "id": "2109702631111164226",
@@ -1934,7 +2051,7 @@
   "author_name": "Ramin Nasibov",
   "text": "File upload, claw machine style. 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 148
+  "bookmarked_order": 157
  },
  {
   "id": "2109602441356583178",
@@ -1947,7 +2064,7 @@
   "author_name": "Leo · Building w/ AI",
   "text": "Gemini4 Argon miku SVG绘图动画过程\n\n这次是真震惊呆坐了。。。（你要不是震惊，我都不信）\n\n终于看到了 AI 用 SVG 作画的过程了。。。这也太专业了吧。。。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 149
+  "bookmarked_order": 158
  },
  {
   "id": "2109548736011710733",
@@ -1960,7 +2077,7 @@
   "author_name": "刘老板",
   "text": "GPT 啊！GPT！全天下都看衰你，偏偏你最争气！ \n\n这一刻，我觉得为你保留的订阅费，终于听到了回音。\n\n废话不多说，看下方视频效果👇！\n\n「手绘口播视频.skill」，经过这几天的极限调教，已经无限接近完美。\n\n大道至简，单模型一键直出！\n\n明天，我就会正式发布这个 Skill。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 150
+  "bookmarked_order": 159
  },
  {
   "id": "2108199183983497433",
@@ -1973,7 +2090,7 @@
   "author_name": "Baptiste (Kelano)",
   "text": "I used Opus 5.5 to make a motion design video about Haiku\n\nThis is 100% motion graphics and code\n\nShort story about Opus delegating small tasks to Haiku\n\nPrompt in the comments 「[图片/视频]」 https://twitter.com/claudeai/status/2107894039626277339",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 151
+  "bookmarked_order": 160
  },
  {
   "id": "2109223026323845618",
@@ -1986,7 +2103,7 @@
   "author_name": "拾伍",
   "text": "Grok Bot 做视频真的牛逼啊，用 mole 做了一个测试 @HiTw93 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 152
+  "bookmarked_order": 161
  },
  {
   "id": "2108217101035184164",
@@ -1999,7 +2116,7 @@
   "author_name": "Sac",
   "text": "跟随卡神的步伐，我用 Teamily AI 制作了AI 3D 信息源监控网站，集合了所有一手 3D 厂商的最新信息以及各路大神用 AI 建模的神仙玩法\n\n做完最大的感受：Teamily AI 的群里不光有 Agent，还能拉真人进来。几个人 + 几个 Agent 共用一份上下文，一边聊一边接着改，这才叫 Humans + Agents 平台\n\n通过这个网站，不仅可以及时掌握3D建模、blender白模等最新的 AI 3D玩法，还可以很方便的了解opus 5.5、astra 这类模型的3D能力\n\n网站全程在 Teamily AI（ @Teamily_AI ）的群里构建，从调研方案  👉UI设计  👉 后端接入，每一步都接着上一步的结果往下做，不到30min全部搞定，强烈建议有类似需求的朋友可以试试～\n\n在 Teamily AI 里，你可以把不同 Agent 和一起干活的人拉进同一个群聊，分工完成任务，并在过程中不断提出反馈、调整目标\n\n在我的信息监控网站构建过程中，我觉得Teamily相比常见Agent具有以下特色和优势：\n\n1、将方案规划、UI/UX 设计、后端接入等工作分派给不同 Agent，让每个 Agent 专注于自己负责的部分，职责和交付都更清晰\n\n更关键的是，Teamily内置Loop功能，你可以像我视频中一样搭建一套完整的建站工作流，将前端、后端、测试这些关键环节串起来，最后一个节点是我自己：Agent 改完，我在群里审核通过才发布\n\n第二天我真的又跑了一次：我拉了一起合作的伙伴进群，他在群里提了个新需求，希望去完善整体的UI布局。我一条消息启动 Loop，同一套 Agent 接着改，网站更新成了第二版：相关图标和文字都得到改善。之后若有功能更新需求，直接一键开启loop复用流程就能快速落地了，非常方便！\n\n2、Agent之间共享上下文，所有项目资料、历史成果和你的反馈都将成为团队共同的工作背景。如果你在建站中途发现整体设计有功能层面的遗漏，直接快速提出意见，各个Agent将及时调整自己负责的部分，省去不少沟通成本，人和 Agent 越用越像一个真正的团队\n\n这或许才是相比当下爆火的Muse、Dots等单一AI助手更适合正式生产工作的AI工具，强烈建议大家有需求的都快去试试！  \n\n网站在这：https://x3d-monitor-static-0ei3bk89.teamily.run\n\nTeamily 传送门：https://teamily.ai/i/8RUWQV",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 153
+  "bookmarked_order": 162
  },
  {
   "id": "2108409664018977249",
@@ -2012,7 +2129,7 @@
   "author_name": "Moby",
   "text": "一个互动沙盘把自然、地理、历史、文化、民族、经济、政治，融合到一起，内含12个主题，223段个段落，80分钟的语音动画讲解，也可以自由探索、学习，孩子们通过一个互动课件可以探究式学习，乐不思书。以前要开发这样体量一套3D可视化至少100万以上，3个月；现在人 8个小时+AI 50个小时。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 154
+  "bookmarked_order": 163
  },
  {
   "id": "2108408976136356165",
@@ -2025,7 +2142,7 @@
   "author_name": "Eian",
   "text": "同样的方法用codex试了一下，用Astra出一条视频基本会花光5小时额度（我是plus）无论是效果还是速度都差一些，最后还是让Claude优化了一下才搞完。 「[图片/视频]」 https://twitter.com/eianlu/status/2104758915636593119",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 155
+  "bookmarked_order": 164
  },
  {
   "id": "2108421514966298799",
@@ -2038,7 +2155,7 @@
   "author_name": "Higgsfield AI 🧩",
   "text": "Higgsfield Katana drew every frame of this paper animation right in Claude.  \n\nJust Claude. Nothing else.\n\nWhat else can it do? 「[图片/视频]」 https://twitter.com/higgsfield/status/2108294775644585998",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 156
+  "bookmarked_order": 165
  },
  {
   "id": "2108224891015360813",
@@ -2051,7 +2168,7 @@
   "author_name": "Miles Ma",
   "text": "大家都去用 Grok Bot 做视频，效果太棒了！！！\n\n不需要订阅 Claude ，不怕封号，直接就可以用 Opus5.5 出视频，可以直接去闲鱼接单了 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 157
+  "bookmarked_order": 166
  },
  {
   "id": "2108095076929085510",
@@ -2064,7 +2181,7 @@
   "author_name": "Jeroen van Welsenes",
   "text": "made my own website so i can touch grass without going outside\n\nOne shotted with Opus 5.5 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 158
+  "bookmarked_order": 167
  },
  {
   "id": "2108368287591751969",
@@ -2077,7 +2194,7 @@
   "author_name": "余温",
   "text": "wok，做动效最大的痛点彻底打通，Claude Motion + Higgsfield Katana，一个人就能承包一整个工作室！！！\n\nClaude Motion 做动效本来就很牛逼，配上 Higgsfield Katana，从想法、做动画、来回修改到最终渲染，一条工作流解决。\n\n而且整条视频都是代码写的，字体、时间点、运镜、情绪，每个细节都能改，你说哪里它就改哪里。\n\n你只管当艺术总监，从想法到成片，全流程制作交给 Claude 和 Higgsfield。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 159
+  "bookmarked_order": 168
  },
  {
   "id": "2105310524137160706",
@@ -2090,7 +2207,7 @@
   "author_name": "Motion",
   "text": "A launch video for OpenAI’s new dots, made by dots.\n\nWe gave it Motion and one prompt: “Make a launch video for yourself.”\n\nThis was one shotted👇 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 160
+  "bookmarked_order": 169
  },
  {
   "id": "2105236617846046790",
@@ -2103,7 +2220,7 @@
   "author_name": "麦麦提",
   "text": "满意！\n我用claude做了一个深圳短纪录片，出去接了个孩子的功夫，回来已经做好了，效果不错。\n一句话生成的，Ai自己找素材，自己剪。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 161
+  "bookmarked_order": 170
  },
  {
   "id": "2105140615206076785",
@@ -2116,7 +2233,7 @@
   "author_name": "探路AI",
   "text": "仙侠世界中的侠女 在 00年代的中国 南方小镇 被意外 拍到\n\n侠女御剑飞行 也要记得看路，不然后果很严重🤯\n\n完整提示词 在下面 🔽 🔽 🔽\n\n大家可以发给任意AI，替换自己的脑洞剧情\n\n4:3横向画幅，一镜到底。2000年初中国南方小镇，一段普通人用家用MiniDV偶然拍到的离奇事件：青衣女子御剑飞行，撞到高处的限高横梁，随后摔落在马路上。纪实、略模糊、手持、不完美构图，呈现真实现场感。不出现DV机本体。\n【人物与服饰】\n成年青衣女子，保持参考图中的五官、额间细小花纹、半束黑色长发与发饰。\n穿浅灰绿色交领长袍，内搭白色交领衣，领口层叠，衣袖宽松，布料有自然褶皱。服装保持参考图的款式与配色。飞行时长发、宽袖和袍摆随气流向后飘动，布料有真实重量，不像烟雾漂浮。\n她站在一把接近真人身长的实体金属长剑上，剑尖朝前，剑身基本水平。人物重心稳定，身体与剑同步移动。只有一把剑，没有剑光、法阵、粒子或飞行尾迹。\n【场景】\n2000—2005年中国南方小镇的普通水泥马路。两侧是二三层旧自建房、浅色小方磁砖外墙、绿色窗框、卷闸门、褪色中文招牌和架空电线。路边停着旧摩托车、自行车和一辆面包车，墙角有雨渍与青苔，水泥路有裂纹和修补痕迹。\n道路中间空着，没有围观人群，没有小卖部老板，也不安排额外人物的反应镜头。\n前方是一座固定钢制限高架，两根粗钢立柱立在道路两侧，横梁跨过整条马路，离地约4.5米，接近沿街建筑二楼上沿。黄黑警示漆褪色，表面有锈迹。\n用建筑楼层、地面车辆和立柱的比例表现横梁的高度，普通面包车能轻松从下面通过。这不是低矮路障，也不是停车场自动抬杆。\n【飞行与障碍的高度关系】\n飞剑距离地面约3米，女主直立飞行时，额头上部恰好与横梁下缘发生冲突。\n剑与她的大部分身体能够通过，只有头部会碰到横梁。她本来只需低头便能通过，但因为看向旁边，没有注意到前方障碍。\n人物、建筑与横梁的比例始终稳定，不临时缩矮横梁，不突然改变人物身高或飞行高度。\n【摄影机位置与焦段】\n摄影者站在道路一侧，距撞击点约12—15米，用家用DV横向拍摄，机位为普通成年人站立时的高度。\n使用等效50mm左右的标准焦段，正常透视，人物比例自然。全程保持同一焦段，不使用广角、超广角、鱼眼，不出现桶形畸变、边缘拉伸或夸张的近大远小。\n拍摄方向与飞行路线形成侧前方角度，能看清女主接近横梁、接触横梁、脱离飞剑和摔落的过程。通过拍摄距离容纳人物和环境，不靠广角扩大视野。\n全程连续拍摄，不切镜。摄影者先向上仰拍跟随，撞击后迟半拍急忙向下摇镜追拍，短暂构图失误，再修正。运镜来自普通人对突发事件的反应。\n【0—1.5秒：偶然拍到御剑】\n开场构图略随意，拍到旧楼二层和一段道路。两手空空的青衣女子踩剑非常高速的进入画面，摄影者发现后抬起DV并喊了一声，向右摇镜跟随。\n她在约3米高度轻快滑行，明显高过路边面包车车顶，身体挺直，侧着头跟拍摄者比耶打招呼。长发、宽袖和袍摆自然向后扬，人物与剑在路面上的影子同步移动。\n镜头跟随不完全准确，她偶尔偏离中心，摄影者做小幅修正。高处限高横梁提前出现在画面右侧，不能在撞击前一瞬才凭空出现。\n【1.5—3秒：观众先发现障碍，撞上横梁】\n摄影者继续向右摇镜，让女主全身与高处横梁同时可见。\n她专注着跟拍摄者比耶，没有看路，仍保持直立姿势，没有低头。画面明确显示：剑低于横梁，但她的额头正接近横梁下缘。\n保持这个构图至少一秒，让观众提前看懂高度冲突。她的速度是轻快滑行。摄影者仍在跟拍空中的她，没有提前把镜头转向地面。拍摄者画外音喊了一句：小心\n剑尖先从横梁下通过，女主额头上部随后短促撞到横梁下缘，发出一声空心金属“咚”。\n实际接触清楚可见。她头部和肩膀骤然后缩，上身向后仰，身体失去平衡，与飞剑分离。\n飞剑凭惯性继续向前滑出一段掉落，女主则向后下方坠落。横梁轻微震动但不折断、不倒塌。人物不能穿过钢梁，也不能尚未接触就提前后仰。\n【3—7秒：摄影者急忙下摇】\n摄影者迟半拍才反应过来，猛地向下摇镜，画面随手腕略微倾斜。快速下摇产生自然运动模糊，女主短暂偏到画面上沿，随即被重新拍到。\n她从空中连续下落，身体侧转，长发、宽袖和袍摆受惯性翻起。她侧身跌在水泥路面，肩背与身体侧面着地，顺势翻滚半圈，扬起一点灰尘，衣料落在身边。\n身体有真实重量与落地后的停顿，不缓慢飘落，不夸张弹跳。完整呈现“撞杆—脱离飞剑—坠落—接触地面”的连续因果，不切镜、不黑屏、不直接跳到倒地画面。\n摔落带有荒诞喜剧感，但不使用卡通变形。没有血液、伤口或骨折细节。\n摄像机下摇稍微过头，短暂拍到她身前的路面，随后向上修正一点，对准倒地的女主。\n自动对焦短暂迟疑，画面从略模糊恢复到可辨认。摄影者向前挪一步，带来真实脚步起伏，焦段不变。\n女主侧躺着缓一下，皱眉，用一只手撑地，慢慢抬起上身，没有昏迷。飞剑已经落在她前方数米处，位置符合刚才继续向前滑出的方向。\n女主坐起来，看一眼衣服上的灰，抬手捂住额头，再抬头望向高处横梁，神情懊恼。\n摄影者微调构图，把地上的女主、前方落下的剑和后方限高架立柱拍在同一画面，不强求拍全高处横梁。\n结尾保持略歪、轻微晃动的现场构图。她没有重新起飞，不摆姿势、不看镜头表演，像摄影者还在犹豫要不要继续拍。\n【纪实DV成像与色彩】\n早期家用MiniDV标清质感，细节略软，轮廓不过度锐利，颜色朴素、稍褪色，整体带一点灰。自然白平衡略有偏差，阴影有细小色噪，亮天空和浅色墙面允许轻微过曝。\n南方白昼偏闷、略带薄云的自然光，肤色正常，青衣为低饱和灰绿色，水泥路和旧墙保持生活化色彩。\n快速摇镜时出现短暂运动拖影，少量隔行扫描般的边缘梳状感，自动曝光与对焦反应稍慢。模糊主要发生在急摇和重新对焦时，撞击与落地仍然可辨认，不能全程模糊一片。\n不要嘻哈MV风格，不做浓烈电影调色、胶片颗粒、青橙对比、电影晕光、梦幻逆光、浅景深或精修磨皮。像普通摄像机偶然记录到一件不合理但真实发生的事。\n【声音】\n只保留DV现场录音：轻微风噪、远处摩托车声、衣料扑动、撞杆的金属声、身体落地的闷响、摄影者短促吸气和移动脚步声。\n无配乐、无解说、无夸张卡通音效。\n【约束】\n全程一镜到底，标准焦段，无广角、鱼眼、突然变焦、航拍、顺滑环绕、慢动作或重复回放。无DV机本体，全程只有一把剑。先喊小心，女子再撞上\n限高架保持高位与固定结构。女主必须在撞击后与飞剑分离，连续摔落到地面，不能改成蹲在剑上通过。飞剑与人物分别保持连续轨迹。\n无新增围观角色、无穿模、瞬移、人物复制、剑突然消失、血腥、严重伤口、法术光效、字幕、日期水印或录像边框。\n\n·········\n\n4秒，4:3横向画幅，写实真人摄影。2000—2005年中国南方小镇环境，、浓郁的90年代DV机拍摄的胶片色彩，画面带有很强的模糊感，像是老式设备拍摄的一样和冷面荒诞喜剧。\n\n【人物与马】\n女主为成年女性，保持上传射箭女子参考图中的五官、额间浅色细纹、高束长黑发、发间浅色细带、灰绿色古装与深色护腕。移除雪景和衣服上的积雪。\n\n她始终骑坐在一匹普通棕马上，脚踩马镫，身体稳定地坐在旧皮马鞍上。马停在台球桌短边外，侧身面对摄影机，女主转动上身朝球桌瞄准。马不走动，只自然呼吸、动耳朵、轻轻甩尾巴。\n\n她使用传统木弓和一支普通实体羽箭，无发光、无能量箭。\n\n【场景与球路】\n2000—2005年中国南方小镇的街边台球摊，旧居民楼底商门口，浅色磁砖墙、绿色卷闸门、褪色中文店招、遮阳棚、塑料凳、自行车和旧摩托车。屋内可见吊扇、小卖部货架和老式显像管电视。\n\n一张旧绿色台呢球桌摆在水泥空地上，桌边掉漆，袋口磨损。两名穿宽松T恤、长裤和拖鞋的成年男子站在球桌侧面，其中一人拿着普通球杆，正等着轮到自己。\n\n白色母球位于桌面靠近女主的一端，目标球在同一直线的远端袋口前。从马上射向母球的路线略微向下，射线前方没有人。\n\n【摄影机路线——全程一次连续拍摄】\n固定镜头，揭示她骑在马上，以及马旁边的街头台球桌。进入中广景后保持女主、马、白球、目标球和远端袋口在同一个画面里。\n\n放箭时不追逐箭头，不突然切换到台面特写，不用遮挡转场或隐藏剪辑。观众始终知道箭从哪里射出、击中了什么，以及球怎样进袋。\n\n画面内容：女主专注的眼神、拉紧的弓弦和靠近脸侧的箭羽。头发与发带被风轻轻吹动，身体随马的呼吸有细小起伏。微微调整瞄准方向，短暂停顿后松弦射击。弓弦真实回弹，箭快速飞出，带自然运动模糊，不拍成慢动作。箭尖撞到白球的后上侧，将白球推向前方。箭失去速度，落在台呢上；白球沿桌面滚动，撞动靠近袋口的目标球，目标球随即落袋。\n箭不刺穿球，球不爆炸，不跳出桌面。球路简单，接触和滚动方向清楚。\n【声音与约束】\n现场收音为主：马的呼吸与响鼻、皮具轻响、吊扇、远处摩托车、弓弦弹响、箭撞白球、球碰撞和落袋声。小卖部收音机里隐约传来老派嘻哈鼓点，不盖过动作声音。\n\n全程一镜到底，女主始终骑在马上。马不穿过球桌，不突然移动位置。只有一支箭、一次放箭和一次进球。箭击球前后轨迹连续，球不能自行启动或突然消失。无切镜、慢动作、光箭、法阵、爆炸、受伤、字幕和水印。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 162
+  "bookmarked_order": 171
  },
  {
   "id": "2105469989776241032",
@@ -2129,7 +2246,7 @@
   "author_name": "Hailey",
   "text": "Seedance，再见了 👋\n\nMuse 真的太香了。\n\n这次我直接让 GPT 先生成 6 宫格分镜图，再整个丢给 Muse。\n\n结果成片直接把我惊到了，一次都没调整，镜头、节奏、画面衔接都很顺。\n\n不是，Muse 到底是什么神仙 AI 啊 「[图片/视频]」 https://twitter.com/HaileyAILabs/status/2105189320709886202",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 163
+  "bookmarked_order": 172
  },
  {
   "id": "2103757767727255661",
@@ -2142,7 +2259,7 @@
   "author_name": "Feicai",
   "text": "都说 OPUS 5.5 终结了 AI 视频生成这个赛道，我觉得这是夸张的。\n\n比如像 Seedance 2.5，还是有很多惊艳的瞬间、惊艳的片段，其实你是没有办法用 code to video 去实现的。但是，如果我们不要求电影级别的画面，此时此刻，今天用 Opus 5.5 也确实可以做出一些风格化、很高级的视频。\n\n现在这一条就是Opus 5.5 直出的，具体流程就是，Opus 5.5 让调用 GPT Image 2.5 画原画，用 Real-ESRGAN 超分放大、用 Depth Anything 估算深度，再用自己写的 Python 渲染器按真实机位和焦距逐帧合成运镜、景深、雨和光，配上真实音效、采样乐器配乐和 AI 台词，最后用 ffmpeg 输出 4K 成片。\n\n具体用来生成这条视频的提示词，我放在放下面了：\n\n帮我做一条 30 秒的 2D 动画分镜预演短片《雨站》，要标杆级画质。不装 HyperFrames/Remotion，全部自己写代码（Python + ffmpeg）完成。\n\n故事（24fps，2.39:1，4K）：雨夜高架站台。她穿米色风衣、撑透明伞，站在近侧站台；对面路灯下站着他，穿深灰长大衣、围围巾。\n1. 0–6.4s 透明伞雨珠特写 → 后拉，焦点移到对面露出他（过肩镜头）\n2. 6.4–9.4s 他的中近景：低头 → 抬头看向画左\n3. 9.4–12.4s 她的正面近景：眨眼 → 认出他；远处传来鸣笛\n4. 12.4–17s 远景：车头灯光先到，5 节列车驶过；第一个车厢缝隙里他还在，第二个已经空了\n5. 17–18.8s 她含泪的近景，车窗光带扫过她的脸，头发被风吹起\n6. 18.8–22.4s 尾灯远去，对面站台空了；他那盏灯闪几下后熄灭\n7. 22.4–28.6s 她的背影，焦点从空站台拉回她；身后脚步声，一把黑伞遮到她头顶，她回头看向镜头；男声“好久不见。”，配字幕\n8. 28.6–30s 黑场片名“雨站 / RAIN STATION”\n\n做法：\n- 原画：用GPT Image 2.5 画远景、他、她、列车（头车/中车/尾车）。人物一律用纯绿 #00FF00 背景，自己抠像（带参考图要透明背景会得到假棋盘格）。同一角色的各个姿态放在同一个会话里，以基准图为参考连续编辑；换姿态时只合成变化的区域。\n- 画质：用 Real-ESRGAN x4plus anime 6B（HF 上的 safetensors 版，自己写 RRDBNet，跑在 MPS 上）把全部原画放大 4 倍；用 Depth Anything V2 估算远景深度，做逐像素视差。\n- 渲染：自己写 2.5D 合成器。各层按真实深度摆放，针孔相机按真实焦距运动；做圆形焦外光斑、焦点转移、3D 雨丝、列车运动模糊、体积光、泛光和胶片光晕、细颗粒、调色。人物用网格变形做呼吸、风吹发梢、伞抖，关键姿态按日式“一拍二”切换。4K 超采样，逐帧缓存到磁盘，分 3 个进程按时间段并行（16GB 内存）。\n- 声音：Mixkit 真实音效（雨、伞面雨声、列车、鸣笛、脚步）；按剧情节点写谱，用 Logic/GarageBand 自带的施坦威钢琴和弦乐采样渲染；台词用 Kokoro 中文男声；按镜头做声音远近，响度 -16 LUFS。\n- 每一步都渲染预览帧、拼成图自检，修好再出片。交付 4K 母版和 1080p 分享版。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 164
+  "bookmarked_order": 173
  },
  {
   "id": "2063133258133745981",
@@ -2155,7 +2272,7 @@
   "author_name": "Blockboy",
   "text": "许多人不知道 AI 生成的图片除了明水印外还有暗水印，如豆包、Gemini 等生成的图片就是明水印，gpt-image-2生成的图片明面上并没有水印，但是还是被抖音、X、Tiktok 等平台识别为 AI 生成内容，这就是暗水印识别的结果。 最近发现 Github 一款不错的去 AI 水印的工具“Remove-AI-Watermarks”，效果还不错！明水印暗水印都可去除。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 165
+  "bookmarked_order": 174
  },
  {
   "id": "2105169066248069134",
@@ -2168,7 +2285,7 @@
   "author_name": "山羊赚钱笔记",
   "text": "还在花钱报别人的副业课程？\n\n真大佬在民间啊😂😂 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 166
+  "bookmarked_order": 175
  },
  {
   "id": "2105219072837468229",
@@ -2181,7 +2298,7 @@
   "author_name": "Hailey",
   "text": "简单测了下 GPT-6.1 Sol 的 3D 能力。\n\n效果确实已经能打到 GPT-6 Astra 这个水平了，场景、材质、光影都挺稳。\n\n最明显的是 Token，省了一半以上。\n\n这下做 3D / Vibe Coding 成本又下来了。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 167
+  "bookmarked_order": 176
  },
  {
   "id": "2103922828492054934",
@@ -2194,7 +2311,7 @@
   "author_name": "Poonam Soni",
   "text": "If Gemini 4's benchmarks are real, Google just pulled off the biggest comeback in AI history.\n\nPeople are building crazy stuff with the rumored Gemini 4 Pro checkpoint in Arena\n\n10 Wild Examples\n「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 168
+  "bookmarked_order": 177
  },
  {
   "id": "2101304547876700627",
@@ -2207,7 +2324,7 @@
   "author_name": "Bee",
   "text": "Gemini 4 Pro surprises again!\n\nThe prompt was to it to create a beautiful mechanical butterfly in three.js and needless to say the output is indeed beautiful!\n\nEarlier it was being tested under the placeholder \"gemini-3.7-flash\" but it seems to be have been removed from arena 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 169
+  "bookmarked_order": 178
  },
  {
   "id": "2105263043886387342",
@@ -2220,7 +2337,7 @@
   "author_name": "酱紫表",
   "text": "做了个专门生成 Live  图的 Skill：LiveCanvas 一句话，做成有封面、有动画的 Live 图。\n\nLive Photo 相比普通图片，除了封面图还会多一个点开的视频，非常适合用来做一些有动画动效的演示；AI 也已经能比较好的运用代码生成动画了，相比普通的图片会有意思很多。https://github.com/pengchujin/livecanvas 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 170
+  "bookmarked_order": 179
  },
  {
   "id": "2105214900666810786",
@@ -2233,7 +2350,7 @@
   "author_name": "Gaurav",
   "text": "New AI benchmark: Personal Agent Bot 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 171
+  "bookmarked_order": 180
  },
  {
   "id": "2105442328731439193",
@@ -2246,7 +2363,7 @@
   "author_name": "宝玉",
   "text": "让 ChatGPT 用 守序中立混乱九宫格 归类一下 AI 风云人物，给我画了这个 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 172
+  "bookmarked_order": 181
  },
  {
   "id": "2105203316292772253",
@@ -2259,7 +2376,7 @@
   "author_name": "Frank Wang 玉伯",
   "text": "这个图补充得很不错 https://twitter.com/guoda2066/status/2105193918275133609",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 173
+  "bookmarked_order": 182
  },
  {
   "id": "2105130873045827857",
@@ -2272,7 +2389,7 @@
   "author_name": "LinearUncle",
   "text": "openAI Dots 实测的详细信息：\n1. 需要在chatGPT 网页端创建，codex 中最上方才会显示\n2. 虚拟机的配置比较一般：Debian Linux，10G 内存，32G 硬盘，比grok bot略差\n3. 内置了大量高端生产力软件，期望你好好利用！例如blender,FreeCAD等，包含医学影像处理、三维建模与动画、工程 CAD 设计、绘画与图像处理、游戏开发、视频剪辑、电子电路设计、科学与地理数据分析、日常工具与休闲游戏，都可以用AI操控！详细信息在第二张图里\n4. 你可以手工操作虚拟机，也可以让dots连接本地电脑",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 174
+  "bookmarked_order": 183
  },
  {
   "id": "2105024380967264340",
@@ -2285,7 +2402,7 @@
   "author_name": "Danny Trinh",
   "text": "behind the scenes at openai @muse 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 175
+  "bookmarked_order": 184
  },
  {
   "id": "2105145352311476565",
@@ -2298,7 +2415,7 @@
   "author_name": "beeple",
   "text": "AGENTIC WARFARE 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 176
+  "bookmarked_order": 185
  },
  {
   "id": "2104784482704457784",
@@ -2311,7 +2428,7 @@
   "author_name": "zzxwill",
   "text": "我们做沙箱 Infra 的太幸福了，属于在 AI 时代卖铲子给淘金者。\n\n25 年初，browser use 开始流行，我们把 browser use 改成多租户，放到 FaaS pod 里边，最开始服务大模型的联网能力（大家知道，最开始模型是没有联网检索能力的，后面才开始作为一个标配能力）。接着我们发现用户不想要 browser user agent 的，只想要 browser 浏览器本身，于是我把 chromium 的内核和放到 FaaS pod 里边，给用户提供 cdp 入口。\n\n25 年年中，我们发现用户不止想要浏览器，还想要代码执行、文件操作、Shell 命令等。于是我们做了 All in One 的 Sandbox，在这个过程中诞生了沙箱的概念。类 Manus Agent 需求井喷。\n\nAgent infra 的需求一直持续到 26 年年初，春节时 opencode 和 openclaw 爆火，我们又做了龙虾产品，也进一步做了沙箱持久化、暂停快照恢复等能力。\n\n龙虾产品没有白做，personal agent 的长运行沙箱又来了。\n\n不管上层应用和 agent 一波一波变，不变的是沙箱铲子。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 177
+  "bookmarked_order": 186
  },
  {
   "id": "2105072880702865643",
@@ -2324,7 +2441,7 @@
   "author_name": "Frank Wang 玉伯",
   "text": "最近 claude tag, grok bot, muse, cue, dots 的一连串发布太精彩了。\n\n都是 agents，这真的是一个新物种，共同点是拥有 coding, work, personal assistant 等各种能力，都是 general agent。\n\n历史的发展是一层一层的。computer 和 phone 正在变成 agents 的基础设施。\n\n我们现在买手机，不太会在乎手机用的是哪一款电池，也不会在乎接入的是哪个网络。电池耐用就行，网络稳定就好。\n\nagents 正在成为新的一层。对用户来说，后续电脑和手机上，最重要甚至可能是唯一入口的一个界面应用，就是某个 agent 了。\n\nmac os 和 windows 等 gui os，正在成为 terminal，会被藏在 agent os 的后面去。\n\n可能还存在极少量创新硬件的机会。\n\n对用户来说，agent is all you need。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 178
+  "bookmarked_order": 187
  },
  {
   "id": "2104915193155494259",
@@ -2337,7 +2454,7 @@
   "author_name": "Frank Wang 玉伯",
   "text": "to c 的 agent，没有垂类，只有 general agent。manus 是对的，各种 personal agent 也是对的。\n\nto b 的 agent 很像电脑，red 说 manus 像卖电脑，非常有洞见。to c 的 agent 很可能会像手机，有各种款式，没有哪一家能有超级市占率。\n\n也有同时卖电脑和手机的，比如 apple，比如 manus。这个角度看，最像 apple 的，是 manus。成为 agent 届的 apple，可能就是 red 心中的梦。\n\n向 manus 致敬。同时，坚定走 youmind 自己的路。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 179
+  "bookmarked_order": 188
  },
  {
   "id": "2104729499070079003",
@@ -2350,7 +2467,7 @@
   "author_name": "数字生命卡兹克",
   "text": "在重写完之后，做了一个小小的决定。\n这个月活百万的AI热点站 AIHOT，正式开源了。\n\nAIHOT网址：https://aihot.news/\n开源地址：https://github.com/KKKKhazix/AIHOT\n\n采集流程、精选评分、聚簇机制，连生产环境里的全部Prompt，能开源的都开源给大家了。\n\n过去，总有人问我说，能不能做个游戏行业、法律行业、HR、金融等等行业版本的AIHOT……\n但我确实不懂那些行业，也没有那个时间和精力，但我知道，你们懂。\n\n于是，那不如，把火种交给大家吧。\n\n半年以前，我是一个最最基础的开发小白，只是懂一些产品和设计而已。\n半年以后，我终于可以把一个曾经只属于我的小东西，交到更多人的手里。\n\n我不知道它最后会被改成什么样子，会走到多远的地方。\n但这可能就是开源最浪漫的地方把。\n\n愿我们都能用AI，把那些曾经只有少数人才能做到的事，一点一点，变成普通人也可以拥有的能力。\n\n也愿诸君，乾坤既大，草木尤青。\n本心择路，笃志前行。\n\n以上。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 180
+  "bookmarked_order": 189
  },
  {
   "id": "2104439666825175480",
@@ -2363,7 +2480,7 @@
   "author_name": "Sashi",
   "text": "The AGI Race Right Now 💀 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 181
+  "bookmarked_order": 190
  },
  {
   "id": "2104576219434103002",
@@ -2376,7 +2493,7 @@
   "author_name": "陈大黄",
   "text": "现在做个个人小工具或者出海小产品，不建议买云服务器、配环境、折腾 Nginx，纯属自己给自己找罪受。\n\n静态前端直接扔给 Cloudflare Pages，连着 GitHub 推送就能自动构建，全球 CDN 一分钱不收。\n\n后端接口全丢给 Cloudflare Workers，毫秒级冷启动，每天几十万次请求的免费额度根本用不完。\n\n数据库直接上 D1，本质上就是开箱即用的边缘 SQLite，不用自己管连接池，更不用天天提防数据库端口被扫。\n\n用户上传的文件和图片丢进 Cloudflare R2，兼容 S3 协议，出网流量费直接免掉。\n\n验证码和通知邮件接个 Resend，每月 3000 封免费额度，写两行代码直接发，不用自己去伺候邮件服务器折腾解析。\n\n整套全托管组合跑下来，每月几十万次请求直接零账单。\n\n省下买服务器的几十块钱是小事，最爽的是不用半夜被叫醒看日志，也不用操心磁盘满不满。\n\n不用伺候机器，小东西安安静静跑在边缘节点，用到地老天荒也不用掏一分钱。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 182
+  "bookmarked_order": 191
  },
  {
   "id": "2104612888862408960",
@@ -2389,7 +2506,7 @@
   "author_name": "Red Xiao",
   "text": "Excited to show you all what we've been working on :) 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 183
+  "bookmarked_order": 192
  },
  {
   "id": "2103763029976649777",
@@ -2402,7 +2519,7 @@
   "author_name": "FairyCat",
   "text": "There’s a rank specifically for Google now? 😭😭 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 184
+  "bookmarked_order": 193
  },
  {
   "id": "2104260138223931422",
@@ -2415,7 +2532,7 @@
   "author_name": "Tz",
   "text": "2026 大模型进化史。。。\n\nGPT：一路进化，偶尔返祖\nClaude：中途失智，后期复健\nGemini：3.1 之后开始交草稿\nDeepSeek：同一代都能抽出不同画风 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 185
+  "bookmarked_order": 194
  },
  {
   "id": "2104193840651403698",
@@ -2428,7 +2545,7 @@
   "author_name": "Flynn",
   "text": "Gemini是真的屌，我宣布gemini是世界上最屌的模型\n\n我让它抓取公众号文章，它尝试了几种基础的方式发现受阻后，直接模拟微信浏览器内核的请求头给了个脚本完成抓取！\n\n我让它获取dy视频、音频，它依旧是尝试基础操作受阻后直接拿到dy的视频CDN链接，从CDN中直接抓取！然后自己用ytb cli完成解析！\n\n反观GPT\n尝试基础脚本不行后，使用内置chrome读取公众号，发现dom加载超时后选择直接调用本机chrome再次读取dom，发现有大量反ai抓取脚本后决定用computer use视觉读取文章....\n整个过程耗时不说，token消耗你承受的起吗。\n\n为什么口碑不错的GPT表现如此之差，在这个场景上完全是智能与白痴的差别啊！",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 186
+  "bookmarked_order": 195
  },
  {
   "id": "2104225147184132310",
@@ -2441,7 +2558,7 @@
   "author_name": "Rishabh",
   "text": "GPT-6 Astra Vs Claude Opus 5.5 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 187
+  "bookmarked_order": 196
  },
  {
   "id": "2104122905961595267",
@@ -2454,7 +2571,7 @@
   "author_name": "Yihui",
   "text": "🔥301 个 Opus 5.5 视频，我花了整整 $3,000。\n\n我用 Claude Opus 5.5 把全网最难、最火的特效重新做了一遍。成片导出的那一刻，看着屏幕直接瘫坐震惊……\n\n所有测试视频、全套 Prompt 和工作流，全部整理开源！\n\n👇 GitHub 开源地址与在线 4K 原视频见评论 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 188
+  "bookmarked_order": 197
  },
  {
   "id": "2104111175172841617",
@@ -2467,7 +2584,7 @@
   "author_name": "John",
   "text": "AI 视频进化到这个程度……以后的互动影游和 Galgame 已经不需要真人拍摄了吗❓\n\n第一人称视角 + 5人同框密室修罗场😄\n\n无论是镜头晃动感、微表情细节、还是视线交流，沉浸感直接拉满。\n\nby Seedance 2.5 🎬，互动电影工业要变天了。\n\nprompt 👇 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 189
+  "bookmarked_order": 198
  },
  {
   "id": "2102997709485728206",
@@ -2480,7 +2597,7 @@
   "author_name": "WY",
   "text": "有很多人问，Claude是不是用了Manim、Remotion、Motion Canvas 这类动画框架？\n\n答案是没有！Opus5.5纯靠大力出奇迹，用原生 Canvas 2D 自己画，逐帧截图Playwright 打开无头 Chromium，对画布逐帧截 JPEG，把截出来的 JPEG 帧流编码成视频，再混入音轨。简单说，就是用浏览器当画布、ffmpeg 负责编码。\n\n不要用人类的思维去揣度AI的行为，没有那么多技巧，没有那么多语法糖，用最粗暴的方法解决问题。",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 190
+  "bookmarked_order": 199
  },
  {
   "id": "2102940980379017293",
@@ -2493,7 +2610,7 @@
   "author_name": "宝玉",
   "text": "Opus 5.5 终结了比赛！\n\n用 Opus 5.5 重做了《桃花源记》，还是 three.js 做的，但是效果好了很多，当然这次不是一个提示词，而是反复打磨了好多次，还让它去搜索了免费的的 3D 模型，避免从头建模。\n\n如果你想试试的话：https://s.baoyu.io/files/taohuayuan/index.html\n记得点击右下角的“循文入境” 「[图片/视频]」 https://twitter.com/dotey/status/2101523037233217780",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 191
+  "bookmarked_order": 200
  },
  {
   "id": "2102665046568673765",
@@ -2506,7 +2623,7 @@
   "author_name": "KK.aWSB",
   "text": "权威测评来了！我把同一段提示词丢给了 Claude Opus 5.5 和 GPT 6 Sol，今天发布的模型哪家强，一目了然。\n\n从零造一座能走进去的《清明上河图》汴京。\n结果我在虹桥上站了半天——大船正放倒桅杆过桥，桥上全是看热闹的人。\n\n浏览器点开就能逛，致敬张择端🫡（代码全部开源）\nhttps://silentfleetkk.github.io/qingming-bianjing/",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 192
+  "bookmarked_order": 201
  },
  {
   "id": "2102659403472388167",
@@ -2519,7 +2636,7 @@
   "author_name": "Morry.AI",
   "text": "拼豆风格提示词，太好看了\n\n这下，万物皆可拼豆了\n\n提示词 ⬇️ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 193
+  "bookmarked_order": 202
  },
  {
   "id": "2102955827971883165",
@@ -2532,7 +2649,7 @@
   "author_name": "Darren",
   "text": "《为什么 Dario Amodei 是个大傻逼》\n\n导演、动画、作曲：Claude Opus 5.5 😎 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 194
+  "bookmarked_order": 203
  },
  {
   "id": "2102917917285212572",
@@ -2545,7 +2662,7 @@
   "author_name": "梭哈.AI",
   "text": "我刚刚又实测了一次！Gemini仍然可以1分钟注册好Muse\n\n1. 打开 Gemini 网页切到 Spark，发一句：帮我在远端浏览器打开网站： https://www.google.com/\n2. 然后你手动接管远端浏览器。手动输入： https://muse.ai 。后面跟着步骤注册就可以了！这个方法仍然是丝滑秒过 「[图片/视频]」 https://twitter.com/SUOHA_AI/status/2102780408458863076",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 195
+  "bookmarked_order": 204
  },
  {
   "id": "2102591147927654847",
@@ -2558,7 +2675,7 @@
   "author_name": "Ryan Sael",
   "text": "I asked Opus 5.5 to explain camera focus by building an interactive lens lab\n\nHere's what it came up with after 1 hour 26 minutes in one shot, $25.66 API cost\nhttps://sael.net/plane-of-focus/\n\nMove the focus ring and you can see the glass elements shift the sharp plane through the scene 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 196
+  "bookmarked_order": 205
  },
  {
   "id": "2093988094198321226",
@@ -2571,7 +2688,7 @@
   "author_name": "AYi",
   "text": "Damn, 21 分钟，这老哥把用 GPT-5.6 Sol 做电影级网页彻底讲透了！！！\n\n很多人让 AI 写网页，吐出来的全是一股塑料味的 Bootstrap 蓝白模板，总觉得是 AI 审美不行，其实从根上你的打开方式就错了,\n\n这条视频把怎么用自然语言让 Sol 吐出苹果发布会级前端质感的逻辑，拆得明明白白,\n\n最爽的三个核心技巧，看完就能直接偷师：\n\n1️⃣ 审美注入：不要让它自由发挥，先喂设计公理（Bento Grid 栅格、微动效、高阶暗黑毛玻璃、极端克制的负空间），瞬间干掉 AI 廉价感\n2️⃣ 模块解耦：别让 AI 一次性喷几千行 HTML，按英雄区、交互动效、数据卡片分层生成，出 bug 几秒修完\n3️⃣ 交互调优：如何用一句提示词让 Sol 自动补齐丝滑的 CSS 平滑过渡和光影跟随效果\n\n从零搭建到可直接上线的成片全过程拆解，干货密度拉满,\n\n我把完整精要和核心 Prompt 整理好了，链接放一楼评论区，赶紧收藏起来，别再拿 Sol 当普通聊天框用了 哈哈👇 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 197
+  "bookmarked_order": 206
  },
  {
   "id": "2100487789049413780",
@@ -2584,7 +2701,7 @@
   "author_name": "Marina Budarina",
   "text": "Building interactive 3D website [GPT-6 Astra + Tripo]\n\nprocess breakdown 👇🏻 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 198
+  "bookmarked_order": 207
  },
  {
   "id": "2100591914949267620",
@@ -2597,7 +2714,7 @@
   "author_name": "The Bugged Dev",
   "text": "I genuinely never thought this would be possible 😱\n\nAI just built a full embroidery editor that runs entirely in the browser. Freaking crazy.\n\nAnd no, it’s not GPT 6 Astra. It’s Claude Fable 5.1.\n\nAlso, No Three.js. No WebGL. No shaders. Just Canvas 2D and math.\n\nYou literally draw using a needle cursor and the app converts your path into actual embroidery stitches like running, back, chain, cross, satin, French knots and lazy daisy.\n\nEven the fabric is generated pixel by pixel. \n\nTwo overlapping sine waves create a height field for the horizontal and vertical threads. Then a fake normal is calculated and lit from one direction. Basically a bump map with zero GPU rendering. \n\nThe embroidery thread itself is rendered in 6 passes. Shadow, core color, twisted ply lines, dark edge and two highlight layers based on the light angle.\n\nThat’s why it actually looks like embroidery floss instead of a simple marker stroke.\n\nAnd trust me, I've zero sense or knowledge of any of this. ZERO.\n\nAll built. All working. All by AI.  And somehow it’s all inside one HTML file. Nothing bigg. \n\nAbsolutely insane what’s possible now. You can really genuinely take a random idea and bring it to life. And that too in < 1 hour. \n\nAnd who knows, this could actually be pretty useful for fashion designers and embroidery artists maybe? \n\nLive: https://stitchcraft.wasmer.app/",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 199
+  "bookmarked_order": 208
  },
  {
   "id": "2100556460375920746",
@@ -2610,7 +2727,7 @@
   "author_name": "苏乐",
   "text": "毛毡风格提示词，让可爱更可爱！！  \n\n  快给熊孩子生成一张！ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 200
+  "bookmarked_order": 209
  },
  {
   "id": "2100105653994021215",
@@ -2623,7 +2740,7 @@
   "author_name": "春日部彼得",
   "text": "这哥们胆子真大，直接开了10个GPT-6 Astra Agent。\n\n每个给52美元，就给了一条指令：自己赚钱交订阅费，赚不到就关掉。\n\n13小时之后，AI那边反馈，靠交易Meme币赚到11345.95美元。\n\n从头到尾，人都没碰过鼠标，全是AI自己跑的。 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 201
+  "bookmarked_order": 210
  },
  {
   "id": "2100607739630326238",
@@ -2636,7 +2753,7 @@
   "author_name": "雨哥向前冲",
   "text": "这路子太野了！\n\n足浴、ktv、台球厅现场取景\n\nAI生成实景视频+店铺标识\n\n手机镜头怼电脑屏幕拍摄完成去AI标识\n\n自媒体平台评论区精准获客，玩的太6了\n\n这思路打开了，到处都是变现渠道啊😂 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 202
+  "bookmarked_order": 211
  },
  {
   "id": "2100548492704031205",
@@ -2649,7 +2766,7 @@
   "author_name": "Cindy ❤️｜AI 影片製作",
   "text": "今天看到流量很高的「敦煌飛天 × 電腦桌布」特效，我找到的作者是用 MiniMax H3 做的。我照同一個劇情，改用 Seedance 2.5 重做，主角換成我自己的角色，改成 Q 版公仔。\n\n各家模型、各家價格都公開在那邊，全世界的人都在用，沒有哪一個一定最好，要看你拿來做什麼。\n\n如果你做的是網路短劇，重點是故事，畫面只是把劇情演出來的工具。畫質普通一點、甚至有點小 bug，都沒什麼問題。\n\n但我做的是商業形象廣告。畫面就是品牌的臉，所以品質是我的第一要求，所以只用最好的模型。\n\n我平常大量練習、做教學片，用 480p、720p 就夠了；幫老闆交件的影片，一律 1080p 以上。\n\nMade with AI.\n\n想做各種AI 廣告，歡迎找我聊聊 ：）\n\n原影片在\n\n謝謝 @PixelAigc 的創意視頻\n\n https://x.com/pixelaigc/status/2100358223291441452?s=46&t=k-D3Fx3UGgp08e2urWU9_w",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 203
+  "bookmarked_order": 212
  },
  {
   "id": "2100529086955470851",
@@ -2662,7 +2779,7 @@
   "author_name": "SeaArt.Ai🐋",
   "text": "Oops… Your desktop girl sneezed and your desktop is never the same again. 🤧\n\nPrompt in the comments ↓ 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 204
+  "bookmarked_order": 213
  },
  {
   "id": "2100525173870895395",
@@ -2675,7 +2792,7 @@
   "author_name": "Edimakor Taiwan",
   "text": "中秋特製 2.0 版來了！✨\n延續上一篇的靈感，使用image2.5 X seedance2.5模型\n特製了超寫實嫦娥奔月！🌕\n看著看著……感覺工作效率更低了（仙女太好看）😘\n\n快來試試生成專屬你的神仙桌布吧！👇\nhttps://reurl.cc/VnnYmR\n\n#AIArt #桌面分享 #中秋節快樂 #Edimakor 「[图片/视频]」 https://twitter.com/edimakortaiwan/status/2100185259656753526",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 205
+  "bookmarked_order": 214
  },
  {
   "id": "2100600865463906464",
@@ -2688,6 +2805,6 @@
   "author_name": "Lonely",
   "text": "😬数字人不稀奇\n\n可互动的数字人也不稀奇\n\n那如果是带深夜福利可互动的数字人呢？！\n\n👇 「[图片/视频]」",
   "first_seen_at": "2026-11-10",
-  "bookmarked_order": 206
+  "bookmarked_order": 215
  }
 ]

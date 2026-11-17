@@ -2,25 +2,35 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **215** 条书签，最后更新：2026-11-15 09:12（Asia/Shanghai）
+共 **230** 条书签，最后更新：2026-11-17 09:13（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 66 条
-- [模型动态](#cat-1) — 44 条
-- [其他](#cat-2) — 29 条
-- [Agent工具](#cat-3) — 24 条
+- [视频动效](#cat-0) — 71 条
+- [模型动态](#cat-1) — 46 条
+- [其他](#cat-2) — 30 条
+- [Agent工具](#cat-3) — 25 条
 - [起号变现](#cat-4) — 23 条
-- [开源项目](#cat-5) — 10 条
-- [提示词创作](#cat-6) — 10 条
-- [行业观察](#cat-7) — 9 条
+- [行业观察](#cat-5) — 13 条
+- [提示词创作](#cat-6) — 12 条
+- [开源项目](#cat-7) — 10 条
 
 <a id="cat-0"></a>
 
-## 视频动效（66）
+## 视频动效（71）
 
+- **[Fable纯代码绘制写实风景](https://x.com/hiwise_aigc/status/2122119960206176732)** — 用 Fable 5.2 以 Remotion、WebGL 等纯代码逐帧绘制10秒写实风景，不靠视频模型或现成素材。  
+  @hiwise\_aigc · 2026-11-16
+- **[Carbon做六千年鹈鹕骑车](https://x.com/Super_Nius/status/2122056852708225478)** — 推荐 GitHub 上由 Gemini 4 Carbon 创作、Hydrogen 修改的六千年鹈鹕骑车短片，称其音乐和美学都很震撼。  
+  @Super\_Nius · 2026-11-16
+- **[Opus在Blender里做物体动画](https://x.com/AmirMushich/status/2121982602122760352)** — 展示用 Claude Opus 5.5 和 Claude Code 在 Blender 里多次修改做出物体动画，并公开可替换物体的提示词。  
+  @AmirMushich · 2026-11-15
+- **[用Blender MCP做车站动画](https://x.com/hayashimon1/status/2121943011525624151)** — 分享用 Blender MCP 和 Fable 5.2 生成古旧车站月台15秒动画，建模渲染都由 AI 写程序完成，不是直接视频生成。  
+  @hayashimon1 · 2026-11-15
+- **[Hydrogen做出写实美女视频](https://x.com/wanxubo/status/2121913332529844630)** — 展示用 Gemini 4 Hydrogen 生成的美女视频效果，并请读者评鉴质量。  
+  @wanxubo · 2026-11-15
 - **[Carbon火箭实测接近Opus水平](https://x.com/QQTeng/status/2120272759465156771)** — 作者用同一套火箭场景提示词对比 Gemini 4 Carbon High、Fable 5.2、Opus 5.5 和 GPT-6 Astra，Carbon 生成花了 35 分钟，效果已接近 Opus 5.5，而且 token 成本和耗时更低。  
   @QQTeng · 2026-11-11
 - **[澄清Fable白模与视频模型分工](https://x.com/Gorden_Sun/status/2120175259303502252)** — 作者澄清原视频上半段白模动画是 Fable 5.2 做的，下半段角色动画来自视频模型；他自己让 Fable 5.2 照做时，模型还自动调用了 Seedance 接口。  
@@ -156,8 +166,12 @@
 
 <a id="cat-1"></a>
 
-## 模型动态（44）
+## 模型动态（46）
 
+- **[DeepSeek限额伤到陪伴用户](https://x.com/Vincent_AINotes/status/2122188679728996491)** — 梳理 DeepSeek 网页和 App 限额后的用户反弹，指出限制也冲击了把 AI 当长期陪伴的人群。  
+  @Vincent\_AINotes · 2026-11-16
+- **[四款旗舰模型同提示词对比](https://x.com/jony_palino/status/2122072152686121146)** — 用同一提示词对比 Gemini 4 Krypton、Claude Fable 5.2、Claude Opus 5.5 和 DeepSeek V4.1 Flash 的生成效果。  
+  @jony\_palino · 2026-11-16
 - **[Carbon用时六七小时做出V8引擎](https://x.com/ai_for_success/status/2120317619588972867)** — 作者展示 Gemini 4 Carbon 在 Antigravity 里用 FreeCAD 和 Blender 做出发动机细节很丰富的 V8 引擎，连演示视频一共花了大约六到七个小时。  
   @ai\_for\_success · 2026-11-11
 - **[Carbon重建蜘蛛侠比Fable更细](https://x.com/aimlapi/status/2120248150011072742)** — 作者用同一段蜘蛛侠 PS5 过场，让 Gemini 4 Carbon 和 Fable 5.2 重建三维体素场景，Carbon 花了 30.95 美元，比 Fable 的 37.40 美元更便宜，城市细节也更丰富。  
@@ -249,8 +263,10 @@
 
 <a id="cat-2"></a>
 
-## 其他（29）
+## 其他（30）
 
+- **[吐槽大妈式解决问题](https://x.com/realNyarime/status/2122275752184012944)** — 用一组配图吐槽“大妈式解决问题”让人比分手还难受，偏轻松吐槽向。  
+  @realNyarime · 2026-11-16
 - **[称这张Qwen海报是国模最佳](https://x.com/quantum_soul1/status/2119063811093328347)** — 作者称赞通义千问这张海报是国产模型里做得最好的，并顺带教用户Qwen该怎么读。  
   @quantum\_soul1 · 2026-11-07
 - **[配图询问推友都在哪些区域](https://x.com/Qiyaqiyoo/status/2118612680923840887)** — 作者发了一张配图，调侃自己还在给房东打工，同时向推友打听现在大家都分布在哪些区域。  
@@ -312,8 +328,10 @@
 
 <a id="cat-3"></a>
 
-## Agent工具（24）
+## Agent工具（25）
 
+- **[新葡京Harness被称最佳](https://x.com/chunxiangai/status/2122275682407403768)** — 用短视频调侃“新葡京 Harness”是目前最好的 Agent Harness。  
+  @chunxiangai · 2026-11-16
 - **[五十万次判断做成去AI味Skill](https://x.com/lieflat_3/status/2118355780474937831)** — 作者对一百多项写作特征做了约五十万次语义判断，并把结果做成去AI味的Skill；称这是较少完整公开调试过程的评测实验，也欢迎讨论不足之处。  
   @lieflat\_3 · 2026-11-05
 - **[DeepSeek工作站可配七个工具](https://x.com/goan999999/status/2118241447166308813)** — 作者把DeepSeek Harness比作国产Codex替代，并整理了社区扩展出的七个工具，覆盖手机远程操控、B站学习和费用监控等。  
@@ -416,33 +434,43 @@
 
 <a id="cat-5"></a>
 
-## 开源项目（10）
+## 行业观察（13）
 
-- **[社区一周放出多个破甲开源项目](https://x.com/mingzi206/status/2119478638219555130)** — 作者整理了近期社区出现的多个开源破甲和绕过项目，覆盖自动提示词流水线、Harness解禁、拦截续跑和无审查接口等，并给出了仓库地址。  
-  @mingzi206 · 2026-11-09
-- **[Craft Anything一周破万星](https://x.com/yyyole/status/2118382578881470928)** — 开源项目Craft Anything上线不到一周就拿到约1.4万Star，可以把网站、App甚至游戏逆向分析后再用AI重建，并集成了大量分析和验证工具。  
-  @yyyole · 2026-11-06
-- **[rea-video能拆解爆款视频做法](https://x.com/grgerwcwetwet/status/2118308946259874095)** — 开源项目rea-video可以把视频逐镜头拆开，判断是实拍、AI还是代码渲染，并反推运镜、提示词和复刻方案，适合做短视频和AI广告的人研究。  
-  @grgerwcwetwet · 2026-11-05
-- **[开源了用手势控制的游戏工具包](https://x.com/MeticulAi/status/2117474458671689995)** — 作者开源了一套工具包：给AI一个链接，就能做出可用网络摄像头、用手势控制的小游戏，并展示了自己做的15个例子。  
-  @MeticulAi · 2026-11-03
-- **[开源项目能在光盘上刻出图片](https://x.com/Gorden_Sun/status/2117443166588854354)** — 作者介绍GitHub项目DiscImageStudio：在刻录光盘数据的同时，利用刻录轨道在盘面上画出可见图片。  
-  @Gorden\_Sun · 2026-11-03
-- **[花数月做的项目被免费开源了](https://x.com/servasyy_ai/status/2115367292200722674)** — 作者对有人把做了几个月的项目免费开源表示感谢，并给出GitHub仓库tongjiang-lab供继续研究。  
-  @servasyy\_ai · 2026-10-28
-- **[开源一套AI实时直播主播搭法](https://x.com/GaryAIytb/status/2112422551150620733)** — 作者发文称自己也搭了一套类似抖音上那种可实时互动的AI美女主播，并已开源；正文只有文章链接，细节需看原文。  
-  @GaryAIytb · 2026-10-20
-- **[开源手绘视频工具怎么装到Codex](https://x.com/leo_xiaolei/status/2109982650199060818)** — 刘老板介绍开源手绘视频工具sweety-handdraw-video，并写了在Codex中的安装与使用教程；正文只有文章链接。  
-  @leo\_xiaolei · 2026-10-13
-- **[月活百万的AIHOT正式开源](https://x.com/Khazix0918/status/2104729499070079003)** — 卡兹克把月活百万的AI热点站AIHOT正式开源，连采集、评分、聚簇和生产环境提示词能公开的都放了出来，希望其他人改成自己行业的版本。  
-  @Khazix0918 · 2026-09-29
-- **[开源工具可去掉AI图的暗水印](https://x.com/blocksboy/status/2063133258133745981)** — 作者介绍GitHub项目Remove-AI-Watermarks，称它能处理明水印和暗水印，用来解释为什么有些看起来没水印的AI图仍会被平台识别。  
-  @blocksboy · 2026-06-06
+- **[有人把DeepSeek当搭子？](https://x.com/QQTeng/status/2122314743407104239)** — 追问是否真有人把 DeepSeek 当聊天搭子，并配图调侃这种用法有多寂寞。  
+  @QQTeng · 2026-11-16
+- **[字节Seedance负责人年薪千万](https://x.com/zbc2008/status/2122272729886003690)** — 介绍字节 Seedance 负责人曾妍：97年、29岁、四年半职级、年薪千万，并感慨年轻人已上牌桌。  
+  @zbc2008 · 2026-11-16
+- **[为DeepSeek限额限制辩护](https://x.com/xulijian1994/status/2122262270818595322)** — 认为 DeepSeek 长期免费后只是限制额度却遭一星差评，提醒免费是善意不是义务，并指出本就有付费 API。  
+  @xulijian1994 · 2026-11-16
+- **[雇布隆迪真人防Claude封号](https://x.com/wellzhiai/status/2122022172604686619)** — 用段子调侃 Claude 防封号方案：去布隆迪雇真人开 Max 订阅，比折腾 VPS 还便宜。  
+  @wellzhiai · 2026-11-16
+- **[Mythos三天跑通AMD硬件](https://x.com/MarceloLima/status/2120295110093254832)** — 作者认为英伟达的 CUDA 护城河已经消失：Anthropic 把算力看成可互换资源，Mythos 只用三天就搞清楚如何在 AMD 硬件上运行自己。  
+  @MarceloLima · 2026-11-11
+- **[甲骨文取消对腾讯七十亿美元合作](https://x.com/ns123abc/status/2117857386610454950)** — 帖文称甲骨文刚刚取消了与腾讯价值70亿美元的AI合作，并认为这样的变化可能才刚刚开始。  
+  @ns123abc · 2026-11-04
+- **[红果短剧日活已超过爱优腾芒](https://x.com/moger2882/status/2117449543289868433)** — 作者列举红果短剧的数据：日活约1.68亿，已超过爱优腾芒四家之和，人均时长和收入也很高，播放榜前十全是AI漫剧，用来说明它对长视频市场的冲击。  
+  @moger2882 · 2026-11-03
+- **[Anthropic或为IPO择机发新模型](https://x.com/kimmonismus/status/2114451669811372151)** — 作者提醒Anthropic计划在11月9日前后IPO，因此很可能在当周发布Fable 5.5来抬估值，并认为OpenAI也可能跟进。  
+  @kimmonismus · 2026-10-26
+- **[Kimi宣发话术模板被公开](https://x.com/mylifcc/status/2113840258597142862)** — 作者称有博主拒绝Kimi宣发要求后，又因评论被要求删帖而把官方话术公开，内容包括把模型包装成更便宜的开源版Opus 5.5、以及中美差距只剩一个月等说法。  
+  @mylifcc · 2026-10-24
+- **[Fish Audio完成种子轮](https://x.com/FishAudio/status/2110038429199450126)** — Fish Audio宣布完成5200万美元种子轮，并发布开源权重的语音模型Drama 3，强调可以对单个词的语气和音色做更细的控制，现有超过1500万用户。  
+  @FishAudio · 2026-10-14
+- **[Agent正在变成电脑和手机的入口](https://x.com/lifesinger/status/2105072880702865643)** — 玉伯认为Claude、Grok Bot、Muse、Cue、Dots都是同一类通用Agent，电脑和手机正在变成它们的基础设施，Agent可能成为主要入口。  
+  @lifesinger · 2026-09-30
+- **[面向个人的Agent没有真正的垂类](https://x.com/lifesinger/status/2104915193155494259)** — 玉伯认为面向消费者的Agent只有通用路线、会像手机一样出现多种款式，面向企业的则更像卖电脑；在他看来同时做两边的Manus最像Agent时代的苹果。  
+  @lifesinger · 2026-09-29
+- **[上层Agent在变，沙箱需求一直在](https://x.com/zzxwill/status/2104784482704457784)** — 一位沙箱从业者回顾从浏览器多租户、代码执行到持久化沙箱的需求变化，认为无论上层Agent怎么换代，基础设施这把铲子都还在。  
+  @zzxwill · 2026-09-29
 
 <a id="cat-6"></a>
 
-## 提示词创作（10）
+## 提示词创作（12）
 
+- **[把项目做成CD安装盘配图](https://x.com/Stv_Lynn/status/2122201363325276337)** — 把开发项目画成复古 CD 安装盘风格配图，并附上可生成同款图片的 skill。  
+  @Stv\_Lynn · 2026-11-16
+- **[人物场景替换的视频提示词](https://x.com/0xmomonifty/status/2121960262177792437)** — 给出把动作参考视频中的人物换成角色图、并放入场景图的详细视频编辑提示词，也可交给智能体执行。  
+  @0xmomonifty · 2026-11-15
 - **[八维AI人像生图提示词框架](https://x.com/AYi_AInotes/status/2117508777062584363)** — 作者公开一套从气质、面料、微表情到镜头语言等八个维度约束AI人像的提示词框架，用来减少塑料感和假人味，并附了自己用Fable打磨过的示例。  
   @AYi\_AInotes · 2026-11-03
 - **[一套可直接套用的AI服装图库](https://x.com/giaaibusi/status/2115640177288937814)** — 作者公开了自己做的服装数据库，方便在提示词里直接指定换装，并指向了此前那条更详细的介绍帖。  
@@ -466,23 +494,25 @@
 
 <a id="cat-7"></a>
 
-## 行业观察（9）
+## 开源项目（10）
 
-- **[Mythos三天跑通AMD硬件](https://x.com/MarceloLima/status/2120295110093254832)** — 作者认为英伟达的 CUDA 护城河已经消失：Anthropic 把算力看成可互换资源，Mythos 只用三天就搞清楚如何在 AMD 硬件上运行自己。  
-  @MarceloLima · 2026-11-11
-- **[甲骨文取消对腾讯七十亿美元合作](https://x.com/ns123abc/status/2117857386610454950)** — 帖文称甲骨文刚刚取消了与腾讯价值70亿美元的AI合作，并认为这样的变化可能才刚刚开始。  
-  @ns123abc · 2026-11-04
-- **[红果短剧日活已超过爱优腾芒](https://x.com/moger2882/status/2117449543289868433)** — 作者列举红果短剧的数据：日活约1.68亿，已超过爱优腾芒四家之和，人均时长和收入也很高，播放榜前十全是AI漫剧，用来说明它对长视频市场的冲击。  
-  @moger2882 · 2026-11-03
-- **[Anthropic或为IPO择机发新模型](https://x.com/kimmonismus/status/2114451669811372151)** — 作者提醒Anthropic计划在11月9日前后IPO，因此很可能在当周发布Fable 5.5来抬估值，并认为OpenAI也可能跟进。  
-  @kimmonismus · 2026-10-26
-- **[Kimi宣发话术模板被公开](https://x.com/mylifcc/status/2113840258597142862)** — 作者称有博主拒绝Kimi宣发要求后，又因评论被要求删帖而把官方话术公开，内容包括把模型包装成更便宜的开源版Opus 5.5、以及中美差距只剩一个月等说法。  
-  @mylifcc · 2026-10-24
-- **[Fish Audio完成种子轮](https://x.com/FishAudio/status/2110038429199450126)** — Fish Audio宣布完成5200万美元种子轮，并发布开源权重的语音模型Drama 3，强调可以对单个词的语气和音色做更细的控制，现有超过1500万用户。  
-  @FishAudio · 2026-10-14
-- **[Agent正在变成电脑和手机的入口](https://x.com/lifesinger/status/2105072880702865643)** — 玉伯认为Claude、Grok Bot、Muse、Cue、Dots都是同一类通用Agent，电脑和手机正在变成它们的基础设施，Agent可能成为主要入口。  
-  @lifesinger · 2026-09-30
-- **[面向个人的Agent没有真正的垂类](https://x.com/lifesinger/status/2104915193155494259)** — 玉伯认为面向消费者的Agent只有通用路线、会像手机一样出现多种款式，面向企业的则更像卖电脑；在他看来同时做两边的Manus最像Agent时代的苹果。  
-  @lifesinger · 2026-09-29
-- **[上层Agent在变，沙箱需求一直在](https://x.com/zzxwill/status/2104784482704457784)** — 一位沙箱从业者回顾从浏览器多租户、代码执行到持久化沙箱的需求变化，认为无论上层Agent怎么换代，基础设施这把铲子都还在。  
-  @zzxwill · 2026-09-29
+- **[社区一周放出多个破甲开源项目](https://x.com/mingzi206/status/2119478638219555130)** — 作者整理了近期社区出现的多个开源破甲和绕过项目，覆盖自动提示词流水线、Harness解禁、拦截续跑和无审查接口等，并给出了仓库地址。  
+  @mingzi206 · 2026-11-09
+- **[Craft Anything一周破万星](https://x.com/yyyole/status/2118382578881470928)** — 开源项目Craft Anything上线不到一周就拿到约1.4万Star，可以把网站、App甚至游戏逆向分析后再用AI重建，并集成了大量分析和验证工具。  
+  @yyyole · 2026-11-06
+- **[rea-video能拆解爆款视频做法](https://x.com/grgerwcwetwet/status/2118308946259874095)** — 开源项目rea-video可以把视频逐镜头拆开，判断是实拍、AI还是代码渲染，并反推运镜、提示词和复刻方案，适合做短视频和AI广告的人研究。  
+  @grgerwcwetwet · 2026-11-05
+- **[开源了用手势控制的游戏工具包](https://x.com/MeticulAi/status/2117474458671689995)** — 作者开源了一套工具包：给AI一个链接，就能做出可用网络摄像头、用手势控制的小游戏，并展示了自己做的15个例子。  
+  @MeticulAi · 2026-11-03
+- **[开源项目能在光盘上刻出图片](https://x.com/Gorden_Sun/status/2117443166588854354)** — 作者介绍GitHub项目DiscImageStudio：在刻录光盘数据的同时，利用刻录轨道在盘面上画出可见图片。  
+  @Gorden\_Sun · 2026-11-03
+- **[花数月做的项目被免费开源了](https://x.com/servasyy_ai/status/2115367292200722674)** — 作者对有人把做了几个月的项目免费开源表示感谢，并给出GitHub仓库tongjiang-lab供继续研究。  
+  @servasyy\_ai · 2026-10-28
+- **[开源一套AI实时直播主播搭法](https://x.com/GaryAIytb/status/2112422551150620733)** — 作者发文称自己也搭了一套类似抖音上那种可实时互动的AI美女主播，并已开源；正文只有文章链接，细节需看原文。  
+  @GaryAIytb · 2026-10-20
+- **[开源手绘视频工具怎么装到Codex](https://x.com/leo_xiaolei/status/2109982650199060818)** — 刘老板介绍开源手绘视频工具sweety-handdraw-video，并写了在Codex中的安装与使用教程；正文只有文章链接。  
+  @leo\_xiaolei · 2026-10-13
+- **[月活百万的AIHOT正式开源](https://x.com/Khazix0918/status/2104729499070079003)** — 卡兹克把月活百万的AI热点站AIHOT正式开源，连采集、评分、聚簇和生产环境提示词能公开的都放了出来，希望其他人改成自己行业的版本。  
+  @Khazix0918 · 2026-09-29
+- **[开源工具可去掉AI图的暗水印](https://x.com/blocksboy/status/2063133258133745981)** — 作者介绍GitHub项目Remove-AI-Watermarks，称它能处理明水印和暗水印，用来解释为什么有些看起来没水印的AI图仍会被平台识别。  
+  @blocksboy · 2026-06-06

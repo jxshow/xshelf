@@ -2,25 +2,27 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **235** 条书签，最后更新：2026-11-18 09:20（Asia/Shanghai）
+共 **247** 条书签，最后更新：2026-11-19 09:22（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 73 条
-- [模型动态](#cat-1) — 47 条
-- [其他](#cat-2) — 30 条
+- [视频动效](#cat-0) — 74 条
+- [模型动态](#cat-1) — 52 条
+- [其他](#cat-2) — 31 条
 - [Agent工具](#cat-3) — 25 条
-- [起号变现](#cat-4) — 23 条
-- [行业观察](#cat-5) — 13 条
-- [开源项目](#cat-6) — 12 条
+- [起号变现](#cat-4) — 24 条
+- [行业观察](#cat-5) — 15 条
+- [开源项目](#cat-6) — 14 条
 - [提示词创作](#cat-7) — 12 条
 
 <a id="cat-0"></a>
 
-## 视频动效（73）
+## 视频动效（74）
 
+- **[太极拳白膜视频生成示范](https://x.com/JunjunAi123/status/2122692624062755202)** — 示范用垫白膜视频写提示词生成太极拳武术效果，对比生成结果与原白膜，并给出所用提示词。  
+  @JunjunAi123 · 2026-11-17
 - **[用Blender做动漫海洋](https://x.com/Visual_Salman/status/2122295240858177788)** — 作者展示用Blender 3D制作的动漫风格海洋动画，可作三维动效参考。  
   @Visual\_Salman · 2026-11-16
 - **[用Opus和Blender做咖啡动效](https://x.com/Toarukanshiin/status/2122163779471569261)** — 作者用Claude Opus 5.5和Blender做了一支15秒虚构咖啡定期购广告，表现选豆、焙煎、装箱到冲泡的流程。  
@@ -170,8 +172,18 @@
 
 <a id="cat-1"></a>
 
-## 模型动态（47）
+## 模型动态（52）
 
+- **[GPT-6.2 Astra升级值不值](https://x.com/JamesMalsawm/status/2122910168098730290)** — 作者称 GPT-6.2 Astra 比 GPT-6 Astra 提升很大，并对比 10/50 美元与 8/40 美元的定价，询问这次升级是否值得。  
+  @JamesMalsawm · 2026-11-18
+- **[Astra用SVG画出精细孔雀](https://x.com/QianRay_xiao/status/2122873940402163823)** — 作者展示用 GPT-6.2 Astra 生成的 SVG 孔雀，称羽毛、纹理和细节都非常精细，并配视频说明。  
+  @QianRay\_xiao · 2026-11-18
+- **[Astra与Fable做3D动画对比](https://x.com/AmirMushich/status/2122815524124152216)** — 作者用 GPT-6.2 Astra 和 Claude Fable 5.2 在同一台 RTX 4070 笔记本上为同一 3D 模型做 Blender 建模和动画，对比效果和费用，认为 Astra 更快更便宜，但二次迭代后动画反而变差。  
+  @AmirMushich · 2026-11-18
+- **[GPT-6.2 Astra和Sol上线](https://x.com/OpenAI/status/2122750124543926515)** — OpenAI 宣布 GPT-6.2 Astra 和 Sol 已上线，称其高效并面向真实世界场景，并附官方介绍链接。  
+  @OpenAI · 2026-11-18
+- **[中国三巨头模型已经迭代](https://x.com/Yuan8028/status/2122639483371991547)** — 作者配图感慨时代发展很快，称中国三巨头模型已经又完成一轮迭代。  
+  @Yuan8028 · 2026-11-17
 - **[Qwen 4 Max体素测试更便宜](https://x.com/aimlapi/status/2122194551938891902)** — 作者称Qwen 4 Max用3D体素复原玩具总动员场景，花费6.53美元，约为Opus 5.5的十一分之一，并称效果更好。  
   @aimlapi · 2026-11-16
 - **[DeepSeek限额伤到陪伴用户](https://x.com/Vincent_AINotes/status/2122188679728996491)** — 梳理 DeepSeek 网页和 App 限额后的用户反弹，指出限制也冲击了把 AI 当长期陪伴的人群。  
@@ -269,8 +281,10 @@
 
 <a id="cat-2"></a>
 
-## 其他（30）
+## 其他（31）
 
+- **[起大早赶晚集](https://x.com/Vindicatorn/status/2122582274910883996)** — 作者配图吐槽“起大早赶晚集”，文字很短，具体对象需看图。  
+  @Vindicatorn · 2026-11-17
 - **[吐槽大妈式解决问题](https://x.com/realNyarime/status/2122275752184012944)** — 用一组配图吐槽“大妈式解决问题”让人比分手还难受，偏轻松吐槽向。  
   @realNyarime · 2026-11-16
 - **[称这张Qwen海报是国模最佳](https://x.com/quantum_soul1/status/2119063811093328347)** — 作者称赞通义千问这张海报是国产模型里做得最好的，并顺带教用户Qwen该怎么读。  
@@ -389,8 +403,10 @@
 
 <a id="cat-4"></a>
 
-## 起号变现（23）
+## 起号变现（24）
 
+- **[如何自建多个高质量谷歌号](https://x.com/xiaoxiaodong/status/2122581321696641195)** — 分享自行注册和养护多个高质量 Gmail 账号的方法，强调做好安全验证、不买号，并称可用来开通 Claude 等服务。  
+  @xiaoxiaodong · 2026-11-17
 - **[闲鱼CAD接单一天就能回本](https://x.com/Leviwoyun/status/2118546148860526934)** — 作者说闲鱼和小红书上的CAD接单最近很火，社群里有朋友一天赚了两百多；方法是用GPT Plus和开源仓库Solidcraft让Codex出工程文件。  
   @Leviwoyun · 2026-11-06
 - **[虚拟大学人设账号如何涨流变现](https://x.com/mad_dogdebt/status/2116063844347130088)** — 作者拆解一个叫“汉江大学”的成人向AI Instagram账号：用虚构校园监控故事拉流，再导向角色聊天和订阅，并给出了粉丝和播放量等公开数据。  
@@ -440,8 +456,12 @@
 
 <a id="cat-5"></a>
 
-## 行业观察（13）
+## 行业观察（15）
 
+- **[Grok Bot这波有点帅](https://x.com/FinanceYF5/status/2122622794496188831)** — 用“每个车手都需要自己的团队”来夸 Grok Bot 这波表现，并配视频说明。  
+  @FinanceYF5 · 2026-11-17
+- **[DeepSeek被集美冲塔全过程](https://x.com/CyberKanjousen/status/2122613376455168258)** — 用配图梳理 DeepSeek 被集美冲塔事件的全过程，偏吐槽记录。  
+  @CyberKanjousen · 2026-11-17
 - **[有人把DeepSeek当搭子？](https://x.com/QQTeng/status/2122314743407104239)** — 追问是否真有人把 DeepSeek 当聊天搭子，并配图调侃这种用法有多寂寞。  
   @QQTeng · 2026-11-16
 - **[字节Seedance负责人年薪千万](https://x.com/zbc2008/status/2122272729886003690)** — 介绍字节 Seedance 负责人曾妍：97年、29岁、四年半职级、年薪千万，并感慨年轻人已上牌桌。  
@@ -471,8 +491,12 @@
 
 <a id="cat-6"></a>
 
-## 开源项目（12）
+## 开源项目（14）
 
+- **[美团开源数字人视频1.6](https://x.com/songguoxiansen/status/2122601486039560552)** — 美团开源 LongCat-Video-Avatar-1.6，改进唇形动画，可生成超过 10 分钟的视频并保持人物一致性，同时加快端到端推理。  
+  @songguoxiansen · 2026-11-17
+- **[开源GPT图像红包封面Skill](https://x.com/VaneAILab/status/2122600531369902123)** — 开源 GPT Image 2.6 红包封面 Skill，内置 36 种风格，可用自己的照片或宠物生成专属封面，并支持导出前预览。  
+  @VaneAILab · 2026-11-17
 - **[Claude视频剪辑14个开源工具](https://x.com/plusxbt/status/2122312123183235554)** — 盘点14个开源仓库和技能，让Claude Code在离线时也能完成剪辑、字幕、调色和渲染。  
   @plusxbt · 2026-11-16
 - **[开源麦田多平台运营工作台](https://x.com/czzzzzzJ_/status/2122266042491642027)** — 作者开源「麦田」工作台和发布助手，用于在七个平台分发内容、盯数据和复盘，并说明国内平台需手动点发布。  

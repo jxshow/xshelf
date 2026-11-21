@@ -2,25 +2,29 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **247** 条书签，最后更新：2026-11-19 09:22（Asia/Shanghai）
+共 **251** 条书签，最后更新：2026-11-21 09:10（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 74 条
-- [模型动态](#cat-1) — 52 条
+- [视频动效](#cat-0) — 76 条
+- [模型动态](#cat-1) — 53 条
 - [其他](#cat-2) — 31 条
 - [Agent工具](#cat-3) — 25 条
 - [起号变现](#cat-4) — 24 条
-- [行业观察](#cat-5) — 15 条
-- [开源项目](#cat-6) — 14 条
+- [开源项目](#cat-5) — 15 条
+- [行业观察](#cat-6) — 15 条
 - [提示词创作](#cat-7) — 12 条
 
 <a id="cat-0"></a>
 
-## 视频动效（74）
+## 视频动效（76）
 
+- **[首次用Neon三分钟出片](https://x.com/garrix_wong/status/2123372939005612425)** — 作者第一次用 Gemini 4 Neon 做视频，不到三分钟就出片，比自己还快，并配视频展示成片效果和效率。  
+  @garrix\_wong · 2026-11-19
+- **[AI动画卷到可卸载AE](https://x.com/Dav338876/status/2123314493874975190)** — 作者配视频惊叹 AI 动画已经卷到自己做不出来，甚至觉得 After Effects 可以卸载，并说明提示词在评论区。  
+  @Dav338876 · 2026-11-19
 - **[太极拳白膜视频生成示范](https://x.com/JunjunAi123/status/2122692624062755202)** — 示范用垫白膜视频写提示词生成太极拳武术效果，对比生成结果与原白膜，并给出所用提示词。  
   @JunjunAi123 · 2026-11-17
 - **[用Blender做动漫海洋](https://x.com/Visual_Salman/status/2122295240858177788)** — 作者展示用Blender 3D制作的动漫风格海洋动画，可作三维动效参考。  
@@ -172,8 +176,10 @@
 
 <a id="cat-1"></a>
 
-## 模型动态（52）
+## 模型动态（53）
 
+- **[Neon单图做出机械狗物理引擎](https://x.com/thebuggeddev/status/2123170821250400282)** — 作者只给 Gemini 4 Neon 一张带轨道炮的机器狗图片，就让它用 Three.js WebGPU 搭出含 240Hz 刚体物理、四腿力学和步态循环的生物力学引擎，并觉得比 Gemini 4 Carbon 更快。  
+  @thebuggeddev · 2026-11-19
 - **[GPT-6.2 Astra升级值不值](https://x.com/JamesMalsawm/status/2122910168098730290)** — 作者称 GPT-6.2 Astra 比 GPT-6 Astra 提升很大，并对比 10/50 美元与 8/40 美元的定价，询问这次升级是否值得。  
   @JamesMalsawm · 2026-11-18
 - **[Astra用SVG画出精细孔雀](https://x.com/QianRay_xiao/status/2122873940402163823)** — 作者展示用 GPT-6.2 Astra 生成的 SVG 孔雀，称羽毛、纹理和细节都非常精细，并配视频说明。  
@@ -456,6 +462,41 @@
 
 <a id="cat-5"></a>
 
+## 开源项目（15）
+
+- **[OpenMotion上线DeepSeek](https://x.com/tuturetom/status/2123367688655483114)** — 介绍 OpenMotion 开源插件已上线 DeepSeek Harness，可在 DeepSeek 里制作接近 Opus 5.5、Fable 5.2 和 Gemini 4 Neon 水平的动效视频，并内置 300 多个品牌模板和 152 种设计风格。  
+  @tuturetom · 2026-11-19
+- **[美团开源数字人视频1.6](https://x.com/songguoxiansen/status/2122601486039560552)** — 美团开源 LongCat-Video-Avatar-1.6，改进唇形动画，可生成超过 10 分钟的视频并保持人物一致性，同时加快端到端推理。  
+  @songguoxiansen · 2026-11-17
+- **[开源GPT图像红包封面Skill](https://x.com/VaneAILab/status/2122600531369902123)** — 开源 GPT Image 2.6 红包封面 Skill，内置 36 种风格，可用自己的照片或宠物生成专属封面，并支持导出前预览。  
+  @VaneAILab · 2026-11-17
+- **[Claude视频剪辑14个开源工具](https://x.com/plusxbt/status/2122312123183235554)** — 盘点14个开源仓库和技能，让Claude Code在离线时也能完成剪辑、字幕、调色和渲染。  
+  @plusxbt · 2026-11-16
+- **[开源麦田多平台运营工作台](https://x.com/czzzzzzJ_/status/2122266042491642027)** — 作者开源「麦田」工作台和发布助手，用于在七个平台分发内容、盯数据和复盘，并说明国内平台需手动点发布。  
+  @czzzzzzJ\_ · 2026-11-16
+- **[社区一周放出多个破甲开源项目](https://x.com/mingzi206/status/2119478638219555130)** — 作者整理了近期社区出现的多个开源破甲和绕过项目，覆盖自动提示词流水线、Harness解禁、拦截续跑和无审查接口等，并给出了仓库地址。  
+  @mingzi206 · 2026-11-09
+- **[Craft Anything一周破万星](https://x.com/yyyole/status/2118382578881470928)** — 开源项目Craft Anything上线不到一周就拿到约1.4万Star，可以把网站、App甚至游戏逆向分析后再用AI重建，并集成了大量分析和验证工具。  
+  @yyyole · 2026-11-06
+- **[rea-video能拆解爆款视频做法](https://x.com/grgerwcwetwet/status/2118308946259874095)** — 开源项目rea-video可以把视频逐镜头拆开，判断是实拍、AI还是代码渲染，并反推运镜、提示词和复刻方案，适合做短视频和AI广告的人研究。  
+  @grgerwcwetwet · 2026-11-05
+- **[开源了用手势控制的游戏工具包](https://x.com/MeticulAi/status/2117474458671689995)** — 作者开源了一套工具包：给AI一个链接，就能做出可用网络摄像头、用手势控制的小游戏，并展示了自己做的15个例子。  
+  @MeticulAi · 2026-11-03
+- **[开源项目能在光盘上刻出图片](https://x.com/Gorden_Sun/status/2117443166588854354)** — 作者介绍GitHub项目DiscImageStudio：在刻录光盘数据的同时，利用刻录轨道在盘面上画出可见图片。  
+  @Gorden\_Sun · 2026-11-03
+- **[花数月做的项目被免费开源了](https://x.com/servasyy_ai/status/2115367292200722674)** — 作者对有人把做了几个月的项目免费开源表示感谢，并给出GitHub仓库tongjiang-lab供继续研究。  
+  @servasyy\_ai · 2026-10-28
+- **[开源一套AI实时直播主播搭法](https://x.com/GaryAIytb/status/2112422551150620733)** — 作者发文称自己也搭了一套类似抖音上那种可实时互动的AI美女主播，并已开源；正文只有文章链接，细节需看原文。  
+  @GaryAIytb · 2026-10-20
+- **[开源手绘视频工具怎么装到Codex](https://x.com/leo_xiaolei/status/2109982650199060818)** — 刘老板介绍开源手绘视频工具sweety-handdraw-video，并写了在Codex中的安装与使用教程；正文只有文章链接。  
+  @leo\_xiaolei · 2026-10-13
+- **[月活百万的AIHOT正式开源](https://x.com/Khazix0918/status/2104729499070079003)** — 卡兹克把月活百万的AI热点站AIHOT正式开源，连采集、评分、聚簇和生产环境提示词能公开的都放了出来，希望其他人改成自己行业的版本。  
+  @Khazix0918 · 2026-09-29
+- **[开源工具可去掉AI图的暗水印](https://x.com/blocksboy/status/2063133258133745981)** — 作者介绍GitHub项目Remove-AI-Watermarks，称它能处理明水印和暗水印，用来解释为什么有些看起来没水印的AI图仍会被平台识别。  
+  @blocksboy · 2026-06-06
+
+<a id="cat-6"></a>
+
 ## 行业观察（15）
 
 - **[Grok Bot这波有点帅](https://x.com/FinanceYF5/status/2122622794496188831)** — 用“每个车手都需要自己的团队”来夸 Grok Bot 这波表现，并配视频说明。  
@@ -488,39 +529,6 @@
   @lifesinger · 2026-09-29
 - **[上层Agent在变，沙箱需求一直在](https://x.com/zzxwill/status/2104784482704457784)** — 一位沙箱从业者回顾从浏览器多租户、代码执行到持久化沙箱的需求变化，认为无论上层Agent怎么换代，基础设施这把铲子都还在。  
   @zzxwill · 2026-09-29
-
-<a id="cat-6"></a>
-
-## 开源项目（14）
-
-- **[美团开源数字人视频1.6](https://x.com/songguoxiansen/status/2122601486039560552)** — 美团开源 LongCat-Video-Avatar-1.6，改进唇形动画，可生成超过 10 分钟的视频并保持人物一致性，同时加快端到端推理。  
-  @songguoxiansen · 2026-11-17
-- **[开源GPT图像红包封面Skill](https://x.com/VaneAILab/status/2122600531369902123)** — 开源 GPT Image 2.6 红包封面 Skill，内置 36 种风格，可用自己的照片或宠物生成专属封面，并支持导出前预览。  
-  @VaneAILab · 2026-11-17
-- **[Claude视频剪辑14个开源工具](https://x.com/plusxbt/status/2122312123183235554)** — 盘点14个开源仓库和技能，让Claude Code在离线时也能完成剪辑、字幕、调色和渲染。  
-  @plusxbt · 2026-11-16
-- **[开源麦田多平台运营工作台](https://x.com/czzzzzzJ_/status/2122266042491642027)** — 作者开源「麦田」工作台和发布助手，用于在七个平台分发内容、盯数据和复盘，并说明国内平台需手动点发布。  
-  @czzzzzzJ\_ · 2026-11-16
-- **[社区一周放出多个破甲开源项目](https://x.com/mingzi206/status/2119478638219555130)** — 作者整理了近期社区出现的多个开源破甲和绕过项目，覆盖自动提示词流水线、Harness解禁、拦截续跑和无审查接口等，并给出了仓库地址。  
-  @mingzi206 · 2026-11-09
-- **[Craft Anything一周破万星](https://x.com/yyyole/status/2118382578881470928)** — 开源项目Craft Anything上线不到一周就拿到约1.4万Star，可以把网站、App甚至游戏逆向分析后再用AI重建，并集成了大量分析和验证工具。  
-  @yyyole · 2026-11-06
-- **[rea-video能拆解爆款视频做法](https://x.com/grgerwcwetwet/status/2118308946259874095)** — 开源项目rea-video可以把视频逐镜头拆开，判断是实拍、AI还是代码渲染，并反推运镜、提示词和复刻方案，适合做短视频和AI广告的人研究。  
-  @grgerwcwetwet · 2026-11-05
-- **[开源了用手势控制的游戏工具包](https://x.com/MeticulAi/status/2117474458671689995)** — 作者开源了一套工具包：给AI一个链接，就能做出可用网络摄像头、用手势控制的小游戏，并展示了自己做的15个例子。  
-  @MeticulAi · 2026-11-03
-- **[开源项目能在光盘上刻出图片](https://x.com/Gorden_Sun/status/2117443166588854354)** — 作者介绍GitHub项目DiscImageStudio：在刻录光盘数据的同时，利用刻录轨道在盘面上画出可见图片。  
-  @Gorden\_Sun · 2026-11-03
-- **[花数月做的项目被免费开源了](https://x.com/servasyy_ai/status/2115367292200722674)** — 作者对有人把做了几个月的项目免费开源表示感谢，并给出GitHub仓库tongjiang-lab供继续研究。  
-  @servasyy\_ai · 2026-10-28
-- **[开源一套AI实时直播主播搭法](https://x.com/GaryAIytb/status/2112422551150620733)** — 作者发文称自己也搭了一套类似抖音上那种可实时互动的AI美女主播，并已开源；正文只有文章链接，细节需看原文。  
-  @GaryAIytb · 2026-10-20
-- **[开源手绘视频工具怎么装到Codex](https://x.com/leo_xiaolei/status/2109982650199060818)** — 刘老板介绍开源手绘视频工具sweety-handdraw-video，并写了在Codex中的安装与使用教程；正文只有文章链接。  
-  @leo\_xiaolei · 2026-10-13
-- **[月活百万的AIHOT正式开源](https://x.com/Khazix0918/status/2104729499070079003)** — 卡兹克把月活百万的AI热点站AIHOT正式开源，连采集、评分、聚簇和生产环境提示词能公开的都放了出来，希望其他人改成自己行业的版本。  
-  @Khazix0918 · 2026-09-29
-- **[开源工具可去掉AI图的暗水印](https://x.com/blocksboy/status/2063133258133745981)** — 作者介绍GitHub项目Remove-AI-Watermarks，称它能处理明水印和暗水印，用来解释为什么有些看起来没水印的AI图仍会被平台识别。  
-  @blocksboy · 2026-06-06
 
 <a id="cat-7"></a>
 

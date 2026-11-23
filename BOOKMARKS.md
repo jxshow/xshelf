@@ -2,25 +2,27 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **251** 条书签，最后更新：2026-11-21 09:10（Asia/Shanghai）
+共 **254** 条书签，最后更新：2026-11-23 09:08（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 76 条
+- [视频动效](#cat-0) — 77 条
 - [模型动态](#cat-1) — 53 条
 - [其他](#cat-2) — 31 条
-- [Agent工具](#cat-3) — 25 条
+- [Agent工具](#cat-3) — 26 条
 - [起号变现](#cat-4) — 24 条
-- [开源项目](#cat-5) — 15 条
-- [行业观察](#cat-6) — 15 条
+- [行业观察](#cat-5) — 16 条
+- [开源项目](#cat-6) — 15 条
 - [提示词创作](#cat-7) — 12 条
 
 <a id="cat-0"></a>
 
-## 视频动效（76）
+## 视频动效（77）
 
+- **[用Antigravity一站式出视频](https://x.com/kodama_aiojisan/status/2124344622327689338)** — 作者在 Antigravity 里用 Colab 跑完 Blender 渲染，再用 gemini-omni-1.2-flash 生成视频，并配视频展示整套流程可以在同一环境里做完。  
+  @kodama\_aiojisan · 2026-11-22
 - **[首次用Neon三分钟出片](https://x.com/garrix_wong/status/2123372939005612425)** — 作者第一次用 Gemini 4 Neon 做视频，不到三分钟就出片，比自己还快，并配视频展示成片效果和效率。  
   @garrix\_wong · 2026-11-19
 - **[AI动画卷到可卸载AE](https://x.com/Dav338876/status/2123314493874975190)** — 作者配视频惊叹 AI 动画已经卷到自己做不出来，甚至觉得 After Effects 可以卸载，并说明提示词在评论区。  
@@ -354,7 +356,7 @@
 
 <a id="cat-3"></a>
 
-## Agent工具（25）
+## Agent工具（26）
 
 - **[新葡京Harness被称最佳](https://x.com/chunxiangai/status/2122275682407403768)** — 用短视频调侃“新葡京 Harness”是目前最好的 Agent Harness。  
   @chunxiangai · 2026-11-16
@@ -370,6 +372,8 @@
   @wifshn142298 · 2026-11-03
 - **[给Harness装上AI资讯产品](https://x.com/long_jingai/status/2117582813742629361)** — 作者装上DeepSeek Harness后，第一时间接入乔木的AI资讯产品，用来集中阅读国内外高质量信息，并建议先跟可信博主的关注列表筛选内容。  
   @long\_jingai · 2026-11-03
+- **[高强度用Codex的两个大坑](https://x.com/NIxinhai0/status/2117106676381958456)** — 作者提醒长期高强度使用 Codex 容易遇到两个问题：日志文件不断膨胀占满硬盘，以及因没读到本机代理而一直显示重新连接；并给出可直接交给 Codex 执行的检测、清理和修复提示词。  
+  @NIxinhai0 · 2026-11-02
 - **[开源技能集让Agent操控Blender](https://x.com/0xluffy_eth/status/2115392388546068780)** — 海外作者开源了一套94项Blender技能，能让Claude Code、Cursor等智能体直接建模、做材质和导出，还可用导演技能把流程自动串起来。  
   @0xluffy\_eth · 2026-10-28
 - **[把长文做成专业图表的Skill](https://x.com/wanerfu/status/2115302801148727583)** — 作者推荐开源Skill diagram-design，能把长文、流程和关系做成专业图表，并列举了配文插图、PPT、知识梳理和汇报等常见用法。  
@@ -462,6 +466,43 @@
 
 <a id="cat-5"></a>
 
+## 行业观察（16）
+
+- **[DeepSeek开源对比Claude限制](https://x.com/Web3Feng/status/2124179786880971042)** — 作者配图把 DeepSeek 标成“专制”、Claude 标成“民主”：一边是开放权重、MIT 协议和可本地部署，另一边是闭源、账号和地区限制，用反差讨论开放与限制。  
+  @Web3Feng · 2026-11-22
+- **[Grok Bot这波有点帅](https://x.com/FinanceYF5/status/2122622794496188831)** — 用“每个车手都需要自己的团队”来夸 Grok Bot 这波表现，并配视频说明。  
+  @FinanceYF5 · 2026-11-17
+- **[DeepSeek被集美冲塔全过程](https://x.com/CyberKanjousen/status/2122613376455168258)** — 用配图梳理 DeepSeek 被集美冲塔事件的全过程，偏吐槽记录。  
+  @CyberKanjousen · 2026-11-17
+- **[有人把DeepSeek当搭子？](https://x.com/QQTeng/status/2122314743407104239)** — 追问是否真有人把 DeepSeek 当聊天搭子，并配图调侃这种用法有多寂寞。  
+  @QQTeng · 2026-11-16
+- **[字节Seedance负责人年薪千万](https://x.com/zbc2008/status/2122272729886003690)** — 介绍字节 Seedance 负责人曾妍：97年、29岁、四年半职级、年薪千万，并感慨年轻人已上牌桌。  
+  @zbc2008 · 2026-11-16
+- **[为DeepSeek限额限制辩护](https://x.com/xulijian1994/status/2122262270818595322)** — 认为 DeepSeek 长期免费后只是限制额度却遭一星差评，提醒免费是善意不是义务，并指出本就有付费 API。  
+  @xulijian1994 · 2026-11-16
+- **[雇布隆迪真人防Claude封号](https://x.com/wellzhiai/status/2122022172604686619)** — 用段子调侃 Claude 防封号方案：去布隆迪雇真人开 Max 订阅，比折腾 VPS 还便宜。  
+  @wellzhiai · 2026-11-16
+- **[Mythos三天跑通AMD硬件](https://x.com/MarceloLima/status/2120295110093254832)** — 作者认为英伟达的 CUDA 护城河已经消失：Anthropic 把算力看成可互换资源，Mythos 只用三天就搞清楚如何在 AMD 硬件上运行自己。  
+  @MarceloLima · 2026-11-11
+- **[甲骨文取消对腾讯七十亿美元合作](https://x.com/ns123abc/status/2117857386610454950)** — 帖文称甲骨文刚刚取消了与腾讯价值70亿美元的AI合作，并认为这样的变化可能才刚刚开始。  
+  @ns123abc · 2026-11-04
+- **[红果短剧日活已超过爱优腾芒](https://x.com/moger2882/status/2117449543289868433)** — 作者列举红果短剧的数据：日活约1.68亿，已超过爱优腾芒四家之和，人均时长和收入也很高，播放榜前十全是AI漫剧，用来说明它对长视频市场的冲击。  
+  @moger2882 · 2026-11-03
+- **[Anthropic或为IPO择机发新模型](https://x.com/kimmonismus/status/2114451669811372151)** — 作者提醒Anthropic计划在11月9日前后IPO，因此很可能在当周发布Fable 5.5来抬估值，并认为OpenAI也可能跟进。  
+  @kimmonismus · 2026-10-26
+- **[Kimi宣发话术模板被公开](https://x.com/mylifcc/status/2113840258597142862)** — 作者称有博主拒绝Kimi宣发要求后，又因评论被要求删帖而把官方话术公开，内容包括把模型包装成更便宜的开源版Opus 5.5、以及中美差距只剩一个月等说法。  
+  @mylifcc · 2026-10-24
+- **[Fish Audio完成种子轮](https://x.com/FishAudio/status/2110038429199450126)** — Fish Audio宣布完成5200万美元种子轮，并发布开源权重的语音模型Drama 3，强调可以对单个词的语气和音色做更细的控制，现有超过1500万用户。  
+  @FishAudio · 2026-10-14
+- **[Agent正在变成电脑和手机的入口](https://x.com/lifesinger/status/2105072880702865643)** — 玉伯认为Claude、Grok Bot、Muse、Cue、Dots都是同一类通用Agent，电脑和手机正在变成它们的基础设施，Agent可能成为主要入口。  
+  @lifesinger · 2026-09-30
+- **[面向个人的Agent没有真正的垂类](https://x.com/lifesinger/status/2104915193155494259)** — 玉伯认为面向消费者的Agent只有通用路线、会像手机一样出现多种款式，面向企业的则更像卖电脑；在他看来同时做两边的Manus最像Agent时代的苹果。  
+  @lifesinger · 2026-09-29
+- **[上层Agent在变，沙箱需求一直在](https://x.com/zzxwill/status/2104784482704457784)** — 一位沙箱从业者回顾从浏览器多租户、代码执行到持久化沙箱的需求变化，认为无论上层Agent怎么换代，基础设施这把铲子都还在。  
+  @zzxwill · 2026-09-29
+
+<a id="cat-6"></a>
+
 ## 开源项目（15）
 
 - **[OpenMotion上线DeepSeek](https://x.com/tuturetom/status/2123367688655483114)** — 介绍 OpenMotion 开源插件已上线 DeepSeek Harness，可在 DeepSeek 里制作接近 Opus 5.5、Fable 5.2 和 Gemini 4 Neon 水平的动效视频，并内置 300 多个品牌模板和 152 种设计风格。  
@@ -494,41 +535,6 @@
   @Khazix0918 · 2026-09-29
 - **[开源工具可去掉AI图的暗水印](https://x.com/blocksboy/status/2063133258133745981)** — 作者介绍GitHub项目Remove-AI-Watermarks，称它能处理明水印和暗水印，用来解释为什么有些看起来没水印的AI图仍会被平台识别。  
   @blocksboy · 2026-06-06
-
-<a id="cat-6"></a>
-
-## 行业观察（15）
-
-- **[Grok Bot这波有点帅](https://x.com/FinanceYF5/status/2122622794496188831)** — 用“每个车手都需要自己的团队”来夸 Grok Bot 这波表现，并配视频说明。  
-  @FinanceYF5 · 2026-11-17
-- **[DeepSeek被集美冲塔全过程](https://x.com/CyberKanjousen/status/2122613376455168258)** — 用配图梳理 DeepSeek 被集美冲塔事件的全过程，偏吐槽记录。  
-  @CyberKanjousen · 2026-11-17
-- **[有人把DeepSeek当搭子？](https://x.com/QQTeng/status/2122314743407104239)** — 追问是否真有人把 DeepSeek 当聊天搭子，并配图调侃这种用法有多寂寞。  
-  @QQTeng · 2026-11-16
-- **[字节Seedance负责人年薪千万](https://x.com/zbc2008/status/2122272729886003690)** — 介绍字节 Seedance 负责人曾妍：97年、29岁、四年半职级、年薪千万，并感慨年轻人已上牌桌。  
-  @zbc2008 · 2026-11-16
-- **[为DeepSeek限额限制辩护](https://x.com/xulijian1994/status/2122262270818595322)** — 认为 DeepSeek 长期免费后只是限制额度却遭一星差评，提醒免费是善意不是义务，并指出本就有付费 API。  
-  @xulijian1994 · 2026-11-16
-- **[雇布隆迪真人防Claude封号](https://x.com/wellzhiai/status/2122022172604686619)** — 用段子调侃 Claude 防封号方案：去布隆迪雇真人开 Max 订阅，比折腾 VPS 还便宜。  
-  @wellzhiai · 2026-11-16
-- **[Mythos三天跑通AMD硬件](https://x.com/MarceloLima/status/2120295110093254832)** — 作者认为英伟达的 CUDA 护城河已经消失：Anthropic 把算力看成可互换资源，Mythos 只用三天就搞清楚如何在 AMD 硬件上运行自己。  
-  @MarceloLima · 2026-11-11
-- **[甲骨文取消对腾讯七十亿美元合作](https://x.com/ns123abc/status/2117857386610454950)** — 帖文称甲骨文刚刚取消了与腾讯价值70亿美元的AI合作，并认为这样的变化可能才刚刚开始。  
-  @ns123abc · 2026-11-04
-- **[红果短剧日活已超过爱优腾芒](https://x.com/moger2882/status/2117449543289868433)** — 作者列举红果短剧的数据：日活约1.68亿，已超过爱优腾芒四家之和，人均时长和收入也很高，播放榜前十全是AI漫剧，用来说明它对长视频市场的冲击。  
-  @moger2882 · 2026-11-03
-- **[Anthropic或为IPO择机发新模型](https://x.com/kimmonismus/status/2114451669811372151)** — 作者提醒Anthropic计划在11月9日前后IPO，因此很可能在当周发布Fable 5.5来抬估值，并认为OpenAI也可能跟进。  
-  @kimmonismus · 2026-10-26
-- **[Kimi宣发话术模板被公开](https://x.com/mylifcc/status/2113840258597142862)** — 作者称有博主拒绝Kimi宣发要求后，又因评论被要求删帖而把官方话术公开，内容包括把模型包装成更便宜的开源版Opus 5.5、以及中美差距只剩一个月等说法。  
-  @mylifcc · 2026-10-24
-- **[Fish Audio完成种子轮](https://x.com/FishAudio/status/2110038429199450126)** — Fish Audio宣布完成5200万美元种子轮，并发布开源权重的语音模型Drama 3，强调可以对单个词的语气和音色做更细的控制，现有超过1500万用户。  
-  @FishAudio · 2026-10-14
-- **[Agent正在变成电脑和手机的入口](https://x.com/lifesinger/status/2105072880702865643)** — 玉伯认为Claude、Grok Bot、Muse、Cue、Dots都是同一类通用Agent，电脑和手机正在变成它们的基础设施，Agent可能成为主要入口。  
-  @lifesinger · 2026-09-30
-- **[面向个人的Agent没有真正的垂类](https://x.com/lifesinger/status/2104915193155494259)** — 玉伯认为面向消费者的Agent只有通用路线、会像手机一样出现多种款式，面向企业的则更像卖电脑；在他看来同时做两边的Manus最像Agent时代的苹果。  
-  @lifesinger · 2026-09-29
-- **[上层Agent在变，沙箱需求一直在](https://x.com/zzxwill/status/2104784482704457784)** — 一位沙箱从业者回顾从浏览器多租户、代码执行到持久化沙箱的需求变化，认为无论上层Agent怎么换代，基础设施这把铲子都还在。  
-  @zzxwill · 2026-09-29
 
 <a id="cat-7"></a>
 

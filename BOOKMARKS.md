@@ -2,25 +2,31 @@
 
 在线浏览（分类筛选、全文搜索）：**https://jxshow.github.io/xshelf/**
 
-共 **257** 条书签，最后更新：2026-11-24 09:07（Asia/Shanghai）
+共 **271** 条书签，最后更新：2026-11-25 09:14（Asia/Shanghai）
 
 这个文件由 `scripts/gen_list.py` 生成，不要手改。
 
 ## 目录
 
-- [视频动效](#cat-0) — 77 条
-- [模型动态](#cat-1) — 53 条
-- [其他](#cat-2) — 31 条
-- [Agent工具](#cat-3) — 26 条
-- [起号变现](#cat-4) — 24 条
-- [行业观察](#cat-5) — 19 条
-- [开源项目](#cat-6) — 15 条
-- [提示词创作](#cat-7) — 12 条
+- [视频动效](#cat-0) — 80 条
+- [模型动态](#cat-1) — 54 条
+- [其他](#cat-2) — 32 条
+- [Agent工具](#cat-3) — 28 条
+- [起号变现](#cat-4) — 27 条
+- [行业观察](#cat-5) — 20 条
+- [开源项目](#cat-6) — 17 条
+- [提示词创作](#cat-7) — 13 条
 
 <a id="cat-0"></a>
 
-## 视频动效（77）
+## 视频动效（80）
 
+- **[代码实现时之笛纸艺动画](https://x.com/Densitylucky/status/2124840250346553642)** — 用纯代码在浏览器里做出《塞尔达：时之笛》立体纸艺动画，纸张切边和景深都实时计算，整套玩法已开源成通用 Skill。  
+  @Densitylucky · 2026-11-23
+- **[Astra做出童话感三维交互场景](https://x.com/FinanceYF5/status/2124761775585505695)** — John Lindquist 用 Astra 配合 SVG 与 3D Design Skill，做出可在浏览器里直接体验的童话场景，鸟飞、船漂、人物行走都有细腻动画。  
+  @FinanceYF5 · 2026-11-23
+- **[顶级UI微交互动效合集第四期](https://x.com/guanmo_ai/status/2124714808779972850)** — 分享第四期 UI 微交互动效合集，包含纸飞机、滑动确认、下载环、清单勾选等，展示缓动轨迹和动态隐喻。  
+  @guanmo\_ai · 2026-11-23
 - **[用Antigravity一站式出视频](https://x.com/kodama_aiojisan/status/2124344622327689338)** — 作者在 Antigravity 里用 Colab 跑完 Blender 渲染，再用 gemini-omni-1.2-flash 生成视频，并配视频展示整套流程可以在同一环境里做完。  
   @kodama\_aiojisan · 2026-11-22
 - **[首次用Neon三分钟出片](https://x.com/garrix_wong/status/2123372939005612425)** — 作者第一次用 Gemini 4 Neon 做视频，不到三分钟就出片，比自己还快，并配视频展示成片效果和效率。  
@@ -178,8 +184,10 @@
 
 <a id="cat-1"></a>
 
-## 模型动态（53）
+## 模型动态（54）
 
+- **[Astra六小时搭出3D机器人城](https://x.com/FinanceYF5/status/2124742017267691984)** — Anshu 用 28 个 Astra 子 Agent 在 6 小时内从零搭出一座可探索的机器人城市，作者认为 Astra 6.2 在 3D 建模和游戏开发上被低估。  
+  @FinanceYF5 · 2026-11-23
 - **[Neon单图做出机械狗物理引擎](https://x.com/thebuggeddev/status/2123170821250400282)** — 作者只给 Gemini 4 Neon 一张带轨道炮的机器狗图片，就让它用 Three.js WebGPU 搭出含 240Hz 刚体物理、四腿力学和步态循环的生物力学引擎，并觉得比 Gemini 4 Carbon 更快。  
   @thebuggeddev · 2026-11-19
 - **[GPT-6.2 Astra升级值不值](https://x.com/JamesMalsawm/status/2122910168098730290)** — 作者称 GPT-6.2 Astra 比 GPT-6 Astra 提升很大，并对比 10/50 美元与 8/40 美元的定价，询问这次升级是否值得。  
@@ -289,8 +297,10 @@
 
 <a id="cat-2"></a>
 
-## 其他（31）
+## 其他（32）
 
+- **[作者尝试新的画面风格](https://x.com/Rainandust/status/2125106463127535791)** — 作者分享一次新的画面风格尝试，帖内主要是图片，没有更多文字说明。  
+  @Rainandust · 2026-11-24
 - **[起大早赶晚集](https://x.com/Vindicatorn/status/2122582274910883996)** — 作者配图吐槽“起大早赶晚集”，文字很短，具体对象需看图。  
   @Vindicatorn · 2026-11-17
 - **[吐槽大妈式解决问题](https://x.com/realNyarime/status/2122275752184012944)** — 用一组配图吐槽“大妈式解决问题”让人比分手还难受，偏轻松吐槽向。  
@@ -356,7 +366,7 @@
 
 <a id="cat-3"></a>
 
-## Agent工具（26）
+## Agent工具（28）
 
 - **[新葡京Harness被称最佳](https://x.com/chunxiangai/status/2122275682407403768)** — 用短视频调侃“新葡京 Harness”是目前最好的 Agent Harness。  
   @chunxiangai · 2026-11-16
@@ -366,8 +376,12 @@
   @goan999999 · 2026-11-05
 - **[受卡兹克启发做了任务可视化](https://x.com/RowanHFinch/status/2118233631005266285)** — 作者受卡兹克的流水线可视化启发，也做了一个展示页面，并表示设计和完成度还有差距，会继续迭代。  
   @RowanHFinch · 2026-11-05
+- **[VibeCoding做出第一个3D游戏](https://x.com/lxfater/status/2118173426980720665)** — 铁锤人用 Kimi K3.1 与 DeepSeek，按玩法拆解、模型精修、动作反馈和宣传片四步，四天做出一款可玩的 3D 钓鱼游戏，并写出完整流程。  
+  @lxfater · 2026-11-05
 - **[五款适合Grok Bot的创作工具](https://x.com/cheery9998/status/2117874793949327360)** — 作者整理了五个适合搭配Grok Bot做自媒体的第三方MCP和Skill，覆盖热点监控、知乎检索、公众号写作、剪映草稿和账号复盘，并提醒注意权限和风控。  
   @cheery9998 · 2026-11-04
+- **[用Grok Bot从零开发上线网站](https://x.com/KinGao476942/status/2117853896580456514)** — Kin 以 AI 视频站为例，公开用 Grok Bot 在手机上完成调研、开发、测试、上线和支付接入的全流程及提示词。  
+  @KinGao476942 · 2026-11-04
 - **[Codex可装的八个视觉审美Skill](https://x.com/wifshn142298/status/2117601565725090235)** — 作者盘点了八个可在Codex上即装即用的视觉类Skill，覆盖数学动画、页面搭建、动效、矢量、图表和修图等方向，并建议按项目需要选用。  
   @wifshn142298 · 2026-11-03
 - **[给Harness装上AI资讯产品](https://x.com/long_jingai/status/2117582813742629361)** — 作者装上DeepSeek Harness后，第一时间接入乔木的AI资讯产品，用来集中阅读国内外高质量信息，并建议先跟可信博主的关注列表筛选内容。  
@@ -413,8 +427,12 @@
 
 <a id="cat-4"></a>
 
-## 起号变现（24）
+## 起号变现（27）
 
+- **[字节Xpert数据标注兼职平台](https://x.com/siantgirl/status/2124509161639788720)** — 介绍字节跳动 Xpert 社区的数据标注兼职，工作是给 AI 出题和批改打分，要求本科学历认证，时薪约 60 到 600 元。  
+  @siantgirl · 2026-11-22
+- **[用Grok Bot搭建X运营工作流](https://x.com/Alan_AIGlobal/status/2123831156823236951)** — 作者分享如何用 Grok Bot 整理关注候选和互动原帖、结合 Notion 做 X 运营选题，并提醒评论不要直接套用 AI 生成的话。  
+  @Alan\_AIGlobal · 2026-11-21
 - **[如何自建多个高质量谷歌号](https://x.com/xiaoxiaodong/status/2122581321696641195)** — 分享自行注册和养护多个高质量 Gmail 账号的方法，强调做好安全验证、不买号，并称可用来开通 Claude 等服务。  
   @xiaoxiaodong · 2026-11-17
 - **[闲鱼CAD接单一天就能回本](https://x.com/Leviwoyun/status/2118546148860526934)** — 作者说闲鱼和小红书上的CAD接单最近很火，社群里有朋友一天赚了两百多；方法是用GPT Plus和开源仓库Solidcraft让Codex出工程文件。  
@@ -463,11 +481,15 @@
   @shanyanggm · 2026-09-30
 - **[实景加AI视频在评论区精准获客](https://x.com/xiangxiang103/status/2100607739630326238)** — 作者分享一套获客思路：到足浴、KTV、台球厅现场取景，再用AI生成带店铺标识的实景视频，经翻拍后发到自媒体评论区找客户。  
   @xiangxiang103 · 2026-09-17
+- **[AI Web出海单月四万美元复盘](https://x.com/AI_Jasonyu/status/2033335447896957264)** — 鱼总评述一位圈友做 AI Web 出海单月收入 4 万美元的复盘，归纳出先行动试错、用一句话验需求、先做 MVP 并冲破首单的方法。  
+  @AI\_Jasonyu · 2026-03-16
 
 <a id="cat-5"></a>
 
-## 行业观察（19）
+## 行业观察（20）
 
+- **[Shikhar加入fal任创意工程师](https://x.com/xikhar/status/2124960045544927524)** — 作者宣布自己加入 fal，担任创意工程师一职。  
+  @xikhar · 2026-11-24
 - **[外媒传Qwen团队大规模离职](https://x.com/xingzengji/status/2124707258760306865)** — 作者质疑并转发外媒关于阿里 Qwen 团队正在发生大规模人员离职的传闻，并配上相关截图。  
   @xingzengji · 2026-11-23
 - **[AI创始人六维替身对比图](https://x.com/jgy1472631/status/2124501786333679663)** — 作者把各 AI 公司创始人画成替身使者，配上身后的 AI 娘，以及资金、算力、科研、数据、生态、开放六维面板，邀请读者比较谁更强。  
@@ -509,10 +531,14 @@
 
 <a id="cat-6"></a>
 
-## 开源项目（15）
+## 开源项目（17）
 
+- **[14个免费仓库搭运动设计工作室](https://x.com/okapi_fukugyo/status/2125013131554660780)** — 作者整理 anime.js、Three.js、Remotion、Blender 等 14 个免费仓库，称配合 Muse 就能覆盖动画、3D、AI 视频和声音，无需订阅 After Effects。  
+  @okapi\_fukugyo · 2026-11-24
 - **[OpenMotion上线DeepSeek](https://x.com/tuturetom/status/2123367688655483114)** — 介绍 OpenMotion 开源插件已上线 DeepSeek Harness，可在 DeepSeek 里制作接近 Opus 5.5、Fable 5.2 和 Gemini 4 Neon 水平的动效视频，并内置 300 多个品牌模板和 152 种设计风格。  
   @tuturetom · 2026-11-19
+- **[开源定格动画lemo-animi](https://x.com/lemomo_ai/status/2123038832815907084)** — 开源 Skill lemo-animi 可让 Codex 或 Claude 根据一句话自动完成故事、分镜、生图、逐格动画、配乐拟音和审片，并提供八种材质风格样片。  
+  @lemomo\_ai · 2026-11-18
 - **[美团开源数字人视频1.6](https://x.com/songguoxiansen/status/2122601486039560552)** — 美团开源 LongCat-Video-Avatar-1.6，改进唇形动画，可生成超过 10 分钟的视频并保持人物一致性，同时加快端到端推理。  
   @songguoxiansen · 2026-11-17
 - **[开源GPT图像红包封面Skill](https://x.com/VaneAILab/status/2122600531369902123)** — 开源 GPT Image 2.6 红包封面 Skill，内置 36 种风格，可用自己的照片或宠物生成专属封面，并支持导出前预览。  
@@ -544,8 +570,10 @@
 
 <a id="cat-7"></a>
 
-## 提示词创作（12）
+## 提示词创作（13）
 
+- **[三个动效网站与提示词库](https://x.com/viktoroddy/status/2124906320424014310)** — 推荐 motionsites.ai 上的 900 多条 3D/滚动网站提示词、700 多个动态背景，以及可把整个库接到 Claude Code 的入口。  
+  @viktoroddy · 2026-11-24
 - **[把项目做成CD安装盘配图](https://x.com/Stv_Lynn/status/2122201363325276337)** — 把开发项目画成复古 CD 安装盘风格配图，并附上可生成同款图片的 skill。  
   @Stv\_Lynn · 2026-11-16
 - **[人物场景替换的视频提示词](https://x.com/0xmomonifty/status/2121960262177792437)** — 给出把动作参考视频中的人物换成角色图、并放入场景图的详细视频编辑提示词，也可交给智能体执行。  
